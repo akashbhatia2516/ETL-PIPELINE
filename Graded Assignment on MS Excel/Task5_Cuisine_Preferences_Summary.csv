@@ -1,0 +1,3025 @@
+City,Cuisines,Total_Restaurants,Average_Rating,Total_Votes
+Abu Dhabi,American,2,4.6,583
+Abu Dhabi,"American, Desserts",1,4.6,586
+Abu Dhabi,"American, Mexican, Seafood",1,4.0,205
+Abu Dhabi,Asian,1,4.6,81
+Abu Dhabi,Chinese,1,4.2,435
+Abu Dhabi,"Fast Food, Burger",1,4.2,228
+Abu Dhabi,"Filipino, Japanese, Asian",1,4.5,162
+Abu Dhabi,Indian,2,4.5,381
+Abu Dhabi,"Indian, North Indian",1,4.9,216
+Abu Dhabi,"Indian, North Indian, Chinese",1,4.0,525
+Abu Dhabi,"Indian, North Indian, Mughlai, Biryani",1,4.0,355
+Abu Dhabi,"Indian, South Indian",1,3.6,268
+Abu Dhabi,"Italian, Pizza",2,4.25,893
+Abu Dhabi,"Lebanese, Arabian, Middle Eastern",1,4.0,380
+Abu Dhabi,"Pakistani, Afghani, Indian, Hyderabadi",1,4.0,277
+Abu Dhabi,"Thai, Japanese, Chinese, Indonesian, Vietnamese",1,4.4,246
+Abu Dhabi,"Turkish, Arabian, Middle Eastern",1,4.3,224
+Agra,"Cafe, Italian, Mexican, North Indian, Continental",1,3.9,98
+Agra,"Cafe, North Indian, Chinese",1,4.9,77
+Agra,"Chinese, Italian, Continental, North Indian",1,4.2,166
+Agra,"Italian, Pizza",1,4.4,134
+Agra,Mughlai,1,4.0,41
+Agra,North Indian,1,3.6,94
+Agra,"North Indian, Chinese, Continental",2,3.8499999999999996,160
+Agra,"North Indian, Chinese, Continental, Mughlai",1,3.4,70
+Agra,"North Indian, Chinese, Mughlai",1,4.2,177
+Agra,"North Indian, European",1,4.0,45
+Agra,"North Indian, Fast Food",1,4.1,168
+Agra,"North Indian, Mughlai",5,3.84,565
+Agra,Rajasthani,1,4.0,87
+Agra,"Rajasthani, Gujarati, Mughlai",1,3.6,59
+Agra,"South Indian, Desserts",1,4.1,121
+Ahmedabad,"Cafe, American, Continental, Armenian, Fast Food",1,3.9,166
+Ahmedabad,"Cafe, Beverages, Desserts, Pizza",1,4.0,404
+Ahmedabad,"Cafe, Continental, Desserts",1,4.4,944
+Ahmedabad,"Cafe, Italian",1,4.4,317
+Ahmedabad,"Chinese, Italian, North Indian, Mexican, Mediterranean, Thai",1,4.2,1582
+Ahmedabad,Continental,1,4.0,535
+Ahmedabad,"Continental, Chinese, North Indian",1,3.7,1315
+Ahmedabad,"Continental, Italian, Chinese",1,4.1,1041
+Ahmedabad,"Desserts, Ice Cream",1,4.6,166
+Ahmedabad,"Fast Food, Street Food, South Indian",1,4.4,697
+Ahmedabad,"Ice Cream, Desserts, Continental",1,4.5,217
+Ahmedabad,"Italian, Fast Food",1,4.3,744
+Ahmedabad,"North Indian, Cafe, Italian, Mexican, Continental",1,3.8,63
+Ahmedabad,"North Indian, Chinese, Continental",1,4.3,325
+Ahmedabad,"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",1,3.8,432
+Ahmedabad,"North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",1,4.5,1138
+Ahmedabad,"North Indian, Continental, Mexican, Italian",1,4.1,769
+Ahmedabad,"North Indian, Italian, Asian, South Indian",1,4.1,192
+Ahmedabad,"North Indian, South Indian, Asian, Continental",1,3.6,375
+Ahmedabad,"Pizza, Italian",1,4.4,113
+Ahmedabad,"Pizza, Italian, Beverages, Desserts",1,4.3,731
+Albany,"American, BBQ",1,3.3,25
+Albany,"American, Breakfast, Diner",1,3.4,20
+Albany,"American, Burger, Sandwich",1,3.5,57
+Albany,"American, Steak",1,3.5,58
+Albany,"Asian, Chinese, Vegetarian",1,3.9,141
+Albany,"BBQ, Burger, Seafood",1,3.3,35
+Albany,Chinese,1,3.8,153
+Albany,"Chinese, Seafood, Vegetarian",1,3.6,88
+Albany,"Coffee and Tea, Sandwich",1,3.4,26
+Albany,Fast Food,1,3.5,67
+Albany,"Italian, Pizza",1,3.7,117
+Albany,"Japanese, Steak, Sushi",2,3.55,166
+Albany,Mexican,1,3.4,45
+Albany,"Pizza, Bar Food, Sandwich",1,3.7,147
+Albany,"Seafood, Tapas, Bar Food",1,3.8,250
+Albany,"Steak, Tapas, Bar Food",1,3.5,51
+Allahabad,"American, Fast Food",1,3.4,58
+Allahabad,"Cafe, Fast Food",1,3.3,76
+Allahabad,"Continental, Italian",1,3.6,59
+Allahabad,"Desserts, Fast Food",1,3.6,57
+Allahabad,Fast Food,1,3.3,53
+Allahabad,"Fast Food, American, Salad, Healthy Food",1,3.4,32
+Allahabad,"Italian, Pizza",1,3.4,35
+Allahabad,"Mughlai, North Indian, Chinese",1,3.3,58
+Allahabad,North Indian,1,3.7,105
+Allahabad,"North Indian, Chinese",3,3.3333333333333335,333
+Allahabad,"North Indian, Chinese, Italian",1,3.3,49
+Allahabad,"North Indian, Fast Food",1,3.5,105
+Allahabad,"North Indian, Mughlai",1,3.2,6
+Allahabad,"North Indian, South Indian, Chinese",1,3.4,18
+Allahabad,"North Indian, South Indian, Fast Food",1,3.4,57
+Allahabad,"North Indian, Street Food, Fast Food",1,3.2,51
+Allahabad,"South Indian, Chinese",1,3.4,106
+Allahabad,"South Indian, North Indian, Chinese, Continental",1,3.5,134
+Amritsar,Beverages,1,4.0,52
+Amritsar,"Cafe, Bakery, Fast Food",1,3.4,26
+Amritsar,Fast Food,1,4.1,140
+Amritsar,"Fast Food, Italian",1,3.5,111
+Amritsar,Mithai,1,4.1,104
+Amritsar,North Indian,7,3.7714285714285714,1755
+Amritsar,"North Indian, Chinese",2,3.5,396
+Amritsar,"North Indian, Fast Food",2,3.6,555
+Amritsar,"North Indian, Mughlai",1,3.4,122
+Amritsar,"North Indian, Mughlai, Chinese",1,3.4,98
+Amritsar,"North Indian, South Indian, Chinese, Fast Food",1,3.4,44
+Amritsar,"North Indian, Street Food",1,3.9,206
+Amritsar,Street Food,1,3.6,56
+Ankara,Cafe,3,4.066666666666666,336
+Ankara,"Cafe, Desserts",1,4.3,126
+Ankara,Kebab,2,4.55,355
+Ankara,"Kebab, Desserts, Turkish Pizza",2,4.300000000000001,283
+Ankara,"Kebab, Izgara",1,4.4,296
+Ankara,"Kebab, Turkish Pizza",4,4.325,530
+Ankara,"Kebab, Turkish Pizza, Dí_ner",1,4.4,72
+Ankara,"Patisserie, Coffee and Tea",1,3.4,115
+Ankara,Pizza,1,4.7,104
+Ankara,Steak,1,4.1,97
+Ankara,Turkish Pizza,1,4.3,103
+Ankara,World Cuisine,1,4.9,95
+Ankara,"World Cuisine, Mexican, Italian",1,4.4,115
+Armidale,"Bar Food, Steak",1,3.5,25
+Athens,American,1,4.3,755
+Athens,"American, Burger, Sandwich",1,4.2,613
+Athens,"American, Italian, Pizza",2,4.05,740
+Athens,"American, Southern, Southwestern",1,4.5,1821
+Athens,"Asian, Japanese, Sushi",1,4.2,550
+Athens,Bar Food,1,4.4,546
+Athens,"Breakfast, Burger, Sandwich",1,3.7,289
+Athens,"Breakfast, Sandwich",1,4.3,558
+Athens,"Burger, Bar Food",1,4.2,579
+Athens,"Desserts, Latin American, Argentine",1,4.1,374
+Athens,"International, Southern",1,4.1,465
+Athens,"International, Southern, Vegetarian",1,4.2,800
+Athens,Italian,1,4.1,464
+Athens,"Italian, Pizza, Sandwich",1,4.4,1098
+Athens,"Japanese, Korean",1,3.9,439
+Athens,Mexican,1,4.6,917
+Athens,"Mexican, Spanish",1,4.1,543
+Athens,Sandwich,1,4.1,350
+Athens,Southern,1,4.5,849
+Auckland,American,1,4.1,431
+Auckland,"Asian Fusion, Cafe",1,4.2,61
+Auckland,"Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai",1,3.5,86
+Auckland,"Asian, Sushi, Seafood",1,4.5,166
+Auckland,Cafe,2,4.25,244
+Auckland,"Cafe, American",1,4.6,696
+Auckland,"Cafe, European",1,4.0,381
+Auckland,Chinese,1,4.3,212
+Auckland,Desserts,2,4.9,1035
+Auckland,European,2,3.5,814
+Auckland,"Ice Cream, Desserts",1,4.7,617
+Auckland,Italian,1,4.6,413
+Auckland,"Kiwi, European",1,4.2,271
+Auckland,Malaysian,1,4.0,414
+Auckland,"Seafood, Kiwi",1,4.8,598
+Auckland,"Taiwanese, Street Food",1,4.4,223
+Auckland,Thai,1,4.3,133
+Augusta,American,1,4.3,368
+Augusta,"American, Burger",1,3.9,201
+Augusta,"American, Caribbean, Seafood",1,4.9,548
+Augusta,BBQ,1,3.5,304
+Augusta,"Bar Food, Sandwich, Seafood",1,4.0,456
+Augusta,"Breakfast, French",1,3.8,332
+Augusta,"Burger, Seafood",1,4.0,326
+Augusta,"Chinese, Steak",1,4.6,717
+Augusta,"Desserts, Italian, Pizza",1,4.1,430
+Augusta,"Desserts, Sandwich, Southern",1,3.9,372
+Augusta,German,1,3.9,290
+Augusta,Indian,1,4.0,227
+Augusta,"International, Tapas, Vegetarian",1,4.5,631
+Augusta,"Italian, Pizza, Sandwich",1,4.4,433
+Augusta,Mexican,2,4.1,680
+Augusta,"Mexican, Southwestern, Sushi",1,4.2,647
+Augusta,Steak,1,4.0,360
+Augusta,Thai,1,4.3,317
+Augusta,Vietnamese,1,4.1,270
+Aurangabad,"Cafe, Mughlai, North Indian",1,3.2,8
+Aurangabad,"Continental, Chinese, Biryani, North Indian",1,3.6,73
+Aurangabad,"Italian, Continental, Chinese, North Indian",1,3.3,65
+Aurangabad,"Italian, Fast Food, North Indian, Chinese",1,3.3,47
+Aurangabad,"Juices, Desserts",1,3.5,21
+Aurangabad,Maharashtrian,1,3.4,34
+Aurangabad,Mughlai,1,3.4,39
+Aurangabad,"Mughlai, Biryani",1,3.3,45
+Aurangabad,North Indian,2,3.55,160
+Aurangabad,"North Indian, Chinese",1,3.3,63
+Aurangabad,"North Indian, Chinese, Continental, Italian",1,3.6,240
+Aurangabad,"North Indian, Chinese, Continental, Italian, Mexican",1,3.4,94
+Aurangabad,"North Indian, Chinese, South Indian, Fast Food",1,3.3,76
+Aurangabad,"North Indian, Hyderabadi",1,3.3,71
+Aurangabad,"North Indian, Mughlai",1,3.3,74
+Aurangabad,"North Indian, South Indian",1,3.4,46
+Aurangabad,Pizza,1,3.1,19
+Aurangabad,"South Indian, Chinese, North Indian",1,3.3,46
+Aurangabad,"South Indian, North Indian, Chinese, Fast Food",1,3.4,75
+Balingup,Modern Australian,1,3.2,21
+Bandung,"Cafe, Coffee and Tea, Western",1,4.2,22
+Bangalore,"American, Burger, Cafe",1,4.7,9667
+Bangalore,Asian,1,4.7,2369
+Bangalore,"Asian, Mediterranean, North Indian",1,4.4,983
+Bangalore,"Bakery, Desserts, Cafe",1,4.0,3533
+Bangalore,Continental,1,4.2,334
+Bangalore,"Continental, American",1,4.5,1288
+Bangalore,"Continental, American, Italian, North Indian, Chinese, Cafe",1,4.7,276
+Bangalore,"Continental, Italian, North Indian",1,3.9,405
+Bangalore,"European, Continental",1,3.9,1354
+Bangalore,"European, Mediterranean, North Indian",1,4.6,6907
+Bangalore,"Finger Food, North Indian, Italian, Continental, Thai, South Indian",1,4.5,5705
+Bangalore,"Italian, American, Pizza",1,4.8,10934
+Bangalore,Modern Indian,2,4.300000000000001,985
+Bangalore,"North Indian, Chinese, Italian, Street Food, Desserts",1,4.3,753
+Bangalore,"North Indian, European, Mediterranean",1,4.1,5385
+Bangalore,"North Indian, Mughlai",1,4.1,2416
+Bangalore,"Pizza, Cafe, Italian",3,4.5,2821
+Beechworth,"Pizza, Bar Food",1,4.6,237
+Bhopal,Bakery,1,3.8,33
+Bhopal,Cafe,1,3.4,63
+Bhopal,"Cafe, Chinese, North Indian",1,3.3,51
+Bhopal,"Cafe, Fast Food",1,3.8,98
+Bhopal,Chinese,1,4.0,103
+Bhopal,Fast Food,4,4.375,873
+Bhopal,"Fast Food, Mexican, Tex-Mex",1,3.6,20
+Bhopal,"Italian, Mexican, Chinese",1,3.8,79
+Bhopal,North Indian,1,4.3,128
+Bhopal,"North Indian, Chinese",2,3.95,383
+Bhopal,"North Indian, Chinese, South Indian, Fast Food",1,3.5,175
+Bhopal,"North Indian, South Indian, Street Food, Bakery",2,4.25,481
+Bhopal,Pizza,1,4.1,118
+Bhopal,"Pizza, Italian, Fast Food",1,3.6,111
+Bhopal,South Indian,1,3.9,161
+Bhubaneshwar,"Asian, Continental",1,3.5,89
+Bhubaneshwar,Cafe,2,3.95,486
+Bhubaneshwar,"Cafe, Charcoal Grill, Steak",1,4.5,145
+Bhubaneshwar,"Cafe, Chinese, Fast Food, Seafood",1,3.8,253
+Bhubaneshwar,"Cafe, Italian, Mexican, Bakery",1,4.1,256
+Bhubaneshwar,"Cafe, Tea",1,3.8,56
+Bhubaneshwar,Chinese,3,4.133333333333333,869
+Bhubaneshwar,"Chinese, North Indian",1,4.2,49
+Bhubaneshwar,"Chinese, North Indian, Cafe",1,3.7,338
+Bhubaneshwar,"Fast Food, North Indian, Chinese",1,3.9,247
+Bhubaneshwar,"Italian, Cafe, Chinese, Continental",1,4.3,69
+Bhubaneshwar,"Mediterranean, Asian, Continental, North Indian, Arabian",1,4.6,154
+Bhubaneshwar,"Mughlai, Chinese, North Indian",1,3.7,228
+Bhubaneshwar,"North Indian, Asian, European",1,3.7,118
+Bhubaneshwar,"North Indian, Chinese",1,3.6,173
+Bhubaneshwar,"North Indian, Chinese, Continental",1,4.0,90
+Bhubaneshwar,"North Indian, Chinese, Mexican, Beverages",1,3.8,424
+Bhubaneshwar,"North Indian, Rajasthani",1,4.1,199
+Birmingham,British,1,4.2,55
+Birmingham,"British, Cafe",1,3.8,38
+Birmingham,"British, Steak",1,4.0,133
+Birmingham,"Burger, American",1,3.7,21
+Birmingham,"Cafe, British",1,3.7,13
+Birmingham,Contemporary,1,4.5,265
+Birmingham,Fast Food,1,2.8,26
+Birmingham,"Greek, Mediterranean, Middle Eastern",1,0.0,3
+Birmingham,"Ice Cream, Desserts, Cafe",1,3.1,11
+Birmingham,Indian,1,4.1,213
+Birmingham,"Indian, Pakistani",1,4.0,63
+Birmingham,"Indian, South Indian",1,3.8,55
+Birmingham,Italian,2,4.05,201
+Birmingham,Latin American,1,4.6,100
+Birmingham,"Latin American, Italian",1,4.0,40
+Birmingham,Mexican,1,4.0,93
+Birmingham,"Pakistani, Indian",1,3.7,32
+Birmingham,Thai,1,3.9,22
+Birmingham,Turkish,1,3.6,9
+Bogor,"Cafe, Desserts, Beverages",1,3.7,783
+Bogor,"Peranakan, Indonesian",1,4.0,1159
+Boise,American,1,4.4,487
+Boise,"American, BBQ, Steak",1,4.0,369
+Boise,"American, Bar Food",2,4.4,1434
+Boise,"American, Burger",2,4.4,1473
+Boise,"American, Burger, Sandwich",1,4.2,334
+Boise,"American, Seafood, Steak",1,3.9,379
+Boise,Brazilian,1,4.0,435
+Boise,Breakfast,1,4.3,422
+Boise,"Breakfast, Sandwich",1,4.5,879
+Boise,"European, Spanish",1,4.3,303
+Boise,"Italian, Pizza",1,4.6,615
+Boise,"Italian, Seafood, Vegetarian",1,4.4,360
+Boise,"Japanese, Sushi, Teriyaki",1,4.1,393
+Boise,"Latin American, Steak",1,4.1,538
+Boise,Mexican,1,4.4,660
+Boise,Pizza,2,4.199999999999999,960
+Boise,"Sushi, Thai",1,4.0,340
+Brasí_lia,"American, Burger",1,3.6,9
+Brasí_lia,"American, Grill",1,4.0,10
+Brasí_lia,Arabian,1,3.7,8
+Brasí_lia,Bakery,1,3.7,11
+Brasí_lia,"Bar Food, Brazilian",1,3.6,9
+Brasí_lia,Brazilian,1,3.8,11
+Brasí_lia,"Brazilian, Cafe",1,0.0,2
+Brasí_lia,Cafe,1,3.8,9
+Brasí_lia,"Fast Food, French",1,3.0,6
+Brasí_lia,International,2,4.550000000000001,47
+Brasí_lia,Italian,2,3.6999999999999997,20
+Brasí_lia,Japanese,2,3.4000000000000004,15
+Brasí_lia,"Mexican, Grill",1,4.3,29
+Brasí_lia,"Peruvian, Latin American",1,3.6,5
+Brasí_lia,Pizza,2,3.1500000000000004,20
+Brasí_lia,Seafood,1,3.2,6
+Cape Town,"Burger, American",1,4.4,281
+Cape Town,"Burger, American, Grill",1,4.1,298
+Cape Town,"Burger, Fast Food, Grill",1,3.6,131
+Cape Town,Cafe,1,4.4,514
+Cape Town,"Cafe, Bakery",1,4.2,266
+Cape Town,"Cafe, Bakery, Tea, Vegetarian",1,4.0,185
+Cape Town,"Cafe, Burger",1,4.8,319
+Cape Town,"Cafe, Mediterranean",1,4.1,374
+Cape Town,"Cafe, Patisserie",1,4.1,88
+Cape Town,"Cafe, Patisserie, Bakery, Desserts",1,4.4,157
+Cape Town,"Desserts, Ice Cream",1,4.5,328
+Cape Town,"Japanese, Asian, Seafood, Sushi",1,4.0,110
+Cape Town,"Japanese, Sushi, Asian",1,3.9,239
+Cape Town,Mediterranean,1,4.5,356
+Cape Town,"Pizza, Grill",1,3.7,22
+Cape Town,"Seafood, African, Sushi",1,3.8,280
+Cape Town,"Seafood, Asian, Grill, Sushi",1,3.8,619
+Cape Town,"Seafood, Japanese, Sushi",1,4.4,466
+Cape Town,"Spanish, Tapas",1,3.7,255
+Cape Town,Sushi,1,3.8,127
+Cedar Rapids/Iowa City,"American, BBQ, Burger",1,4.4,430
+Cedar Rapids/Iowa City,"American, Breakfast",1,4.1,294
+Cedar Rapids/Iowa City,"American, Breakfast, Burger",2,4.3,917
+Cedar Rapids/Iowa City,"American, International, Sushi",1,3.8,220
+Cedar Rapids/Iowa City,"American, Italian, Pizza",1,3.8,161
+Cedar Rapids/Iowa City,"American, Mediterranean, Seafood",1,3.7,98
+Cedar Rapids/Iowa City,BBQ,1,4.2,259
+Cedar Rapids/Iowa City,"Breakfast, Diner",1,3.6,253
+Cedar Rapids/Iowa City,Burger,1,4.9,820
+Cedar Rapids/Iowa City,Chinese,1,4.2,347
+Cedar Rapids/Iowa City,"Chinese, Sushi, Thai",1,4.2,220
+Cedar Rapids/Iowa City,Indian,2,4.15,346
+Cedar Rapids/Iowa City,International,1,4.3,428
+Cedar Rapids/Iowa City,"Italian, Pizza",1,4.1,365
+Cedar Rapids/Iowa City,"Mediterranean, Tapas, Vegetarian",1,4.0,380
+Cedar Rapids/Iowa City,Mexican,1,4.1,190
+Cedar Rapids/Iowa City,Pizza,1,4.3,485
+Cedar Rapids/Iowa City,"Pizza, Sandwich",1,4.7,433
+Chandigarh,"American, Cafe",1,4.2,676
+Chandigarh,"American, Tex-Mex",1,4.3,228
+Chandigarh,"Bakery, Desserts, Cafe",1,4.1,698
+Chandigarh,"Burger, Fast Food",1,4.5,249
+Chandigarh,"Burger, Fast Food, Desserts, Beverages",1,4.0,265
+Chandigarh,"Cafe, Bakery",1,4.1,397
+Chandigarh,"Continental, Italian, Thai, Finger Food",1,4.0,428
+Chandigarh,"Desserts, American",1,4.0,356
+Chandigarh,Italian,1,4.4,817
+Chandigarh,"Japanese, Chinese, Thai, Malaysian, Burmese, Asian",1,4.1,300
+Chandigarh,"Mexican, American, Italian",1,4.3,970
+Chandigarh,"Mexican, Fast Food",1,4.2,252
+Chandigarh,"Mughlai, North Indian",1,3.3,86
+Chandigarh,North Indian,1,3.8,982
+Chandigarh,"North Indian, Chinese",1,4.5,1450
+Chandigarh,"North Indian, Chinese, Continental, Italian, Burger",1,3.4,502
+Chandigarh,"North Indian, Chinese, Continental, Pizza",1,3.7,665
+Chandigarh,"North Indian, Continental, Asian",1,4.0,1022
+Chatham-Kent,"Japanese, Sushi",1,3.7,176
+Chennai,"Biryani, North Indian",1,3.8,1317
+Chennai,"Cafe, Continental",1,4.1,1004
+Chennai,"Cafe, European",1,4.2,191
+Chennai,"Continental, Cafe, Italian, Desserts",1,4.4,1504
+Chennai,"Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean",1,4.5,1210
+Chennai,"European, Cafe, Italian",1,4.3,1607
+Chennai,"European, Italian, Desserts",1,4.2,1810
+Chennai,Italian,1,4.6,1510
+Chennai,"Italian, Mexican, Chinese, Thai, North Indian",1,4.0,1820
+Chennai,"Mexican, American, Tex-Mex, Burger",1,4.8,1262
+Chennai,North Indian,1,4.6,1753
+Chennai,"North Indian, Chinese",1,4.0,2272
+Chennai,"North Indian, Chinese, Arabian",1,3.8,519
+Chennai,"North Indian, Continental",1,4.4,3848
+Chennai,"North Indian, European, Mediterranean",1,4.9,859
+Chennai,"North Indian, Mediterranean, Asian, Arabian",1,4.6,1267
+Chennai,"North Indian, Mughlai, Chinese, South Indian",3,4.3,2228
+Chennai,"South Indian, Chettinad",1,4.2,1714
+Clatskanie,"American, Breakfast, Desserts",1,4.3,96
+Cochrane,"Asian, Japanese",1,3.1,6
+Coimbatore,"Bakery, Desserts",1,4.9,200
+Coimbatore,Cafe,1,3.8,124
+Coimbatore,"Cafe, Continental, Fast Food",1,4.6,202
+Coimbatore,"Cafe, Fast Food",1,4.0,132
+Coimbatore,Chinese,1,4.1,243
+Coimbatore,"Continental, Chinese, Thai, Malaysian, North Indian",1,3.8,221
+Coimbatore,"Continental, Fast Food, Desserts, Indian",1,3.8,24
+Coimbatore,"Desserts, Ice Cream",1,4.3,161
+Coimbatore,Fast Food,1,4.3,147
+Coimbatore,"Italian, North Indian, Desserts",1,4.0,215
+Coimbatore,"North Indian, Biryani",1,4.2,299
+Coimbatore,"North Indian, Chinese, Italian, Mexican",1,4.0,203
+Coimbatore,"North Indian, Chinese, Street Food",1,4.2,221
+Coimbatore,"North Indian, Continental",1,3.9,85
+Coimbatore,"North Indian, European, Mediterranean",1,4.4,505
+Coimbatore,"Parsi, North Indian",1,4.2,40
+Coimbatore,Pizza,1,3.5,274
+Coimbatore,"South Indian, Biryani",1,4.5,380
+Coimbatore,"South Indian, Chettinad, North Indian",1,3.9,318
+Coimbatore,"South Indian, North Indian, Chinese",1,4.3,225
+Colombo,"American, Chinese, North Indian",1,2.5,93
+Colombo,"American, Fast Food, Steak, Beverages",1,4.2,286
+Colombo,"American, Steak",1,4.0,166
+Colombo,"Cafe, Fast Food, Beverages",1,3.8,81
+Colombo,"Cafe, Italian",1,3.6,83
+Colombo,"Cafe, Sri Lankan, Continental, American",1,4.0,209
+Colombo,Chinese,1,3.4,118
+Colombo,"Continental, American",1,4.1,58
+Colombo,"Continental, American, Seafood",1,4.2,171
+Colombo,"Desserts, Bakery",1,4.2,49
+Colombo,"Desserts, Ice Cream",1,4.1,122
+Colombo,Fast Food,1,4.1,199
+Colombo,"Italian, Cafe, Desserts",1,3.7,157
+Colombo,"Juices, Desserts",1,4.5,146
+Colombo,"Malaysian, North Indian, Sri Lankan",1,3.5,80
+Colombo,"Middle Eastern, Arabian",1,4.2,158
+Colombo,"North Indian, Chinese, Sri Lankan",1,2.4,240
+Colombo,Seafood,1,4.9,203
+Colombo,"Seafood, Italian",1,4.0,196
+Colombo,Sri Lankan,1,4.0,114
+Columbus,American,2,4.4,632
+Columbus,"American, Seafood, Cajun",1,4.6,489
+Columbus,"American, Seafood, Steak",1,4.4,235
+Columbus,"American, Tapas",1,4.1,302
+Columbus,"Asian, Chinese",1,4.2,355
+Columbus,"Asian, Vietnamese",1,3.3,33
+Columbus,"BBQ, Southern",1,4.0,353
+Columbus,"Breakfast, Diner, Southern",1,3.7,123
+Columbus,"Burger, Bar Food, Southern",1,3.8,149
+Columbus,Chinese,1,4.0,335
+Columbus,"Italian, Mediterranean, Pizza",1,4.0,264
+Columbus,"Italian, Pizza",1,4.0,170
+Columbus,"Japanese, Steak",1,3.9,247
+Columbus,"Japanese, Steak, Sushi",1,3.6,109
+Columbus,"Japanese, Sushi, Thai",1,3.7,134
+Columbus,Pizza,1,4.1,192
+Columbus,"Pizza, Bar Food",1,3.9,330
+Columbus,"Seafood, Steak, Vegetarian",1,4.2,722
+Columbus,Steak,1,4.3,213
+Consort,"Chinese, Canadian",1,3.0,6
+Dalton,American,1,3.8,63
+Dalton,"American, BBQ, Southern",2,3.95,150
+Dalton,"American, Burger",1,4.1,122
+Dalton,"American, Diner, Southern",1,4.3,244
+Dalton,"American, Japanese, Sushi",1,4.6,214
+Dalton,BBQ,2,4.25,335
+Dalton,"BBQ, Breakfast, Southern",1,4.9,249
+Dalton,"Desserts, Sandwich",2,4.050000000000001,147
+Dalton,Fast Food,1,4.1,142
+Dalton,Italian,1,3.7,116
+Dalton,"Italian, Pizza",1,4.1,144
+Dalton,Japanese,1,4.3,116
+Dalton,"Japanese, Sushi",1,3.8,145
+Dalton,Mexican,2,3.9499999999999997,197
+Dalton,"Mexican, Tex-Mex",1,3.9,66
+Dalton,Thai,1,4.2,111
+Davenport,American,3,4.133333333333333,422
+Davenport,"American, BBQ, Steak",1,4.2,197
+Davenport,"American, Bar Food, BBQ",1,0.0,2
+Davenport,"American, Breakfast",1,3.4,53
+Davenport,"American, Breakfast, Greek",1,4.0,85
+Davenport,"American, French",1,3.7,201
+Davenport,Asian,1,4.9,474
+Davenport,"Burger, Pizza",1,3.9,136
+Davenport,Chinese,1,4.0,112
+Davenport,Fast Food,1,3.9,125
+Davenport,"Indian, Mediterranean, Middle Eastern",1,4.6,166
+Davenport,Italian,1,4.1,117
+Davenport,"Japanese, Sushi",1,4.2,141
+Davenport,Mexican,3,2.7999999999999994,327
+Davenport,"Sushi, Teriyaki",1,4.5,208
+Davenport,Thai,1,4.1,256
+Dehradun,Bakery,1,4.1,64
+Dehradun,"Burger, Desserts",1,3.9,101
+Dehradun,Cafe,3,4.033333333333333,222
+Dehradun,"Cafe, Chinese",1,3.9,131
+Dehradun,"Cafe, Chinese, Fast Food",1,4.1,104
+Dehradun,"Cafe, Mexican",1,4.2,68
+Dehradun,"Chinese, North Indian, Fast Food",1,4.3,63
+Dehradun,"Chinese, Thai, Tibetan",1,4.2,406
+Dehradun,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",1,3.9,141
+Dehradun,"Mughlai, North Indian",1,4.0,98
+Dehradun,North Indian,1,4.9,50
+Dehradun,"North Indian, Chinese",3,3.8000000000000003,507
+Dehradun,"North Indian, Chinese, Continental",1,3.9,173
+Dehradun,"North Indian, Mediterranean, Asian, Chinese",1,4.4,66
+Dehradun,"North Indian, Mughlai",1,3.9,121
+Dehradun,"South Indian, North Indian, Chinese",1,3.8,115
+Des Moines,"American, BBQ",1,4.3,699
+Des Moines,"American, Breakfast",1,3.8,308
+Des Moines,"American, Coffee and Tea",1,4.9,570
+Des Moines,"American, Italian",1,4.1,476
+Des Moines,"American, Pizza, Bar Food",1,4.2,370
+Des Moines,"Asian, Chinese",1,4.0,411
+Des Moines,"Asian, Sushi, Thai",1,4.1,496
+Des Moines,"Asian, Vegetarian, Vietnamese, Bubble Tea",1,4.4,659
+Des Moines,"BBQ, Burger, Desserts",1,4.5,1025
+Des Moines,"BBQ, Caribbean, Cajun",1,4.5,674
+Des Moines,"Breakfast, Mexican, Southwestern",1,4.0,214
+Des Moines,"Burger, Desserts, Vegetarian",1,4.2,943
+Des Moines,Chinese,1,4.1,218
+Des Moines,"Chinese, Pizza",1,4.6,728
+Des Moines,French,1,4.3,532
+Des Moines,"Italian, Pizza",1,4.5,1109
+Des Moines,"Japanese, Sushi",1,4.8,860
+Des Moines,Latin American,1,4.0,157
+Des Moines,"Latin American, Mexican",1,3.2,113
+Des Moines,"Seafood, Sushi",1,4.2,530
+Dicky Beach,"Coffee and Tea, Tea, Modern Australian",1,3.6,29
+Doha,"American, Tex-Mex",1,3.8,155
+Doha,Chinese,1,4.9,182
+Doha,"European, Arabian, Japanese, Bakery, Desserts",1,3.9,197
+Doha,Indian,5,4.18,1132
+Doha,"Indian, Street Food",1,3.4,74
+Doha,International,2,4.050000000000001,125
+Doha,Italian,1,4.5,145
+Doha,"Kerala, Indian, Chinese, Bakery",1,4.0,322
+Doha,"North Indian, Chinese, Turkish",1,3.8,263
+Doha,Pakistani,2,4.0,272
+Doha,"Seafood, American",1,4.0,180
+Doha,Steak,1,3.6,115
+Doha,"Steak, American",1,4.0,41
+Doha,Thai,1,4.3,73
+Dubai,"American, Burger",1,4.5,1388
+Dubai,"American, Desserts",1,4.7,2424
+Dubai,"American, Mexican, Burger",1,3.7,500
+Dubai,"Asian, Chinese",1,4.3,661
+Dubai,Cafe,1,4.5,403
+Dubai,"Cafe, Burger",1,4.3,386
+Dubai,"Continental, Indian",1,4.9,641
+Dubai,"Fast Food, Burger",1,4.3,1351
+Dubai,"Goan, Chinese, Indian, North Indian",1,4.3,544
+Dubai,Indian,3,4.7,2955
+Dubai,"Indian, Asian",1,4.4,552
+Dubai,"Indian, Continental",1,4.8,2510
+Dubai,"Indian, North Indian",1,4.5,307
+Dubai,"Indian, North Indian, Street Food",1,4.4,281
+Dubai,"Indian, Rajasthani",1,4.1,1448
+Dubai,"International, Indian",1,4.5,909
+Dubai,"Mediterranean, Italian, Thai, European",1,3.9,927
+Dubai,"Seafood, American",1,3.2,506
+Dubuque,American,1,3.6,159
+Dubuque,"American, BBQ, Seafood",1,3.3,65
+Dubuque,"American, Breakfast, Burger",1,3.5,60
+Dubuque,"American, Burger",2,3.6,165
+Dubuque,"American, Burger, Pizza, Cafe",1,3.7,89
+Dubuque,"American, Burger, Sandwich",1,3.5,100
+Dubuque,"American, Italian",1,3.6,140
+Dubuque,"American, Seafood, Steak",1,3.6,72
+Dubuque,Breakfast,1,3.4,33
+Dubuque,"Breakfast, Pizza",1,3.5,119
+Dubuque,"Desserts, Pizza, Ice Cream",1,3.5,74
+Dubuque,"International, Pizza",1,3.8,198
+Dubuque,Italian,1,3.4,58
+Dubuque,"Italian, Pizza",1,3.6,131
+Dubuque,"Japanese, Steak, Sushi",1,3.7,83
+Dubuque,Mexican,3,3.5,435
+Dubuque,Seafood,1,3.3,40
+East Ballina,Cafe,1,4.1,56
+Edinburgh,American,2,3.75,185
+Edinburgh,"Bakery, Cafe",1,4.1,57
+Edinburgh,"British, French",1,4.4,275
+Edinburgh,"British, Scottish, Seafood",1,4.1,200
+Edinburgh,"Burger, Grill",1,4.0,36
+Edinburgh,Cafe,1,3.9,81
+Edinburgh,"Cafe, Bakery",1,3.9,63
+Edinburgh,"Cafe, Bakery, Desserts",1,4.6,130
+Edinburgh,Indian,1,4.4,279
+Edinburgh,"Indian, Cafe",1,3.8,73
+Edinburgh,"Indian, Street Food",1,4.0,76
+Edinburgh,Italian,1,4.5,329
+Edinburgh,Mexican,1,3.8,31
+Edinburgh,"Pizza, Italian",1,3.7,27
+Edinburgh,"Scottish, Cafe",1,4.7,163
+Edinburgh,"Steak, Scottish, British",1,4.2,64
+Edinburgh,"Sushi, Japanese, Cantonese",1,3.8,32
+Edinburgh,Thai,1,4.3,61
+Edinburgh,"Thai, Asian",1,4.1,84
+Faridabad,"American, Fast Food, Burger",1,2.1,57
+Faridabad,"American, Fast Food, Salad, Healthy Food",2,1.75,145
+Faridabad,Asian,1,0.0,1
+Faridabad,Bakery,12,2.6166666666666667,160
+Faridabad,"Bakery, Desserts",5,1.8399999999999999,48
+Faridabad,"Bakery, Fast Food",7,2.8428571428571425,254
+Faridabad,Beverages,1,3.6,27
+Faridabad,Biryani,1,0.0,0
+Faridabad,"Burger, Desserts, Fast Food",1,3.6,98
+Faridabad,"Burger, Fast Food",1,3.5,24
+Faridabad,Cafe,8,1.2375,108
+Faridabad,"Cafe, American, Mexican, Italian, Thai",1,3.8,134
+Faridabad,"Cafe, Chinese",1,3.1,8
+Faridabad,"Cafe, Chinese, Fast Food",1,2.8,8
+Faridabad,"Cafe, Desserts",1,3.6,59
+Faridabad,"Cafe, Italian, Mexican, Continental",1,4.1,153
+Faridabad,"Cafe, Italian, Salad",1,2.6,15
+Faridabad,"Cafe, North Indian, Chinese, Continental",1,2.7,17
+Faridabad,Chinese,9,1.422222222222222,276
+Faridabad,"Chinese, Fast Food",5,1.7600000000000002,111
+Faridabad,"Chinese, Fast Food, Bakery",1,2.9,4
+Faridabad,"Chinese, North Indian",4,1.525,96
+Faridabad,"Chinese, North Indian, Fast Food",1,3.0,4
+Faridabad,"Chinese, Thai",1,3.8,508
+Faridabad,Desserts,2,0.0,0
+Faridabad,"Desserts, Ice Cream",1,2.8,12
+Faridabad,Fast Food,10,0.9400000000000001,54
+Faridabad,"Fast Food, Bakery",1,3.8,75
+Faridabad,"Fast Food, Beverages",4,1.525,40
+Faridabad,"Fast Food, Burger",1,3.4,58
+Faridabad,"Fast Food, Chinese",3,3.0,63
+Faridabad,"Fast Food, Chinese, Burger",1,0.0,0
+Faridabad,"Fast Food, Chinese, Italian",1,3.1,11
+Faridabad,"Fast Food, Desserts, Ice Cream, Beverages",1,2.6,14
+Faridabad,"Fast Food, North Indian",2,3.15,39
+Faridabad,"Fast Food, Pizza",1,2.6,12
+Faridabad,Finger Food,1,3.1,18
+Faridabad,Ice Cream,1,2.9,4
+Faridabad,"Ice Cream, Desserts",3,2.266666666666667,86
+Faridabad,"Ice Cream, Desserts, Beverages",1,0.0,1
+Faridabad,Italian,3,1.5,800
+Faridabad,"Italian, Fast Food",1,2.9,4
+Faridabad,"Italian, North Indian",1,0.0,0
+Faridabad,"Juices, Beverages",1,3.5,18
+Faridabad,Mediterranean,1,0.0,3
+Faridabad,Mithai,4,1.525,49
+Faridabad,"Mithai, Bakery, Street Food, Chinese, South Indian",1,3.0,8
+Faridabad,"Mithai, North Indian",1,0.0,0
+Faridabad,"Mithai, North Indian, South Indian, Chinese, Fast Food",1,2.7,28
+Faridabad,"Mithai, South Indian, Chinese, Street Food",1,0.0,0
+Faridabad,"Mithai, Street Food",6,0.9833333333333334,27
+Faridabad,"Mithai, Street Food, Chinese",1,2.9,4
+Faridabad,"Mithai, Street Food, Fast Food",1,0.0,0
+Faridabad,Mughlai,3,1.1666666666666667,33
+Faridabad,North Indian,28,1.4392857142857143,625
+Faridabad,"North Indian, Chinese",27,1.7333333333333332,366
+Faridabad,"North Indian, Chinese, Continental",4,2.3,30
+Faridabad,"North Indian, Chinese, Fast Food",2,3.2,32
+Faridabad,"North Indian, Chinese, Italian",1,3.1,28
+Faridabad,"North Indian, Chinese, Italian, Fast Food",1,3.1,7
+Faridabad,"North Indian, Chinese, Mughlai",3,2.1333333333333333,51
+Faridabad,"North Indian, Chinese, Raw Meats",1,3.0,8
+Faridabad,"North Indian, Chinese, South Indian",1,3.0,8
+Faridabad,"North Indian, Chinese, South Indian, Fast Food",1,3.0,22
+Faridabad,"North Indian, Continental, Chinese",1,3.3,56
+Faridabad,"North Indian, Fast Food",1,0.0,3
+Faridabad,"North Indian, Mughlai",10,1.9599999999999997,406
+Faridabad,"North Indian, Mughlai, Chinese",13,1.9307692307692308,177
+Faridabad,"North Indian, Mughlai, Continental",1,0.0,1
+Faridabad,"North Indian, Seafood",1,0.0,0
+Faridabad,"North Indian, South Indian, Chinese",1,0.0,3
+Faridabad,"North Indian, South Indian, Chinese, Fast Food",2,1.35,19
+Faridabad,"North Indian, South Indian, Chinese, Fast Food, Mithai",1,3.4,70
+Faridabad,"North Indian, South Indian, Fast Food, Street Food, Mithai",1,2.6,39
+Faridabad,"North Indian, South Indian, Gujarati, Rajasthani",1,3.4,233
+Faridabad,Pizza,2,3.05,54
+Faridabad,"Pizza, Fast Food",2,1.45,11
+Faridabad,"Raw Meats, Fast Food",2,1.55,19
+Faridabad,"Raw Meats, Fast Food, North Indian",1,0.0,0
+Faridabad,"Raw Meats, North Indian, Chinese, Fast Food",1,3.7,280
+Faridabad,"Raw Meats, North Indian, Fast Food",4,3.175,52
+Faridabad,South Indian,2,0.0,4
+Faridabad,"South Indian, Chinese, North Indian",1,0.0,2
+Faridabad,"South Indian, North Indian, Chinese",2,3.05,77
+Faridabad,Street Food,1,3.1,12
+Faridabad,"Street Food, Fast Food",2,0.0,2
+Faridabad,"Street Food, South Indian, Mithai",1,2.8,13
+Fernley,Mexican,1,3.7,83
+Flaxton,"Tea, Modern Australian",1,3.5,37
+Forrest,"Cafe, Australian",1,3.7,29
+Gainesville,"American, Burger, Cajun",1,3.8,88
+Gainesville,"American, European, Sandwich",1,4.2,350
+Gainesville,"American, Sandwich, Seafood",1,4.4,239
+Gainesville,"American, Southern",2,4.25,483
+Gainesville,BBQ,2,3.8499999999999996,222
+Gainesville,"BBQ, Burger, Seafood",1,4.1,235
+Gainesville,"BBQ, Sandwich",1,4.1,182
+Gainesville,"Bar Food, Seafood, Vegetarian",1,4.1,171
+Gainesville,"Burger, German, Sandwich",1,2.2,108
+Gainesville,"Chinese, Japanese, Thai",1,4.4,267
+Gainesville,German,1,3.8,114
+Gainesville,"German, Ice Cream",1,3.9,136
+Gainesville,"Italian, Pizza, Sandwich",1,4.0,161
+Gainesville,"Sandwich, Seafood, Cajun",1,4.9,681
+Gainesville,Seafood,1,3.8,107
+Gainesville,Southern,1,4.3,298
+Gainesville,Thai,1,4.6,357
+Ghaziabad,Bakery,1,3.0,6
+Ghaziabad,"Burger, Desserts, Fast Food",1,3.6,252
+Ghaziabad,"Burger, Fast Food",1,3.4,327
+Ghaziabad,Cafe,3,3.3000000000000003,156
+Ghaziabad,Chinese,2,2.75,197
+Ghaziabad,Fast Food,1,3.1,7
+Ghaziabad,"Fast Food, Burger",1,3.3,150
+Ghaziabad,"Fast Food, Cafe, Desserts, Bakery",1,3.9,52
+Ghaziabad,Ice Cream,2,1.65,27
+Ghaziabad,North Indian,3,2.1333333333333333,176
+Ghaziabad,"North Indian, Chinese",1,2.5,184
+Ghaziabad,"North Indian, Chinese, Continental",1,2.6,92
+Ghaziabad,"North Indian, Fast Food",1,3.3,114
+Ghaziabad,"North Indian, Mughlai",2,2.25,336
+Ghaziabad,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",1,3.6,187
+Ghaziabad,"Pizza, Fast Food",1,3.2,17
+Ghaziabad,South Indian,1,3.0,6
+Ghaziabad,"South Indian, North Indian, Chinese",1,3.2,80
+Goa,Cafe,1,4.3,265
+Goa,"Continental, Goan, Seafood, North Indian",2,4.5,878
+Goa,"Continental, North Indian, Italian, Seafood, Goan",1,3.5,1681
+Goa,Fast Food,1,4.8,415
+Goa,Finger Food,2,4.050000000000001,1162
+Goa,"Goan, North Indian, Chinese",1,3.8,601
+Goa,"Goan, Seafood, Chinese",1,4.2,414
+Goa,"Goan, Seafood, Chinese, North Indian",1,4.4,1115
+Goa,"Goan, Seafood, North Indian",1,4.5,840
+Goa,"Italian, Continental, Goan",1,3.7,1221
+Goa,"Italian, French, Cafe",1,4.5,280
+Goa,"North Indian, Chinese, Continental, Goan, Seafood",1,3.8,911
+Goa,"North Indian, Continental, Chinese, Seafood",1,4.3,2191
+Goa,"North Indian, Continental, Goan",2,4.25,1774
+Goa,Seafood,1,4.2,367
+Goa,"Seafood, Continental, European, German",1,4.7,681
+Goa,"Seafood, French",1,4.6,302
+Gurgaon,Afghani,2,0.0,0
+Gurgaon,"Afghani, North Indian",1,0.0,0
+Gurgaon,"American, Continental, Burger",1,4.6,150
+Gurgaon,"American, European, North Indian",1,3.5,259
+Gurgaon,"American, Fast Food",4,3.625,771
+Gurgaon,"American, Fast Food, Burger",3,2.5,224
+Gurgaon,"American, Fast Food, Salad, Healthy Food",11,2.963636363636364,894
+Gurgaon,"American, Italian, Chinese",1,4.1,353
+Gurgaon,"American, Mexican",1,3.3,793
+Gurgaon,"American, Seafood, Italian, Japanese, Thai",1,3.5,57
+Gurgaon,"American, Tex-Mex",1,3.7,730
+Gurgaon,"Arabian, Lebanese",1,3.1,82
+Gurgaon,Asian,2,3.95,55
+Gurgaon,"Asian, Bakery",1,2.8,21
+Gurgaon,"Asian, Burmese",1,4.6,563
+Gurgaon,"Asian, Chinese, North Indian",1,3.8,61
+Gurgaon,"Asian, Continental, Fast Food",1,4.5,76
+Gurgaon,"Asian, European",1,3.9,297
+Gurgaon,"Asian, Seafood",1,4.1,105
+Gurgaon,"Asian, Thai, Chinese",1,4.1,875
+Gurgaon,"Awadhi, North Indian, Mughlai",1,3.8,86
+Gurgaon,Bakery,35,2.494285714285714,962
+Gurgaon,"Bakery, Beverages",1,3.4,57
+Gurgaon,"Bakery, Cafe",1,3.8,227
+Gurgaon,"Bakery, Chinese, North Indian",1,0.0,0
+Gurgaon,"Bakery, Desserts",25,2.344,1067
+Gurgaon,"Bakery, Desserts, Bakery",1,3.1,6
+Gurgaon,"Bakery, Desserts, Beverages",3,3.633333333333333,281
+Gurgaon,"Bakery, Desserts, Fast Food",13,3.3846153846153846,798
+Gurgaon,"Bakery, Desserts, North Indian, Bengali, South Indian",1,3.5,37
+Gurgaon,"Bakery, Fast Food",11,2.2636363636363637,761
+Gurgaon,"Bakery, Fast Food, Chinese",1,3.3,26
+Gurgaon,"Bakery, Mithai, Fast Food",1,2.9,10
+Gurgaon,"Bakery, Street Food",1,3.2,18
+Gurgaon,Bengali,1,3.6,86
+Gurgaon,"Bengali, Fast Food",1,3.2,27
+Gurgaon,"Bengali, North Indian",2,1.75,49
+Gurgaon,"Bengali, Seafood",1,3.8,706
+Gurgaon,Beverages,4,1.55,45
+Gurgaon,"Beverages, Fast Food",2,3.3,32
+Gurgaon,"Beverages, Juices",1,3.1,9
+Gurgaon,"Beverages, Salad",1,4.3,154
+Gurgaon,"Beverages, Salad, Beverages",1,4.3,33
+Gurgaon,"Bihari, Lucknowi, North Indian",1,4.0,226
+Gurgaon,Biryani,10,1.98,150
+Gurgaon,"Biryani, Lucknowi, North Indian",1,3.4,165
+Gurgaon,"Biryani, Mughlai",1,3.9,403
+Gurgaon,"Biryani, North Indian",6,2.5666666666666664,231
+Gurgaon,"Biryani, North Indian, Hyderabadi",1,4.0,530
+Gurgaon,"Biryani, North Indian, Mughlai",1,3.7,371
+Gurgaon,"Biryani, Pizza, Fast Food, Healthy Food",1,0.0,1
+Gurgaon,"Burger, American, Fast Food",2,3.85,138
+Gurgaon,"Burger, Desserts, Fast Food",6,3.5666666666666664,1497
+Gurgaon,"Burger, Fast Food",10,3.06,1210
+Gurgaon,"Burger, Fast Food, Chinese",3,2.1333333333333333,338
+Gurgaon,"Burmese, Chinese, Japanese, Malaysian, Thai",1,3.9,280
+Gurgaon,"Burmese, Chinese, Thai",1,3.4,65
+Gurgaon,Cafe,45,2.58,2105
+Gurgaon,"Cafe, American, Desserts, Italian, Bakery",1,3.7,18
+Gurgaon,"Cafe, Bakery",2,3.25,511
+Gurgaon,"Cafe, Bakery, Desserts",2,3.75,283
+Gurgaon,"Cafe, Belgian",1,3.9,231
+Gurgaon,"Cafe, Beverages",1,3.4,16
+Gurgaon,"Cafe, Continental",1,4.4,161
+Gurgaon,"Cafe, Continental, Italian, Pizza",1,4.1,255
+Gurgaon,"Cafe, Desserts",1,3.6,365
+Gurgaon,"Cafe, Fast Food",2,3.45,73
+Gurgaon,"Cafe, Fast Food, Chinese",1,3.7,45
+Gurgaon,"Cafe, Fast Food, Street Food",1,3.2,31
+Gurgaon,"Cafe, Italian",1,3.4,19
+Gurgaon,"Cafe, Italian, Bakery",1,4.4,83
+Gurgaon,"Cafe, Italian, European, Bakery",1,4.1,147
+Gurgaon,"Cafe, Italian, Fast Food",1,3.5,52
+Gurgaon,"Cafe, Italian, Pizza",1,3.7,647
+Gurgaon,"Cafe, North Indian",1,4.0,62
+Gurgaon,"Cafe, Pizza, Burger",1,4.0,34
+Gurgaon,"Cafe, Street Food",1,3.2,21
+Gurgaon,"Cafe, Tea",6,2.533333333333333,613
+Gurgaon,Chinese,32,1.934375,2199
+Gurgaon,"Chinese, Asian",2,3.8499999999999996,305
+Gurgaon,"Chinese, Asian, Thai",2,3.8499999999999996,179
+Gurgaon,"Chinese, Assamese",1,3.3,153
+Gurgaon,"Chinese, Continental, North Indian",1,3.1,11
+Gurgaon,"Chinese, Continental, North Indian, Mexican",1,4.1,569
+Gurgaon,"Chinese, Fast Food",5,2.18,39
+Gurgaon,"Chinese, Fast Food, North Indian",1,0.0,0
+Gurgaon,"Chinese, Italian, North Indian",1,3.5,32
+Gurgaon,"Chinese, Japanese, Sushi",1,4.5,407
+Gurgaon,"Chinese, Japanese, Thai, Asian",1,3.5,384
+Gurgaon,"Chinese, Mexican, Fast Food, Continental",1,3.0,4
+Gurgaon,"Chinese, Mughlai, North Indian",2,1.2,55
+Gurgaon,"Chinese, North Indian",13,1.5769230769230769,89
+Gurgaon,"Chinese, North Indian, Continental, Mexican",1,2.7,19
+Gurgaon,"Chinese, North Indian, Italian",2,1.6,9
+Gurgaon,"Chinese, North Indian, Italian, Continental",1,3.2,30
+Gurgaon,"Chinese, North Indian, Mughlai",2,2.9,132
+Gurgaon,"Chinese, North Indian, Mughlai, Continental",1,3.5,853
+Gurgaon,"Chinese, North Indian, South Indian",1,2.8,31
+Gurgaon,"Chinese, North Indian, South Indian, Healthy Food",1,3.1,6
+Gurgaon,"Chinese, North Indian, South Indian, Street Food",1,2.3,31
+Gurgaon,"Chinese, Seafood, Japanese",1,2.6,83
+Gurgaon,"Chinese, Street Food",1,2.8,6
+Gurgaon,"Chinese, Thai",8,3.4125,1267
+Gurgaon,"Chinese, Thai, Asian",3,3.8333333333333335,448
+Gurgaon,"Chinese, Thai, Asian, Malaysian, Vietnamese, Japanese",1,3.9,360
+Gurgaon,"Chinese, Thai, Japanese, Tibetan",1,2.8,15
+Gurgaon,"Chinese, Thai, Malaysian, Indonesian",1,3.3,199
+Gurgaon,"Chinese, Thai, North Indian, Japanese",1,3.8,184
+Gurgaon,"Chinese, Thai, Sushi",1,4.0,162
+Gurgaon,"Chinese, Tibetan",1,2.9,9
+Gurgaon,Continental,4,3.775,171
+Gurgaon,"Continental, American, Asian, North Indian",1,4.3,716
+Gurgaon,"Continental, American, Italian",1,4.0,192
+Gurgaon,"Continental, American, Italian, Seafood, North Indian, Cafe",1,4.0,1840
+Gurgaon,"Continental, American, North Indian, Chinese",1,3.7,176
+Gurgaon,"Continental, Asian, North Indian, Italian",1,3.5,240
+Gurgaon,"Continental, Burger, American",1,3.5,129
+Gurgaon,"Continental, Burger, Pizza, North Indian, European, Finger Food",1,3.9,96
+Gurgaon,"Continental, Chinese, North Indian, Mughlai",1,3.1,17
+Gurgaon,"Continental, Chinese, Thai, Mughlai, North Indian",1,3.8,1317
+Gurgaon,"Continental, European, Asian, North Indian, Chinese, Italian",1,4.1,214
+Gurgaon,"Continental, European, North Indian",1,2.1,90
+Gurgaon,"Continental, Fast Food",1,3.1,7
+Gurgaon,"Continental, Finger Food",1,3.4,20
+Gurgaon,"Continental, Finger Food, Chinese, North Indian",1,3.8,31
+Gurgaon,"Continental, Healthy Food",2,3.65,27
+Gurgaon,"Continental, Italian",2,3.75,1238
+Gurgaon,"Continental, Italian, Mexican",1,3.4,69
+Gurgaon,"Continental, Italian, North Indian, American",1,3.5,134
+Gurgaon,"Continental, Italian, North Indian, Mughlai",1,4.4,166
+Gurgaon,"Continental, Italian, Pizza, Asian",1,4.6,395
+Gurgaon,"Continental, North Indian",5,3.44,434
+Gurgaon,"Continental, North Indian, Asian",2,3.5,80
+Gurgaon,"Continental, North Indian, Chinese",5,3.6799999999999997,599
+Gurgaon,"Continental, North Indian, Chinese, European, Asian",1,3.9,401
+Gurgaon,"Continental, North Indian, Chinese, Italian",1,4.2,248
+Gurgaon,"Continental, North Indian, European, Finger Food",1,4.2,1193
+Gurgaon,"Continental, North Indian, Italian, Chinese",1,4.2,1809
+Gurgaon,"Continental, North Indian, Mughlai, Chinese",1,2.6,115
+Gurgaon,Desserts,4,2.375,28
+Gurgaon,"Desserts, Bakery",1,3.9,43
+Gurgaon,"Desserts, Beverages",2,3.5,432
+Gurgaon,"Desserts, Ice Cream",1,3.6,28
+Gurgaon,Drinks Only,1,0.0,0
+Gurgaon,"European, American, Street Food",1,3.7,31
+Gurgaon,"European, Continental",1,4.2,205
+Gurgaon,"European, Italian",1,3.6,58
+Gurgaon,Fast Food,25,2.1319999999999997,1476
+Gurgaon,"Fast Food, Beverages",4,2.375,38
+Gurgaon,"Fast Food, Burger",7,3.142857142857143,659
+Gurgaon,"Fast Food, Chinese",8,1.9,172
+Gurgaon,"Fast Food, Chinese, Bengali",1,3.3,38
+Gurgaon,"Fast Food, Italian, Pizza",1,4.1,151
+Gurgaon,"Fast Food, North Indian",5,2.1399999999999997,165
+Gurgaon,"Fast Food, North Indian, Beverages",1,0.0,0
+Gurgaon,"Fast Food, North Indian, Chinese",2,3.05,442
+Gurgaon,"Fast Food, Pizza",2,3.4000000000000004,114
+Gurgaon,"Fast Food, Street Food",3,2.1999999999999997,69
+Gurgaon,"Fast Food, Street Food, Beverages",1,3.3,11
+Gurgaon,Finger Food,11,3.1181818181818177,690
+Gurgaon,"Finger Food, American, Continental, North Indian, Italian",1,4.6,2093
+Gurgaon,"Finger Food, Continental, Italian",1,3.7,127
+Gurgaon,"Finger Food, Continental, North Indian, Italian, Chinese",1,3.7,1902
+Gurgaon,"Finger Food, North Indian, Chinese",1,0.0,0
+Gurgaon,"Finger Food, North Indian, Italian, European, Continental",1,4.1,230
+Gurgaon,Goan,1,4.0,429
+Gurgaon,"Goan, American, Portuguese",1,3.8,23
+Gurgaon,"Greek, Mediterranean",1,3.6,27
+Gurgaon,"Gujarati, Rajasthani",1,2.9,501
+Gurgaon,Healthy Food,1,0.0,0
+Gurgaon,"Healthy Food, Beverages",2,3.45,41
+Gurgaon,"Healthy Food, Cafe, Desserts, Italian, Bakery",1,3.8,99
+Gurgaon,"Healthy Food, Continental",2,3.45,237
+Gurgaon,"Healthy Food, Continental, Juices, Beverages, Italian, Salad, Lebanese",1,4.0,101
+Gurgaon,"Healthy Food, Continental, North Indian, Salad",1,3.5,30
+Gurgaon,"Healthy Food, European, Continental, Salad",1,3.6,461
+Gurgaon,"Healthy Food, Fast Food, Salad",1,3.2,44
+Gurgaon,"Healthy Food, Juices, Salad, Italian, Continental",2,4.05,108
+Gurgaon,"Healthy Food, North Indian",1,3.6,57
+Gurgaon,"Healthy Food, North Indian, Beverages",1,3.7,25
+Gurgaon,"Healthy Food, North Indian, Continental",1,4.0,162
+Gurgaon,"Healthy Food, North Indian, Italian, Salad",1,3.4,20
+Gurgaon,"Healthy Food, Salad",3,3.6666666666666665,964
+Gurgaon,"Healthy Food, Salad, Italian, Continental",1,3.9,144
+Gurgaon,"Hyderabadi, North Indian, Biryani",2,3.6999999999999997,352
+Gurgaon,Ice Cream,11,1.6181818181818182,122
+Gurgaon,"Ice Cream, Desserts",9,3.022222222222222,788
+Gurgaon,Italian,7,3.6714285714285713,1622
+Gurgaon,"Italian, Burger, Charcoal Grill",1,3.8,127
+Gurgaon,"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",2,3.8,299
+Gurgaon,"Italian, European",1,2.4,2412
+Gurgaon,"Italian, Fast Food",2,3.65,157
+Gurgaon,"Italian, Lebanese, Fast Food, Bakery",1,3.6,29
+Gurgaon,"Italian, Mexican",1,3.5,40
+Gurgaon,"Italian, Mexican, Cafe",1,3.6,296
+Gurgaon,"Italian, Pizza",2,3.6500000000000004,242
+Gurgaon,"Italian, Pizza, Cafe",1,3.8,101
+Gurgaon,"Italian, Pizza, Fast Food",4,2.625,255
+Gurgaon,"Italian, Pizza, Lebanese",1,3.3,218
+Gurgaon,Japanese,6,3.3333333333333335,265
+Gurgaon,"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",1,3.5,81
+Gurgaon,"Japanese, Chinese, Thai",2,3.7,309
+Gurgaon,"Japanese, Sushi",3,3.8333333333333335,309
+Gurgaon,"Japanese, Thai, Chinese",1,3.0,57
+Gurgaon,"Japanese, Thai, Italian, Asian",1,3.5,13
+Gurgaon,"Japanese, Tibetan, Vietnamese, Korean",1,3.8,115
+Gurgaon,Juices,1,0.0,1
+Gurgaon,"Juices, Beverages, Healthy Food",1,4.3,217
+Gurgaon,Kashmiri,3,3.5,658
+Gurgaon,"Kashmiri, Mughlai",1,4.2,146
+Gurgaon,Korean,2,3.7,339
+Gurgaon,"Korean, Chinese",1,3.0,21
+Gurgaon,"Korean, Japanese, Chinese, Asian",1,3.6,38
+Gurgaon,Lebanese,3,3.5,405
+Gurgaon,"Lebanese, Mediterranean, Middle Eastern, Arabian",1,3.9,233
+Gurgaon,"Lebanese, North Indian",1,3.4,165
+Gurgaon,Lucknowi,1,3.7,179
+Gurgaon,Mediterranean,1,3.2,6
+Gurgaon,"Mediterranean, Continental",1,4.2,144
+Gurgaon,"Mediterranean, European, American, North Indian",1,3.8,1046
+Gurgaon,"Mediterranean, Italian, European",1,3.9,1490
+Gurgaon,"Mediterranean, Mexican, North Indian, American",1,4.1,1949
+Gurgaon,"Mediterranean, Mughlai, Thai, North Indian, Chinese",1,3.5,19
+Gurgaon,"Mexican, American, Healthy Food",1,4.9,223
+Gurgaon,"Mexican, Fast Food",1,3.8,176
+Gurgaon,"Mexican, Italian, North Indian, Chinese",1,3.6,254
+Gurgaon,"Mexican, Lebanese, Italian, Continental, Thai",1,3.1,7
+Gurgaon,Mithai,4,1.7000000000000002,37
+Gurgaon,"Mithai, Bakery, Street Food",1,2.8,5
+Gurgaon,"Mithai, North Indian",1,0.0,0
+Gurgaon,"Mithai, North Indian, Chinese, Street Food",1,2.7,28
+Gurgaon,"Mithai, North Indian, South Indian, Chinese",1,3.2,50
+Gurgaon,"Mithai, North Indian, South Indian, Fast Food, Street Food, Chinese",1,3.8,966
+Gurgaon,"Mithai, South Indian, Chinese, Street Food, North Indian",1,2.9,26
+Gurgaon,"Mithai, Street Food",11,1.4727272727272727,150
+Gurgaon,"Mithai, Street Food, Chinese",1,3.0,4
+Gurgaon,"Mithai, Street Food, North Indian",1,2.6,36
+Gurgaon,"Mithai, Street Food, South Indian, Chinese, North Indian",1,2.7,83
+Gurgaon,Modern Indian,1,4.3,4385
+Gurgaon,"Modern Indian, North Indian",1,4.8,1478
+Gurgaon,Mughlai,6,1.55,56
+Gurgaon,"Mughlai, Biryani",2,1.85,125
+Gurgaon,"Mughlai, Chinese",1,3.4,33
+Gurgaon,"Mughlai, Hyderabadi",1,4.1,84
+Gurgaon,"Mughlai, Lucknowi, Awadhi",2,3.1,56
+Gurgaon,"Mughlai, North Indian",7,2.2285714285714286,469
+Gurgaon,"Mughlai, North Indian, Chinese",1,0.0,0
+Gurgaon,"Mughlai, Pakistani, North Indian",1,3.8,665
+Gurgaon,"North Eastern, Continental, South Indian, Fast Food",1,3.5,194
+Gurgaon,North Indian,105,1.622857142857143,5062
+Gurgaon,"North Indian, American, Asian, Biryani",1,4.7,69
+Gurgaon,"North Indian, American, Italian",1,2.8,91
+Gurgaon,"North Indian, Asian",1,3.9,394
+Gurgaon,"North Indian, Asian, Continental",1,3.8,91
+Gurgaon,"North Indian, Asian, European",1,4.2,77
+Gurgaon,"North Indian, Asian, Italian",1,4.0,242
+Gurgaon,"North Indian, Biryani",1,3.2,16
+Gurgaon,"North Indian, Biryani, Chinese",1,3.0,8
+Gurgaon,"North Indian, Biryani, Fast Food, Chinese",1,2.7,23
+Gurgaon,"North Indian, Chinese",66,2.3393939393939394,1989
+Gurgaon,"North Indian, Chinese, Continental",10,2.82,1122
+Gurgaon,"North Indian, Chinese, Continental, Thai",1,3.9,280
+Gurgaon,"North Indian, Chinese, Fast Food",15,2.853333333333333,962
+Gurgaon,"North Indian, Chinese, Fast Food, Desserts",1,2.9,4
+Gurgaon,"North Indian, Chinese, Italian",4,2.7,588
+Gurgaon,"North Indian, Chinese, Italian, Continental",2,3.9000000000000004,3588
+Gurgaon,"North Indian, Chinese, Mughlai",7,3.0142857142857147,389
+Gurgaon,"North Indian, Chinese, South Indian",3,1.0,34
+Gurgaon,"North Indian, Chinese, South Indian, Fast Food",1,0.0,0
+Gurgaon,"North Indian, Chinese, South Indian, Seafood, Chettinad",1,3.6,289
+Gurgaon,"North Indian, Chinese, Street Food",1,3.2,18
+Gurgaon,"North Indian, Chinese, Street Food, Fast Food",1,2.5,12
+Gurgaon,"North Indian, Chinese, Thai",1,3.6,32
+Gurgaon,"North Indian, Continental",4,3.175,237
+Gurgaon,"North Indian, Continental, Asian",3,3.6333333333333333,309
+Gurgaon,"North Indian, Continental, Chinese",5,3.4,482
+Gurgaon,"North Indian, Continental, Chinese, Japanese, Italian, Thai",1,3.9,490
+Gurgaon,"North Indian, Continental, Italian",1,3.9,67
+Gurgaon,"North Indian, Continental, Mughlai, Asian",1,4.1,2806
+Gurgaon,"North Indian, Fast Food",9,2.7777777777777777,270
+Gurgaon,"North Indian, Fast Food, South Indian",1,0.0,1
+Gurgaon,"North Indian, Finger Food",1,3.0,10
+Gurgaon,"North Indian, Greek, Mughlai",1,3.2,14
+Gurgaon,"North Indian, Italian, Chinese, American",1,4.4,391
+Gurgaon,"North Indian, Italian, Mexican",1,2.7,24
+Gurgaon,"North Indian, Italian, Parsi, Asian, Kerala",1,4.4,146
+Gurgaon,"North Indian, Mediterranean, European, Asian, Chinese, Pizza",1,3.8,305
+Gurgaon,"North Indian, Mithai, Chinese",1,0.0,0
+Gurgaon,"North Indian, Mithai, Chinese, Street Food",1,3.8,40
+Gurgaon,"North Indian, Mithai, Street Food",1,2.6,30
+Gurgaon,"North Indian, Mughlai",42,3.1238095238095234,9694
+Gurgaon,"North Indian, Mughlai, Asian, Continental",1,3.9,1365
+Gurgaon,"North Indian, Mughlai, Awadhi",1,0.0,0
+Gurgaon,"North Indian, Mughlai, Biryani",4,3.675,726
+Gurgaon,"North Indian, Mughlai, Chinese",17,2.611764705882353,1071
+Gurgaon,"North Indian, Mughlai, Chinese, Seafood",1,3.5,351
+Gurgaon,"North Indian, Mughlai, Chinese, South Indian",1,3.3,32
+Gurgaon,"North Indian, Mughlai, Fast Food",1,2.9,35
+Gurgaon,"North Indian, Mughlai, Seafood",1,0.0,0
+Gurgaon,"North Indian, Mughlai, South Indian",1,0.0,1
+Gurgaon,"North Indian, Mughlai, South Indian, Chinese",1,3.1,25
+Gurgaon,"North Indian, Mughlai, South Indian, Rajasthani, Street Food",1,3.6,496
+Gurgaon,"North Indian, Rajasthani",1,0.0,0
+Gurgaon,"North Indian, Rajasthani, Asian",1,4.0,157
+Gurgaon,"North Indian, South Indian",5,1.1,28
+Gurgaon,"North Indian, South Indian, Chinese",9,1.1444444444444446,110
+Gurgaon,"North Indian, South Indian, Chinese, Fast Food",1,0.0,1
+Gurgaon,"North Indian, South Indian, Chinese, Healthy Food, Bakery",1,0.0,0
+Gurgaon,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",2,3.6,500
+Gurgaon,"North Indian, South Indian, Fast Food",1,3.1,9
+Gurgaon,"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",1,3.4,178
+Gurgaon,"North Indian, South Indian, Fast Food, Street Food, Mithai",1,3.1,4
+Gurgaon,"North Indian, South Indian, Street Food, Mithai",3,3.1333333333333333,638
+Gurgaon,"North Indian, Street Food",2,3.3499999999999996,55
+Gurgaon,"North Indian, Street Food, Beverages",1,3.8,120
+Gurgaon,"North Indian, Street Food, Mithai",3,1.0333333333333334,68
+Gurgaon,"North Indian, Thai, Continental",1,3.9,622
+Gurgaon,Oriya,1,3.4,256
+Gurgaon,"Parsi, Iranian",1,4.0,2843
+Gurgaon,"Persian, Arabian, Lebanese, North Indian",1,4.6,177
+Gurgaon,Pizza,3,1.9333333333333333,61
+Gurgaon,"Pizza, Desserts",1,3.1,4
+Gurgaon,"Pizza, Fast Food",15,2.7,1384
+Gurgaon,"Pizza, Italian",5,3.56,1280
+Gurgaon,"Pizza, Mexican, Chinese, Italian",1,4.0,259
+Gurgaon,"Portuguese, African",1,4.0,1730
+Gurgaon,"Portuguese, African, Lebanese",1,4.0,322
+Gurgaon,Rajasthani,1,0.0,1
+Gurgaon,Raw Meats,1,0.0,1
+Gurgaon,"Raw Meats, Fast Food",5,1.72,17
+Gurgaon,"Raw Meats, North Indian, Chinese",1,0.0,2
+Gurgaon,"Raw Meats, North Indian, Fast Food",3,2.9333333333333336,35
+Gurgaon,"Seafood, Mediterranean",1,3.7,45
+Gurgaon,South American,1,3.7,131
+Gurgaon,South Indian,7,2.7285714285714286,165
+Gurgaon,"South Indian, Biryani",1,0.0,3
+Gurgaon,"South Indian, Chinese",2,2.8,125
+Gurgaon,"South Indian, Chinese, Mughlai",1,0.0,0
+Gurgaon,"South Indian, Chinese, North Indian",1,3.1,94
+Gurgaon,"South Indian, Desserts, Beverages",1,3.7,25
+Gurgaon,"South Indian, Kerala",1,3.4,21
+Gurgaon,"South Indian, North Indian",3,3.3333333333333335,76
+Gurgaon,"South Indian, North Indian, Chinese",5,2.98,944
+Gurgaon,"South Indian, North Indian, Chinese, Fast Food",1,3.3,69
+Gurgaon,"South Indian, Seafood, Kerala",1,4.0,802
+Gurgaon,"South Indian, Street Food",1,0.0,1
+Gurgaon,"Steak, American",1,3.6,313
+Gurgaon,Street Food,13,2.4692307692307693,891
+Gurgaon,"Street Food, Bakery",1,3.0,5
+Gurgaon,"Street Food, Chinese, North Indian",1,0.0,0
+Gurgaon,"Street Food, Fast Food",1,2.2,41
+Gurgaon,"Street Food, Fast Food, North Indian",1,3.8,317
+Gurgaon,"Street Food, Mithai",3,1.9666666666666668,39
+Gurgaon,"Street Food, Mithai, North Indian, South Indian, Chinese",1,0.0,3
+Gurgaon,"Street Food, Mithai, South Indian, North Indian, Chinese",1,2.5,9
+Gurgaon,"Street Food, North Indian",2,1.3,62
+Gurgaon,"Street Food, North Indian, Mithai",1,3.1,9
+Gurgaon,Tea,2,0.0,3
+Gurgaon,"Tea, Fast Food",4,3.1,623
+Gurgaon,Thai,1,3.3,40
+Gurgaon,"Thai, Asian",1,4.0,219
+Gurgaon,"Tibetan, Nepalese",1,3.6,241
+Guwahati,"Asian, Chinese, Tibetan",1,4.1,25
+Guwahati,Cafe,2,4.4,416
+Guwahati,"Cafe, American, Italian, Continental",1,4.1,377
+Guwahati,"Cafe, Continental",1,4.1,179
+Guwahati,"Cafe, Continental, Chinese",1,4.0,28
+Guwahati,"Cafe, Italian",1,4.6,394
+Guwahati,"Cafe, North Indian, Italian",1,4.1,124
+Guwahati,Chinese,2,3.95,696
+Guwahati,"Chinese, North Indian",1,3.6,142
+Guwahati,"Chinese, Thai",1,4.1,304
+Guwahati,"Chinese, Thai, Japanese, Asian",1,4.4,129
+Guwahati,"Continental, Chinese",1,4.3,96
+Guwahati,"Continental, European",1,4.2,110
+Guwahati,"Continental, Fast Food, Chinese, Charcoal Grill, Mexican",1,4.0,256
+Guwahati,"Continental, Juices, Cafe, Desserts, Salad, Italian",1,4.2,99
+Guwahati,"Continental, North Indian, Chinese, Arabian, Thai",1,4.3,233
+Guwahati,North Indian,1,4.9,774
+Guwahati,"North Indian, Continental",1,4.4,222
+Guwahati,"North Indian, Continental, Italian, Chinese",1,3.9,360
+Hepburn Springs,"Cafe, Coffee and Tea, Modern Australian",1,3.8,192
+Hepburn Springs,"Italian, Fusion, Cafe",1,3.8,93
+Huskisson,"Breakfast, Modern Australian",1,4.1,40
+Hyderabad,"Bakery, Desserts",1,4.8,1023
+Hyderabad,"Cafe, Continental, North Indian, Chinese",1,4.2,1859
+Hyderabad,"Continental, Asian",1,4.2,79
+Hyderabad,"Desserts, Cafe, Mexican",1,4.7,344
+Hyderabad,"European, Mediterranean, North Indian",2,4.9,5634
+Hyderabad,"Hyderabadi, Awadhi",1,4.1,571
+Hyderabad,"Italian, Continental, Chinese",1,4.1,594
+Hyderabad,"Mediterranean, Italian, European",1,4.4,2218
+Hyderabad,"Mexican, American, Tex-Mex, Burger",2,4.65,4485
+Hyderabad,"Mughlai, North Indian, Chinese",1,4.3,3374
+Hyderabad,"North Indian, Andhra, Chettinad, Bengali, Mughlai, Chinese",1,4.1,1431
+Hyderabad,"North Indian, Chinese",1,3.9,616
+Hyderabad,"North Indian, Continental, Italian",1,4.2,221
+Hyderabad,"North Indian, Japanese, Italian",1,4.3,860
+Hyderabad,"North Indian, South Indian, Chinese",1,4.0,682
+Hyderabad,"Seafood, Continental, Goan, Asian, Andhra",1,3.8,144
+Indore,"Bakery, Cafe, Fast Food",1,4.3,87
+Indore,"Cafe, Bakery",1,3.9,69
+Indore,"Cafe, Continental, Italian, Street Food",1,4.0,341
+Indore,"Cafe, Fast Food",2,4.05,240
+Indore,"Cafe, Fast Food, Italian, Mexican",1,3.9,430
+Indore,"Cafe, Italian, Mexican, Chinese",1,3.9,502
+Indore,"Cafe, Lebanese, Italian",1,3.8,214
+Indore,"Greek, Lebanese",1,4.2,304
+Indore,"Italian, Continental",1,4.1,37
+Indore,"Mexican, Italian",1,3.1,26
+Indore,"North Indian, Chinese",3,4.033333333333333,917
+Indore,"North Indian, Chinese, Continental, Mediterranean, Asian",1,3.7,238
+Indore,"North Indian, Chinese, Italian",1,4.3,334
+Indore,"North Indian, Chinese, South Indian",1,4.1,152
+Indore,"North Indian, Continental, Mexican, Italian",1,3.8,209
+Indore,"North Indian, Mughlai",1,4.0,496
+Indore,"North Indian, Mughlai, Seafood",1,4.1,181
+Inner City,"European, Contemporary",1,4.9,441
+Inner City,Tapas,1,4.9,194
+Inverloch,"Burger, Coffee and Tea, Modern Australian",1,3.7,100
+Jaipur,"Cafe, Fast Food, North Indian",1,3.9,310
+Jaipur,"Cafe, Fast Food, Street Food",1,4.7,1469
+Jaipur,"Cafe, Italian, Continental",1,4.4,389
+Jaipur,"Cafe, Italian, Japanese, Continental",1,4.2,633
+Jaipur,"Cafe, Mexican, Italian, Continental",1,4.3,798
+Jaipur,"Cafe, Mexican, Italian, North Indian, Fast Food",1,4.2,198
+Jaipur,"Chinese, Asian",1,4.3,308
+Jaipur,Continental,1,4.1,148
+Jaipur,"Continental, Italian, North Indian, Lebanese, Thai",1,4.0,212
+Jaipur,"Continental, Mexican, Beverages, Desserts, North Indian, Chinese, Rajasthani",1,4.0,916
+Jaipur,"Continental, Mexican, North Indian, Chinese",1,3.7,112
+Jaipur,"Italian, Bakery, Continental",1,4.9,322
+Jaipur,"Italian, Chinese, Mexican, Thai, North Indian",1,4.0,582
+Jaipur,"Italian, Continental, Mexican, Cafe, Bakery",1,4.4,843
+Jaipur,"Modern Indian, Asian",1,3.9,67
+Jaipur,"North Indian, Chinese, Continental, Rajasthani",1,4.5,420
+Jaipur,"North Indian, Continental, Chinese, Italian, Mexican",1,4.3,1121
+Jaipur,"North Indian, Continental, Chinese, Mexican, Italian, Desserts",1,2.6,46
+Jaipur,"North Indian, European, Continental, Finger Food",1,3.9,676
+Jaipur,Rajasthani,1,4.3,1478
+Jakarta,"Asian, Indonesian, Western",1,4.6,873
+Jakarta,Burger,1,4.4,410
+Jakarta,"Cafe, Italian, Coffee and Tea, Western, Indonesian",1,4.6,1476
+Jakarta,"Cafe, Western",1,4.3,458
+Jakarta,"Desserts, Bakery, Western",1,4.6,903
+Jakarta,"French, Western",1,4.3,243
+Jakarta,"Italian, Continental",1,4.1,1498
+Jakarta,Japanese,1,4.2,395
+Jakarta,"Japanese, Sushi, Ramen",1,4.4,841
+Jakarta,Korean,1,3.9,137
+Jakarta,"Seafood, Western",2,3.7,483
+Jakarta,"Sunda, Indonesian",2,4.9,3302
+Jakarta,"Sushi, Japanese",1,4.9,605
+Jakarta,"Western, Asian, Cafe",1,4.2,259
+Johannesburg,American,1,4.2,212
+Johannesburg,"American, Burger",1,4.1,1024
+Johannesburg,"Asian, Sushi, Tapas",1,4.3,180
+Johannesburg,"Burger, Finger Food, Pizza",1,4.0,861
+Johannesburg,"Continental, South African, Beverages, Desserts, Seafood, Grill, Ice Cream, International",1,4.5,222
+Johannesburg,"European, Pizza",1,4.1,1207
+Kanpur,"Bakery, Desserts, Fast Food",1,3.9,97
+Kanpur,"Bakery, Fast Food",1,3.4,49
+Kanpur,"Cafe, Continental, Desserts, Ice Cream, Italian, Beverages",1,3.9,127
+Kanpur,"Cafe, Italian",1,3.5,43
+Kanpur,Chinese,1,3.9,86
+Kanpur,"Chinese, Fast Food",1,3.3,148
+Kanpur,"Chinese, Italian, Fast Food",1,3.7,160
+Kanpur,"Chinese, North Indian, Continental",1,3.6,106
+Kanpur,"Desserts, Fast Food",1,4.1,87
+Kanpur,Fast Food,1,4.1,171
+Kanpur,"Finger Food, North Indian, Continental, Italian, Mediterranean",1,4.0,24
+Kanpur,"Indian, Chinese, Continental",1,3.6,34
+Kanpur,North Indian,2,3.8499999999999996,194
+Kanpur,"North Indian, Chinese",2,3.95,167
+Kanpur,"North Indian, Continental, Asian",1,3.3,51
+Kanpur,"North Indian, Fast Food",1,4.1,158
+Kanpur,"North Indian, Mexican, Italian",1,4.3,155
+Kanpur,"North Indian, Mughlai, Lebanese, Arabian, Mediterranean",1,4.0,41
+Kochi,Cafe,1,4.0,406
+Kochi,"Cafe, Bakery, Desserts",1,4.2,482
+Kochi,"Cafe, Continental, Italian",2,4.2,493
+Kochi,"Chinese, Continental",1,3.7,277
+Kochi,"Chinese, Seafood, North Indian, Biryani",1,4.2,146
+Kochi,"Chinese, Thai, North Indian, South Indian",1,3.7,145
+Kochi,"Continental, Cafe, Desserts, Bakery",1,4.3,312
+Kochi,"European, Cafe",1,4.2,659
+Kochi,"European, North Indian, Mediterranean, American",1,4.5,213
+Kochi,"Fast Food, Biryani",1,4.0,246
+Kochi,"Italian, Seafood, Mediterranean, Desserts, Cafe",1,4.3,658
+Kochi,Kerala,2,4.1,943
+Kochi,"Kerala, Fast Food",1,3.7,105
+Kochi,"Kerala, South Indian",1,3.6,361
+Kochi,"Kerala, South Indian, Chinese, Biryani",1,3.5,348
+Kochi,"Kerala, South Indian, Continental, North Indian, Seafood, Chinese",1,4.3,722
+Kochi,"North Indian, Kerala, Chinese, Continental",1,4.2,394
+Kochi,Seafood,1,4.6,289
+Kolkata,"Asian, Chinese",1,4.6,945
+Kolkata,Bengali,1,4.4,1778
+Kolkata,"Biryani, North Indian, Chinese, Mughlai",1,4.6,1219
+Kolkata,"Cafe, Chinese, Continental",1,4.0,1126
+Kolkata,"Chinese, Cafe, North Indian, Desserts",1,3.9,326
+Kolkata,"Chinese, North Indian",1,4.2,5288
+Kolkata,"Continental, Italian, North Indian",1,3.5,4464
+Kolkata,"Continental, Middle Eastern, Asian",1,4.8,1424
+Kolkata,"Continental, North Indian",1,4.3,7574
+Kolkata,"Continental, Seafood, North Indian, Asian",1,3.6,1040
+Kolkata,"European, American",1,4.4,2224
+Kolkata,"Italian, Mexican, American, Mediterranean",1,4.2,1103
+Kolkata,North Indian,1,4.1,1616
+Kolkata,"North Indian, Chinese",2,4.9,7719
+Kolkata,"North Indian, Chinese, Mexican, Italian",1,4.4,1484
+Kolkata,"North Indian, Chinese, Street Food",1,4.2,704
+Kolkata,"North Indian, Continental",1,3.9,1064
+Kolkata,"Seafood, Chinese",1,4.2,2584
+Kolkata,"Tex-Mex, American",1,4.0,911
+Lakes Entrance,"Breakfast, Coffee and Tea",1,3.8,97
+Lakeview,"Burger, Desserts, Sandwich",1,3.6,41
+Lincoln,Thai,1,4.5,799
+London,"American, Burger",3,4.133333333333333,1186
+London,British,1,4.9,706
+London,"British, Contemporary",1,4.5,148
+London,"Chinese, Dim Sum",2,4.75,1721
+London,French,1,4.7,320
+London,"Indian, Cafe, Curry",1,4.5,305
+London,"Indian, Curry",1,4.1,316
+London,"Indian, North Indian, Curry, Cafe",1,4.7,964
+London,"Indian, Pakistani, Curry",1,4.7,214
+London,"Indian, Street Food",1,4.5,367
+London,Italian,2,4.4,842
+London,"Japanese, Sushi",2,4.5,747
+London,"Ramen, Japanese",1,4.6,418
+London,Steak,1,4.9,309
+London,"Taiwanese, Street Food",1,4.9,161
+Lorn,"Breakfast, Coffee and Tea",1,3.6,18
+Lucknow,"Cafe, Bakery",1,4.1,288
+Lucknow,"Cafe, Chinese, Thai, North Indian, Continental",1,4.0,79
+Lucknow,"Cafe, Continental, Chinese",1,3.5,147
+Lucknow,"Cafe, Fast Food",2,3.95,804
+Lucknow,"Cafe, Italian",1,4.3,106
+Lucknow,"Cafe, Italian, Continental",1,4.6,567
+Lucknow,"Cafe, Italian, Desserts",1,4.1,165
+Lucknow,"Continental, North Indian, Asian",1,3.7,514
+Lucknow,"Desserts, Ice Cream",1,4.5,144
+Lucknow,European,1,4.1,80
+Lucknow,"Italian, American, Lebanese",1,4.3,887
+Lucknow,"Mediterranean, Italian, American",1,4.3,124
+Lucknow,Mughlai,1,4.4,818
+Lucknow,"Mughlai, Lucknowi",1,4.9,1057
+Lucknow,North Indian,1,4.7,1069
+Lucknow,"North Indian, Chinese, Mughlai",1,4.2,691
+Lucknow,"North Indian, Continental",1,3.9,268
+Lucknow,"North Indian, Continental, South Indian, Chinese, Thai, Asian",1,4.2,149
+Lucknow,"North Indian, Mughlai, Chinese",1,4.2,411
+Lucknow,"North Indian, Mughlai, Chinese, Continental",1,4.2,762
+Ludhiana,Cafe,1,3.7,153
+Ludhiana,"Cafe, Bakery, Desserts",1,4.2,210
+Ludhiana,"Cafe, Continental, Italian, Bakery",1,4.4,138
+Ludhiana,"Continental, Chinese, Italian, Bakery",1,4.2,261
+Ludhiana,"European, Chinese",1,3.8,53
+Ludhiana,"Italian, Continental, Mexican, Lebanese",1,4.1,178
+Ludhiana,"Italian, Continental, North Indian, Cafe",1,4.2,217
+Ludhiana,"Mediterranean, Chinese, Continental",1,4.3,87
+Ludhiana,"Mughlai, North Indian, Chinese",1,4.4,325
+Ludhiana,"North Indian, Chinese",1,4.1,191
+Ludhiana,"North Indian, Chinese, Continental",3,3.6333333333333333,213
+Ludhiana,"North Indian, Chinese, Fast Food",1,3.6,93
+Ludhiana,"North Indian, Chinese, South Indian, Fast Food",1,3.9,109
+Ludhiana,"North Indian, Continental",1,3.9,154
+Ludhiana,"North Indian, Mughlai",2,4.25,237
+Ludhiana,"Pizza, Fast Food",1,3.6,86
+Ludhiana,"Portuguese, African",1,3.8,156
+Macedon,Cafe,1,3.5,31
+Macon,"American, Chinese, Sushi",1,3.7,243
+Macon,"American, Greek, Seafood",1,4.0,316
+Macon,"American, Seafood",1,4.1,293
+Macon,BBQ,1,4.2,288
+Macon,"Burger, Desserts, Bar Food",1,4.5,289
+Macon,"Chinese, Thai",1,4.5,302
+Macon,"Coffee and Tea, Cuban, Latin American",1,3.9,146
+Macon,"Desserts, Greek, Sandwich",1,4.3,244
+Macon,"European, Italian, Mediterranean",1,4.2,379
+Macon,"Greek, Mediterranean, Vegetarian",1,4.2,223
+Macon,Italian,1,3.7,104
+Macon,"Japanese, Steak, Sushi",1,4.1,314
+Macon,"Japanese, Sushi, Thai",2,3.85,385
+Macon,Mexican,1,4.1,181
+Macon,"Pizza, Sandwich",1,4.9,478
+Macon,"Pizza, Sandwich, Vegetarian",1,3.8,323
+Macon,Seafood,1,4.6,467
+Macon,Steak,1,4.0,195
+Makati City,"French, Japanese, Desserts",1,4.8,314
+Makati City,Japanese,1,4.5,591
+Manchester,"American, Burger, Grill",1,4.9,162
+Manchester,"American, Fast Food, Desserts, Steak",1,3.3,14
+Manchester,"Argentine, American",1,4.5,602
+Manchester,British,1,4.0,52
+Manchester,"British, Burger, Cafe",1,4.1,82
+Manchester,"British, Contemporary",1,4.1,98
+Manchester,"Burger, American",1,4.0,86
+Manchester,"European, Mediterranean, Contemporary",1,4.2,67
+Manchester,"Fast Food, American",1,3.4,25
+Manchester,French,1,4.3,114
+Manchester,Indian,1,4.2,383
+Manchester,"Indian, Curry",1,4.5,110
+Manchester,"Indian, Grill",1,3.7,48
+Manchester,"Indian, Seafood",1,3.6,101
+Manchester,Italian,2,4.1,833
+Manchester,"Pakistani, Indian, Afghani, Curry",1,3.9,150
+Manchester,"Pizza, Fast Food",1,3.3,23
+Manchester,"Steak, Seafood, Grill",1,4.4,704
+Manchester,Thai,1,4.3,422
+Mandaluyong City,Chinese,1,4.4,336
+Mandaluyong City,"Japanese, Korean",1,4.8,229
+Mandaluyong City,"Japanese, Sushi",1,4.9,365
+Mandaluyong City,"Seafood, Asian, Filipino, Indian",1,4.4,270
+Mangalore,"American, Italian",1,3.8,196
+Mangalore,Cafe,1,3.6,209
+Mangalore,"Cafe, Continental",1,3.6,84
+Mangalore,Chinese,1,3.5,280
+Mangalore,"Chinese, Continental, North Indian, Mughlai",1,3.7,260
+Mangalore,"Chinese, Mangalorean",1,3.7,355
+Mangalore,Continental,1,3.8,328
+Mangalore,"Continental, American",1,3.7,104
+Mangalore,"Desserts, Bakery",1,3.9,196
+Mangalore,"Finger Food, Continental, North Indian",1,3.8,290
+Mangalore,"North Indian, Chinese",1,3.7,193
+Mangalore,"North Indian, Italian, Finger Food",1,3.9,156
+Mangalore,"North Indian, Mughlai",1,3.5,183
+Mangalore,"North Indian, Mughlai, Chinese, Mangalorean",1,3.7,173
+Mangalore,"Pizza, Italian",1,3.5,127
+Mangalore,Seafood,2,4.15,526
+Mangalore,"Seafood, North Indian",1,3.9,257
+Mangalore,"South Indian, North Indian",1,3.6,275
+Mangalore,"South Indian, North Indian, Chinese",1,3.7,175
+Mayfield,Asian,1,2.9,11
+Mc Millan,"Breakfast, Burger",1,2.4,17
+Middleton Beach,"Bar Food, Modern Australian",1,3.8,176
+Mohali,"Continental, North Indian",1,4.3,99
+Monroe,"Italian, Pizza",1,3.6,65
+Montville,"Coffee and Tea, Modern Australian",1,2.4,193
+Mumbai,"American, Burger, Fast Food",1,4.6,413
+Mumbai,Asian,1,4.0,156
+Mumbai,"Bakery, Desserts, Cafe",1,3.9,2076
+Mumbai,"Cafe, Continental, North Indian, Italian, Chinese, Bakery, Desserts, Finger Food",1,3.8,146
+Mumbai,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea",4,3.925,5167
+Mumbai,"Continental, Italian",1,3.8,617
+Mumbai,"Fast Food, Beverages, Desserts",1,4.2,1606
+Mumbai,"Healthy Food, American, Burger, Salad",1,3.4,170
+Mumbai,"Italian, Continental, Mexican, Japanese, American, British",1,3.9,885
+Mumbai,Modern Indian,1,4.3,1240
+Mumbai,North Indian,1,4.2,3370
+Mumbai,"North Indian, Chinese, Thai",1,3.8,181
+Mumbai,"North Indian, Italian, Chinese, Mexican",1,4.7,2083
+Mumbai,"North Indian, South Indian, Mughlai",1,4.9,3244
+Mumbai,Pizza,2,4.25,7807
+Mumbai,"Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food",1,4.0,536
+Mysore,Andhra,1,3.4,139
+Mysore,"Cafe, Continental, European, Beverages",1,3.6,140
+Mysore,"Chinese, Thai",1,3.7,208
+Mysore,"Continental, Chinese, North Indian",1,3.3,11
+Mysore,"Continental, North Indian, South Indian",1,3.8,162
+Mysore,"Continental, South Indian",1,3.8,249
+Mysore,Finger Food,1,3.7,183
+Mysore,Italian,1,3.9,264
+Mysore,"Italian, North Indian, South Indian",1,3.7,262
+Mysore,North Indian,1,3.5,127
+Mysore,"North Indian, Andhra, Mughlai",1,3.7,393
+Mysore,"North Indian, Asian, Continental",1,3.6,270
+Mysore,"North Indian, Chinese",1,3.5,160
+Mysore,"North Indian, Chinese, Italian",1,3.7,172
+Mysore,"North Indian, Chinese, South Indian",2,3.55,404
+Mysore,"North Indian, Continental, Chinese",1,3.7,132
+Mysore,"North Indian, European, Mediterranean",1,4.0,286
+Mysore,"Pizza, Italian",1,4.0,304
+Mysore,South Indian,1,4.2,392
+Nagpur,"American, Fast Food",1,2.2,147
+Nagpur,Cafe,4,4.1,897
+Nagpur,"Cafe, Chinese, Fast Food, Italian",1,3.7,201
+Nagpur,"Cafe, Continental",1,4.0,284
+Nagpur,"Cafe, Fast Food",1,3.9,19
+Nagpur,Chinese,1,3.8,45
+Nagpur,"Chinese, Continental, North Indian",1,4.0,306
+Nagpur,"Continental, Fast Food, Tea",1,3.9,26
+Nagpur,"Continental, North Indian, Thai, Chinese",1,4.3,270
+Nagpur,Fast Food,1,3.3,27
+Nagpur,"Fast Food, Chinese",1,4.0,185
+Nagpur,"North Indian, Chinese",1,4.0,103
+Nagpur,"North Indian, Chinese, Continental",1,4.2,275
+Nagpur,"North Indian, European, Mediterranean",1,4.9,226
+Nagpur,"North Indian, Italian, Continental",1,4.4,257
+Nagpur,"North Indian, Mughlai",1,4.3,88
+Nagpur,"Seafood, Chinese, Thai",1,4.0,100
+Nashik,Cafe,2,3.3499999999999996,101
+Nashik,"Cafe, Desserts",1,3.6,86
+Nashik,Chinese,1,3.4,177
+Nashik,Fast Food,1,3.5,80
+Nashik,Italian,1,3.0,25
+Nashik,Maharashtrian,2,3.8499999999999996,294
+Nashik,"Malwani, North Indian, Chinese, Seafood",1,3.5,77
+Nashik,Mughlai,1,3.7,162
+Nashik,North Indian,5,3.5200000000000005,486
+Nashik,"North Indian, Chinese",1,3.5,166
+Nashik,"North Indian, Chinese, Continental",1,3.4,71
+Nashik,"North Indian, Chinese, Fast Food",1,3.4,162
+Nashik,"North Indian, European, Mediterranean, Asian",1,3.8,117
+Nashik,"North Indian, Maharashtrian",1,3.6,91
+New Delhi,Afghani,2,1.45,39
+New Delhi,"Afghani, Mughlai, Chinese",1,0.0,2
+New Delhi,"Afghani, North Indian, Pakistani, Arabian",1,0.0,3
+New Delhi,American,4,2.175,295
+New Delhi,"American, Asian, European, Seafood",1,4.6,1691
+New Delhi,"American, Asian, North Indian, Mexican, South Indian",1,3.3,21
+New Delhi,"American, British, Continental",1,4.0,969
+New Delhi,"American, Continental, Italian",1,3.8,203
+New Delhi,"American, Continental, Italian, Bakery",1,3.7,393
+New Delhi,"American, Continental, Italian, North Indian, Asian",1,3.7,4914
+New Delhi,"American, Continental, North Indian, Chinese",1,3.7,379
+New Delhi,"American, European",1,4.2,578
+New Delhi,"American, Fast Food",13,3.3153846153846156,5537
+New Delhi,"American, Fast Food, Desserts",1,4.0,154
+New Delhi,"American, Fast Food, Salad, Healthy Food",38,3.0473684210526315,4263
+New Delhi,"American, Finger Food",1,3.3,145
+New Delhi,"American, Italian, Bakery, Deli, Burger, Sandwich, Pizza",1,3.8,25
+New Delhi,"American, Italian, Cafe",1,3.6,480
+New Delhi,"American, Italian, Mughlai, North Indian",1,3.5,140
+New Delhi,"American, Italian, North Indian, Chinese, Lebanese",1,3.6,1428
+New Delhi,"American, Italian, North Indian, European, Thai",1,4.2,361
+New Delhi,"American, Mexican, Finger Food",1,4.2,107
+New Delhi,"American, North Indian, European, Asian",1,3.7,3697
+New Delhi,"American, Tex-Mex",1,3.7,984
+New Delhi,"American, Tex-Mex, Italian, Mexican, North Indian",1,2.8,105
+New Delhi,"Arabian, Mexican",1,3.5,95
+New Delhi,"Arabian, North Indian",1,2.9,7
+New Delhi,Asian,7,2.4857142857142853,573
+New Delhi,"Asian, Chinese",4,2.375,428
+New Delhi,"Asian, Chinese, Thai",1,4.4,42
+New Delhi,"Asian, Chinese, Thai, Japanese",1,4.7,268
+New Delhi,"Asian, Chinese, Thai, Malaysian, Indonesian, Burmese",1,3.8,24
+New Delhi,"Asian, Chinese, Thai, Vietnamese",1,4.2,264
+New Delhi,"Asian, Japanese, Chinese, Thai",1,3.9,2003
+New Delhi,"Asian, Japanese, Korean, Thai, Chinese",1,4.1,188
+New Delhi,"Asian, North Indian",2,3.9499999999999997,456
+New Delhi,"Asian, North Indian, Continental",1,3.5,104
+New Delhi,"Asian, North Indian, Japanese",1,2.9,48
+New Delhi,"Asian, North Indian, Mughlai",1,0.0,1
+New Delhi,"Asian, Sushi",1,4.1,695
+New Delhi,"Asian, Thai",1,3.7,57
+New Delhi,"Asian, Thai, Chinese",1,4.1,1330
+New Delhi,"Asian, Thai, Chinese, North Indian",1,3.1,80
+New Delhi,Assamese,1,0.0,2
+New Delhi,"Assamese, Chinese",2,3.15,263
+New Delhi,Awadhi,1,0.0,1
+New Delhi,"Awadhi, Mughlai",1,0.0,0
+New Delhi,"Awadhi, Mughlai, North Indian",1,0.0,1
+New Delhi,Bakery,122,1.7778688524590165,1999
+New Delhi,"Bakery, Cafe",1,3.8,79
+New Delhi,"Bakery, Chinese",5,1.44,158
+New Delhi,"Bakery, Chinese, Fast Food",3,3.533333333333333,503
+New Delhi,"Bakery, Desserts",117,2.318803418803419,5586
+New Delhi,"Bakery, Desserts, Chinese, Fast Food",2,3.4000000000000004,211
+New Delhi,"Bakery, Desserts, Fast Food",42,3.4380952380952383,6926
+New Delhi,"Bakery, Desserts, Fast Food, Beverages",1,4.2,729
+New Delhi,"Bakery, Desserts, Fast Food, Mithai",1,0.0,0
+New Delhi,"Bakery, Desserts, Fast Food, Pizza, Burger, Continental",1,3.6,34
+New Delhi,"Bakery, Desserts, Fast Food, Pizza, Burger, Finger Food",1,3.4,33
+New Delhi,"Bakery, Desserts, Fast Food, Street Food, Chinese, Beverages",1,3.4,179
+New Delhi,"Bakery, Desserts, Healthy Food",1,0.0,2
+New Delhi,"Bakery, Desserts, Ice Cream",1,3.4,66
+New Delhi,"Bakery, Fast Food",80,2.46625,4775
+New Delhi,"Bakery, Fast Food, Beverages",1,3.4,17
+New Delhi,"Bakery, Fast Food, Chinese",2,3.3499999999999996,118
+New Delhi,"Bakery, Fast Food, Desserts",1,4.3,3591
+New Delhi,"Bakery, Fast Food, Pizza",1,3.1,8
+New Delhi,"Bakery, Fast Food, Street Food",1,2.9,7
+New Delhi,"Bakery, Healthy Food",1,0.0,0
+New Delhi,"Bakery, Italian, Chinese, Mexican",3,2.533333333333333,143
+New Delhi,"Bakery, Italian, Fast Food, Chinese, Continental",1,2.9,10
+New Delhi,"Bakery, Mithai",5,0.6,12
+New Delhi,"Bakery, Pizza",1,0.0,0
+New Delhi,"Bakery, Street Food",1,3.2,11
+New Delhi,Bengali,3,3.3666666666666667,472
+New Delhi,"Bengali, Chinese",1,0.0,0
+New Delhi,"Bengali, North Indian",3,2.3333333333333335,512
+New Delhi,"Bengali, North Indian, Chinese",2,3.7,525
+New Delhi,"Bengali, Seafood",1,4.4,1293
+New Delhi,"Bengali, South Indian, North Indian, Mughlai",1,3.9,66
+New Delhi,Beverages,35,2.757142857142857,1245
+New Delhi,"Beverages, Desserts",2,1.8,23
+New Delhi,"Beverages, Fast Food",11,2.6727272727272724,1778
+New Delhi,"Beverages, Healthy Food",1,0.0,0
+New Delhi,"Beverages, Ice Cream",1,3.1,7
+New Delhi,"Beverages, Street Food",1,3.2,11
+New Delhi,Bihari,3,3.4333333333333336,340
+New Delhi,Biryani,36,1.3527777777777779,551
+New Delhi,"Biryani, Chinese, North Indian",1,2.8,5
+New Delhi,"Biryani, Hyderabadi",6,3.533333333333333,818
+New Delhi,"Biryani, Kerala",1,3.2,13
+New Delhi,"Biryani, Mughlai",9,1.5,109
+New Delhi,"Biryani, Mughlai, Bengali, North Indian",1,3.7,89
+New Delhi,"Biryani, North Indian",9,2.2222222222222223,449
+New Delhi,"Biryani, North Indian, Hyderabadi",1,4.1,740
+New Delhi,"Biryani, North Indian, Mughlai",2,3.7,731
+New Delhi,"British, Chinese, Italian",1,3.8,244
+New Delhi,"Burger, American, Fast Food",3,3.8666666666666667,522
+New Delhi,"Burger, American, Fast Food, Italian, Pizza",1,4.5,162
+New Delhi,"Burger, Desserts, Fast Food",10,3.3,3557
+New Delhi,"Burger, Fast Food",23,3.3434782608695657,5479
+New Delhi,"Burger, Fast Food, Chinese, Bakery",1,3.0,41
+New Delhi,"Burger, Juices, Finger Food",1,3.6,548
+New Delhi,"Burger, Pizza, Fast Food",1,0.0,0
+New Delhi,"Burmese, Chinese, Japanese, Malaysian, Thai",2,3.8499999999999996,595
+New Delhi,Cafe,158,2.929746835443038,16305
+New Delhi,"Cafe, American, Continental, Nepalese",1,3.6,31
+New Delhi,"Cafe, American, Italian",1,4.0,244
+New Delhi,"Cafe, American, Italian, North Indian, Chinese",1,3.7,185
+New Delhi,"Cafe, American, Tea",1,3.1,5
+New Delhi,"Cafe, Asian, Italian, North Indian",1,4.2,91
+New Delhi,"Cafe, Bakery",8,2.2625,631
+New Delhi,"Cafe, Bakery, Italian",1,4.1,251
+New Delhi,"Cafe, Bakery, Parsi",1,4.1,84
+New Delhi,"Cafe, Beverages",2,2.05,92
+New Delhi,"Cafe, Chinese",3,3.1666666666666665,74
+New Delhi,"Cafe, Chinese, Continental, Italian, Desserts, Beverages",1,3.2,28
+New Delhi,"Cafe, Chinese, Fast Food",1,3.0,4
+New Delhi,"Cafe, Chinese, Italian",4,2.65,642
+New Delhi,"Cafe, Continental",4,2.525,122
+New Delhi,"Cafe, Continental, Chinese",2,1.7,76
+New Delhi,"Cafe, Continental, Chinese, Italian",2,4.199999999999999,1248
+New Delhi,"Cafe, Continental, Chinese, North Indian, Italian",1,3.6,244
+New Delhi,"Cafe, Continental, Italian",7,4.1000000000000005,1286
+New Delhi,"Cafe, Continental, Italian, Chinese",1,3.6,83
+New Delhi,"Cafe, Continental, Italian, Chinese, North Indian",1,4.2,349
+New Delhi,"Cafe, Continental, Italian, Fast Food",1,3.7,216
+New Delhi,"Cafe, Continental, Italian, Mexican",1,4.0,134
+New Delhi,"Cafe, Continental, Italian, Mexican, Chinese, American",1,4.7,1563
+New Delhi,"Cafe, Continental, Italian, North Indian",2,3.45,213
+New Delhi,"Cafe, Continental, Mexican, Italian, North Indian, Chinese",1,3.7,177
+New Delhi,"Cafe, Continental, North Indian",1,3.6,261
+New Delhi,"Cafe, Continental, North Indian, Chinese, Mexican",1,4.0,107
+New Delhi,"Cafe, Desserts",3,3.966666666666667,863
+New Delhi,"Cafe, Desserts, Bakery",2,3.65,405
+New Delhi,"Cafe, Desserts, Healthy Food, Juices",1,3.7,223
+New Delhi,"Cafe, European",3,3.9333333333333336,724
+New Delhi,"Cafe, Fast Food",4,3.275,310
+New Delhi,"Cafe, Fast Food, Asian, Italian",1,2.8,19
+New Delhi,"Cafe, Fast Food, Bakery",1,0.0,1
+New Delhi,"Cafe, Fast Food, Continental",1,3.2,12
+New Delhi,"Cafe, Fast Food, Desserts",2,3.5999999999999996,268
+New Delhi,"Cafe, Fast Food, Healthy Food",1,4.1,135
+New Delhi,"Cafe, Fast Food, Italian",2,4.25,3525
+New Delhi,"Cafe, Fast Food, Italian, Chinese",2,3.9499999999999997,3449
+New Delhi,"Cafe, Fast Food, North Indian",1,3.9,406
+New Delhi,"Cafe, Fast Food, Pizza",1,3.4,21
+New Delhi,"Cafe, French",1,0.0,1
+New Delhi,"Cafe, Healthy Food, Continental",2,3.8,252
+New Delhi,"Cafe, Healthy Food, North Indian",1,3.0,7
+New Delhi,"Cafe, Italian",6,3.1999999999999997,1008
+New Delhi,"Cafe, Italian, Chinese",2,3.7,1007
+New Delhi,"Cafe, Italian, Chinese, Continental",1,4.1,658
+New Delhi,"Cafe, Italian, Chinese, North Indian",2,3.65,464
+New Delhi,"Cafe, Italian, Continental",3,3.9,1857
+New Delhi,"Cafe, Italian, Continental, Chinese",1,4.4,1537
+New Delhi,"Cafe, Italian, Continental, Fast Food",1,4.3,1327
+New Delhi,"Cafe, Italian, Continental, Mexican",1,4.1,37
+New Delhi,"Cafe, Italian, Continental, Mexican, Mediterranean",1,3.6,555
+New Delhi,"Cafe, Italian, Fast Food",1,4.3,3986
+New Delhi,"Cafe, Italian, Lebanese",3,3.4333333333333336,861
+New Delhi,"Cafe, Italian, Lebanese, Continental, Mediterranean",1,4.1,1653
+New Delhi,"Cafe, Italian, Mexican, Salad, Desserts",1,3.4,155
+New Delhi,"Cafe, Italian, North Indian",1,3.6,365
+New Delhi,"Cafe, Korean",1,3.6,110
+New Delhi,"Cafe, Mexican, American, Italian, Lebanese, Continental",1,4.3,4085
+New Delhi,"Cafe, Mexican, Continental",1,0.0,0
+New Delhi,"Cafe, Mexican, Italian, North Indian, Chinese",1,3.8,429
+New Delhi,"Cafe, North Eastern",1,0.0,0
+New Delhi,"Cafe, North Indian, Chinese",5,3.46,199
+New Delhi,"Cafe, North Indian, Chinese, Continental",1,4.0,355
+New Delhi,"Cafe, North Indian, Chinese, South Indian",1,3.2,18
+New Delhi,"Cafe, North Indian, Continental",2,1.3,54
+New Delhi,"Cafe, North Indian, Continental, Chinese",2,3.7,501
+New Delhi,"Cafe, North Indian, Continental, Italian",1,3.7,43
+New Delhi,"Cafe, North Indian, Fast Food",2,3.05,42
+New Delhi,"Cafe, North Indian, Italian, Japanese, Fast Food",1,3.6,391
+New Delhi,"Cafe, North Indian, Lebanese, Continental",1,3.5,30
+New Delhi,"Cafe, Pizza",1,3.5,54
+New Delhi,"Cafe, Pizza, Italian",1,3.8,863
+New Delhi,"Cafe, South Indian, North Indian, Bakery",1,3.5,126
+New Delhi,"Cafe, Tea",8,3.8125,1426
+New Delhi,"Cafe, Tea, Desserts",1,3.6,34
+New Delhi,"Cafe, Tibetan",1,0.0,0
+New Delhi,Chinese,228,1.9469298245614035,10771
+New Delhi,"Chinese, Asian, Mediterranean, Continental",1,3.9,305
+New Delhi,"Chinese, Asian, Thai",2,3.75,582
+New Delhi,"Chinese, Bakery",2,1.65,48
+New Delhi,"Chinese, Beverages",2,3.35,77
+New Delhi,"Chinese, Biryani, North Indian",1,3.0,5
+New Delhi,"Chinese, Cafe",1,2.8,19
+New Delhi,"Chinese, Cafe, Fast Food",1,3.2,32
+New Delhi,"Chinese, Continental",2,3.7,120
+New Delhi,"Chinese, Continental, Italian, North Indian",1,3.1,27
+New Delhi,"Chinese, Continental, Mexican",1,2.8,14
+New Delhi,"Chinese, Continental, North Indian",4,2.5,808
+New Delhi,"Chinese, Continental, Thai",1,3.2,88
+New Delhi,"Chinese, Fast Food",99,2.0393939393939395,4436
+New Delhi,"Chinese, Fast Food, Bakery",1,0.0,0
+New Delhi,"Chinese, Fast Food, Ice Cream",1,3.3,11
+New Delhi,"Chinese, Fast Food, North Indian",5,1.8199999999999998,563
+New Delhi,"Chinese, Fast Food, North Indian, South Indian",1,3.4,280
+New Delhi,"Chinese, Fast Food, North Indian, South Indian, Street Food, Mithai",1,2.4,29
+New Delhi,"Chinese, Fast Food, Pizza",1,0.0,0
+New Delhi,"Chinese, Healthy Food",1,2.8,78
+New Delhi,"Chinese, Indian",1,0.0,1
+New Delhi,"Chinese, Italian",1,0.0,0
+New Delhi,"Chinese, Italian, Continental",1,3.1,15
+New Delhi,"Chinese, Italian, Continental, North Indian",1,3.6,61
+New Delhi,"Chinese, Italian, Fast Food",2,2.75,70
+New Delhi,"Chinese, Italian, North Indian",3,3.6999999999999997,815
+New Delhi,"Chinese, Japanese",2,3.4,449
+New Delhi,"Chinese, Japanese, Italian, Seafood",1,3.5,1027
+New Delhi,"Chinese, Japanese, Korean, Asian",1,4.0,225
+New Delhi,"Chinese, Japanese, Thai",3,3.1999999999999997,162
+New Delhi,"Chinese, Japanese, Thai, Malaysian, Vietnamese, Asian",1,3.6,210
+New Delhi,"Chinese, Lucknowi",1,0.0,1
+New Delhi,"Chinese, Mexican, Italian",1,3.0,6
+New Delhi,"Chinese, Mithai",2,0.0,4
+New Delhi,"Chinese, Mughlai",2,3.15,90
+New Delhi,"Chinese, Mughlai, North Indian",8,2.25,225
+New Delhi,"Chinese, Naga",1,3.7,143
+New Delhi,"Chinese, North Eastern",1,0.0,0
+New Delhi,"Chinese, North Indian",70,1.9485714285714286,2024
+New Delhi,"Chinese, North Indian, Continental, Italian",1,3.4,148
+New Delhi,"Chinese, North Indian, Fast Food",3,1.9333333333333333,14
+New Delhi,"Chinese, North Indian, Fast Food, Italian",3,4.033333333333333,3536
+New Delhi,"Chinese, North Indian, Fast Food, Street Food",1,0.0,1
+New Delhi,"Chinese, North Indian, Italian",2,3.35,274
+New Delhi,"Chinese, North Indian, Italian, Continental, Fast Food",1,3.2,145
+New Delhi,"Chinese, North Indian, Italian, Fast Food",1,3.6,346
+New Delhi,"Chinese, North Indian, Italian, Mughlai",1,3.0,11
+New Delhi,"Chinese, North Indian, Mithai, Street Food",1,2.6,32
+New Delhi,"Chinese, North Indian, Mughlai",4,2.775,266
+New Delhi,"Chinese, North Indian, Mughlai, Continental",1,3.0,671
+New Delhi,"Chinese, North Indian, Mughlai, Pizza",1,0.0,1
+New Delhi,"Chinese, North Indian, Seafood",1,2.8,31
+New Delhi,"Chinese, North Indian, South Indian",4,0.85,37
+New Delhi,"Chinese, North Indian, Street Food",2,3.35,102
+New Delhi,"Chinese, North Indian, Thai",1,3.5,74
+New Delhi,"Chinese, Seafood",4,3.4000000000000004,776
+New Delhi,"Chinese, Seafood, Asian",1,4.2,391
+New Delhi,"Chinese, Seafood, Japanese",2,2.95,221
+New Delhi,"Chinese, Seafood, Thai",1,3.5,234
+New Delhi,"Chinese, South Indian",11,1.5999999999999999,116
+New Delhi,"Chinese, South Indian, Fast Food",3,1.0333333333333334,27
+New Delhi,"Chinese, South Indian, North Indian",2,1.35,7
+New Delhi,"Chinese, Street Food",1,0.0,2
+New Delhi,"Chinese, Thai",31,3.2483870967741937,7603
+New Delhi,"Chinese, Thai, Asian",2,3.45,235
+New Delhi,"Chinese, Thai, Asian, Malaysian, Vietnamese, Japanese",1,4.1,686
+New Delhi,"Chinese, Thai, Continental, Fast Food, North Indian",1,3.9,117
+New Delhi,"Chinese, Thai, Continental, North Indian",2,3.75,1368
+New Delhi,"Chinese, Thai, Fast Food",2,3.7,242
+New Delhi,"Chinese, Thai, Japanese",3,4.1000000000000005,1206
+New Delhi,"Chinese, Thai, Japanese, Tibetan",1,3.9,363
+New Delhi,"Chinese, Thai, North Indian",1,3.7,137
+New Delhi,"Chinese, Thai, Seafood",3,3.4,641
+New Delhi,"Chinese, Thai, Seafood, Naga",1,3.8,556
+New Delhi,"Chinese, Thai, Seafood, North Indian, Italian",1,3.0,5
+New Delhi,"Chinese, Thai, Tibetan, Japanese",1,3.9,419
+New Delhi,"Chinese, Tibetan",4,3.275,181
+New Delhi,"Chinese, Tibetan, Fast Food",1,3.3,150
+New Delhi,"Chinese, Tibetan, Japanese",1,3.6,412
+New Delhi,Continental,9,3.577777777777778,1288
+New Delhi,"Continental, American",1,4.0,79
+New Delhi,"Continental, American, Asian, North Indian",3,4.1,10688
+New Delhi,"Continental, American, Fast Food",1,3.9,109
+New Delhi,"Continental, American, Italian",2,3.65,954
+New Delhi,"Continental, American, Italian, Bakery",1,3.9,1756
+New Delhi,"Continental, American, Italian, North Indian, Chinese",1,3.6,23
+New Delhi,"Continental, American, Italian, Seafood, North Indian, Cafe",1,4.0,304
+New Delhi,"Continental, American, North Indian",1,3.6,30
+New Delhi,"Continental, American, Tex-Mex, North Indian",1,3.5,1863
+New Delhi,"Continental, Asian, Italian, Mediterranean, Burger",1,3.8,1845
+New Delhi,"Continental, Asian, North Indian",1,3.4,19
+New Delhi,"Continental, Asian, Sushi",1,4.2,63
+New Delhi,"Continental, Cafe",1,3.7,18
+New Delhi,"Continental, Chinese, Fast Food",1,0.0,2
+New Delhi,"Continental, Chinese, Italian, Cafe",1,3.4,430
+New Delhi,"Continental, Chinese, Italian, Finger Food",1,4.3,90
+New Delhi,"Continental, Chinese, Japanese, North Indian, Thai",1,3.0,19
+New Delhi,"Continental, Chinese, North Indian",4,2.55,179
+New Delhi,"Continental, Chinese, North Indian, Healthy Food",1,3.2,12
+New Delhi,"Continental, Chinese, Thai",1,4.1,22
+New Delhi,"Continental, Chinese, Thai, Mediterranean",1,3.4,174
+New Delhi,"Continental, Chinese, Thai, Mughlai, North Indian",1,3.9,168
+New Delhi,"Continental, European",1,3.6,127
+New Delhi,"Continental, European, North Indian",1,3.1,15
+New Delhi,"Continental, European, North Indian, French",1,4.0,189
+New Delhi,"Continental, Fast Food",2,3.35,63
+New Delhi,"Continental, Fast Food, North Indian, Asian",1,3.6,742
+New Delhi,"Continental, Healthy Food",4,3.8,287
+New Delhi,"Continental, Italian",8,3.4875,3266
+New Delhi,"Continental, Italian, American",1,4.1,1980
+New Delhi,"Continental, Italian, American, North Indian",1,3.3,169
+New Delhi,"Continental, Italian, Asian, Indian",1,4.7,52
+New Delhi,"Continental, Italian, Fast Food",1,0.0,1
+New Delhi,"Continental, Italian, Mediterranean",1,3.8,773
+New Delhi,"Continental, Italian, Mediterranean, Asian",1,4.1,153
+New Delhi,"Continental, Italian, North Indian",4,3.575,666
+New Delhi,"Continental, Italian, North Indian, Chinese",1,4.0,115
+New Delhi,"Continental, Italian, North Indian, Chinese, Lebanese",1,3.8,43
+New Delhi,"Continental, Italian, North Indian, Lebanese",1,2.8,27
+New Delhi,"Continental, Kashmiri, Italian, North Indian, Moroccan",1,3.6,300
+New Delhi,"Continental, Kerala",1,4.5,1033
+New Delhi,"Continental, Mediterranean, Italian, North Indian",1,4.0,510
+New Delhi,"Continental, Mexican",1,4.6,1136
+New Delhi,"Continental, Mexican, American, Italian, North Indian",1,3.7,706
+New Delhi,"Continental, Mexican, Burger, American, Pizza, Tex-Mex",1,4.1,467
+New Delhi,"Continental, Mexican, Fast Food, North Indian, Chinese",1,3.1,6
+New Delhi,"Continental, Modern Indian, Asian",1,4.0,91
+New Delhi,"Continental, North Indian",4,2.825,202
+New Delhi,"Continental, North Indian, American, Italian, Mexican",1,4.3,142
+New Delhi,"Continental, North Indian, Asian",2,3.5,92
+New Delhi,"Continental, North Indian, Chinese",5,3.4,664
+New Delhi,"Continental, North Indian, Chinese, Asian",1,4.1,163
+New Delhi,"Continental, North Indian, Chinese, Cafe",2,3.5,503
+New Delhi,"Continental, North Indian, Chinese, Italian, Finger Food",1,3.6,751
+New Delhi,"Continental, North Indian, Chinese, Mediterranean",1,4.1,799
+New Delhi,"Continental, North Indian, Chinese, Mughlai, Asian",2,3.8000000000000003,161
+New Delhi,"Continental, North Indian, European, Asian",1,4.0,165
+New Delhi,"Continental, North Indian, Fast Food, Street Food, South Indian",1,0.0,2
+New Delhi,"Continental, North Indian, Italian",5,3.56,1479
+New Delhi,"Continental, North Indian, Italian, Asian",2,3.85,2671
+New Delhi,"Continental, North Indian, Mughlai, Chinese",1,3.8,40
+New Delhi,"Continental, North Indian, Mughlai, Italian",1,4.1,387
+New Delhi,"Continental, North Indian, South Indian",1,0.0,1
+New Delhi,"Continental, North Indian, South Indian, Italian",1,3.9,821
+New Delhi,"Continental, Seafood, Goan, Andhra, Kerala, Thai",1,4.2,46
+New Delhi,"Continental, Seafood, North Indian",1,3.3,89
+New Delhi,"Continental, Tex-Mex",1,3.8,567
+New Delhi,"Continental, Thai, Chinese, North Indian",1,3.2,28
+New Delhi,Cuisine Varies,1,0.0,2
+New Delhi,Desserts,32,2.68125,1585
+New Delhi,"Desserts, Bakery",8,3.0,255
+New Delhi,"Desserts, Bakery, Fast Food",2,2.95,48
+New Delhi,"Desserts, Bakery, Pizza, Burger, Continental",1,3.6,58
+New Delhi,"Desserts, Beverages",10,2.6100000000000003,1001
+New Delhi,"Desserts, Cafe",2,4.0,757
+New Delhi,"Desserts, Fast Food",4,2.9,162
+New Delhi,"Desserts, Fast Food, Chinese",1,3.2,92
+New Delhi,"Desserts, Fast Food, Ice Cream",1,4.0,95
+New Delhi,"Desserts, Ice Cream",16,3.3875,1025
+New Delhi,"Desserts, Ice Cream, Fast Food",3,1.0,10
+New Delhi,"Desserts, Ice Cream, North Indian",1,3.5,19
+New Delhi,"Desserts, Ice Cream, Pizza",1,0.0,1
+New Delhi,"Desserts, Middle Eastern, Turkish",1,3.9,200
+New Delhi,"Desserts, Mithai",1,2.9,10
+New Delhi,"Desserts, North Indian",1,0.0,1
+New Delhi,"Desserts, Street Food",7,2.185714285714286,72
+New Delhi,Drinks Only,1,3.5,45
+New Delhi,European,3,2.6,347
+New Delhi,"European, American",1,3.8,637
+New Delhi,"European, American, Street Food",1,0.0,1
+New Delhi,"European, Asian",1,4.3,96
+New Delhi,"European, Asian, North Indian, Italian, Continental, Pizza",1,4.1,826
+New Delhi,"European, Chinese, North Indian, Italian",4,4.05,4027
+New Delhi,"European, Continental",3,3.4,490
+New Delhi,"European, Continental, North Indian",2,3.55,364
+New Delhi,"European, Continental, Pizza",1,4.2,113
+New Delhi,"European, Desserts",1,3.6,57
+New Delhi,"European, Italian",3,3.8000000000000003,1078
+New Delhi,"European, Italian, Cafe",1,4.1,1199
+New Delhi,"European, Italian, North Indian",2,4.1,2313
+New Delhi,"European, Italian, Thai, Chinese, North Indian",1,3.2,30
+New Delhi,"European, Lebanese, Mediterranean",1,4.2,2549
+New Delhi,"European, North Indian",2,3.55,249
+New Delhi,"European, Sushi, Italian",1,3.0,9
+New Delhi,Fast Food,242,2.0578512396694215,9533
+New Delhi,"Fast Food, American, Burger",1,4.0,608
+New Delhi,"Fast Food, American, Italian",2,3.6500000000000004,211
+New Delhi,"Fast Food, Bakery",8,2.4125,160
+New Delhi,"Fast Food, Beverages",22,2.5500000000000003,1195
+New Delhi,"Fast Food, Beverages, Desserts",1,0.0,1
+New Delhi,"Fast Food, Burger",40,3.4025,4465
+New Delhi,"Fast Food, Cafe",1,3.2,39
+New Delhi,"Fast Food, Chinese",24,1.6875,1274
+New Delhi,"Fast Food, Chinese, Bakery",3,3.3000000000000003,91
+New Delhi,"Fast Food, Chinese, Mithai, Street Food",1,2.9,4
+New Delhi,"Fast Food, Chinese, North Indian",1,3.3,49
+New Delhi,"Fast Food, Continental, Italian, Bakery",1,3.2,22
+New Delhi,"Fast Food, Desserts",4,2.35,94
+New Delhi,"Fast Food, Desserts, Beverages",1,0.0,0
+New Delhi,"Fast Food, Healthy Food",1,3.7,105
+New Delhi,"Fast Food, Italian",5,1.98,55
+New Delhi,"Fast Food, Italian, Beverages",1,3.5,60
+New Delhi,"Fast Food, Italian, Chinese",1,4.0,96
+New Delhi,"Fast Food, Italian, North Indian, Chinese",1,3.6,22
+New Delhi,"Fast Food, Italian, Pizza",3,3.3333333333333335,98
+New Delhi,"Fast Food, Maharashtrian, North Indian",1,2.7,11
+New Delhi,"Fast Food, Mithai, Bakery",1,3.3,13
+New Delhi,"Fast Food, Mughlai",1,0.0,0
+New Delhi,"Fast Food, Mughlai, Armenian",1,0.0,0
+New Delhi,"Fast Food, North Indian",29,2.386206896551724,903
+New Delhi,"Fast Food, North Indian, Bakery",1,3.1,8
+New Delhi,"Fast Food, North Indian, Beverages",1,3.8,201
+New Delhi,"Fast Food, North Indian, Chinese",5,2.62,380
+New Delhi,"Fast Food, North Indian, Chinese, Desserts",1,2.8,13
+New Delhi,"Fast Food, North Indian, Chinese, South Indian, Ice Cream",1,2.7,114
+New Delhi,"Fast Food, North Indian, Desserts, Ice Cream",2,2.75,243
+New Delhi,"Fast Food, North Indian, Mughlai",1,4.0,841
+New Delhi,"Fast Food, North Indian, South Indian",2,1.1,251
+New Delhi,"Fast Food, North Indian, South Indian, Chinese",1,2.7,39
+New Delhi,"Fast Food, North Indian, South Indian, Chinese, Bakery",1,3.2,11
+New Delhi,"Fast Food, North Indian, South Indian, Chinese, Street Food, Mithai",1,3.3,236
+New Delhi,"Fast Food, Pizza",6,1.75,67
+New Delhi,"Fast Food, Pizza, Burger",1,3.6,165
+New Delhi,"Fast Food, Raw Meats",1,0.0,3
+New Delhi,"Fast Food, South Indian",2,2.1,763
+New Delhi,"Fast Food, South Indian, Chinese",1,3.2,23
+New Delhi,"Fast Food, South Indian, Chinese, Mithai",1,2.9,4
+New Delhi,"Fast Food, South Indian, Mithai",1,0.0,0
+New Delhi,"Fast Food, Street Food",13,2.630769230769231,556
+New Delhi,"Fast Food, Street Food, Beverages",1,0.0,2
+New Delhi,"Fast Food, Street Food, Chinese",1,2.9,8
+New Delhi,"Fast Food, Tea",1,2.8,7
+New Delhi,"Fast Food, Turkish",3,3.8000000000000003,590
+New Delhi,Finger Food,30,2.683333333333333,1806
+New Delhi,"Finger Food, Continental, Italian",1,3.7,76
+New Delhi,"Finger Food, Continental, Italian, Chinese",1,3.6,90
+New Delhi,"Finger Food, Continental, North Indian, Chinese",1,3.1,1099
+New Delhi,"Finger Food, European",1,3.2,10
+New Delhi,"Finger Food, European, North Indian",1,3.5,422
+New Delhi,"Finger Food, Italian",1,3.5,14
+New Delhi,"Finger Food, Italian, Middle Eastern",1,3.7,142
+New Delhi,"Finger Food, Italian, North Indian",2,4.1,2136
+New Delhi,"Finger Food, North Indian",2,3.7,1429
+New Delhi,"Finger Food, North Indian, Chinese",1,2.8,19
+New Delhi,"Finger Food, North Indian, Continental, Chinese, Italian",1,3.0,4
+New Delhi,"Finger Food, North Indian, Continental, Italian",1,3.7,1801
+New Delhi,"Finger Food, North Indian, Italian",5,3.44,1281
+New Delhi,"French, Italian",1,3.8,199
+New Delhi,Goan,1,2.5,29
+New Delhi,"Goan, Seafood",1,3.7,277
+New Delhi,Gujarati,1,3.6,95
+New Delhi,"Gujarati, Rajasthani",1,3.6,1134
+New Delhi,"Gujarati, Rajasthani, North Indian, Fast Food",1,3.8,603
+New Delhi,"Gujarati, South Indian, North Indian",1,3.7,203
+New Delhi,Healthy Food,10,2.66,414
+New Delhi,"Healthy Food, Beverages",2,1.85,58
+New Delhi,"Healthy Food, Continental",2,3.5,43
+New Delhi,"Healthy Food, Continental, Italian",1,4.0,361
+New Delhi,"Healthy Food, Continental, Juices, Salad",2,3.55,416
+New Delhi,"Healthy Food, Fast Food",1,3.9,54
+New Delhi,"Healthy Food, Italian, Juices, Beverages",1,3.7,81
+New Delhi,"Healthy Food, Juices",3,1.0333333333333334,9
+New Delhi,"Healthy Food, Juices, Salad",1,3.7,37
+New Delhi,"Healthy Food, Salad",4,3.75,1046
+New Delhi,Hyderabadi,2,2.85,152
+New Delhi,"Hyderabadi, Biryani",1,0.0,1
+New Delhi,"Hyderabadi, Biryani, North Indian",1,4.2,295
+New Delhi,"Hyderabadi, Fast Food",1,3.9,63
+New Delhi,"Hyderabadi, North Indian",2,3.3,87
+New Delhi,Ice Cream,42,2.7976190476190474,5160
+New Delhi,"Ice Cream, Bakery",1,0.0,0
+New Delhi,"Ice Cream, Beverages",2,1.95,33
+New Delhi,"Ice Cream, Beverages, Fast Food",2,1.6,9
+New Delhi,"Ice Cream, Desserts",64,2.8171875,2602
+New Delhi,"Ice Cream, Desserts, Beverages",2,4.25,245
+New Delhi,"Ice Cream, Desserts, Fast Food",1,3.0,8
+New Delhi,"Ice Cream, Desserts, North Indian, Street Food",1,3.8,71
+New Delhi,"Ice Cream, Fast Food, Beverages",2,3.5999999999999996,89
+New Delhi,"Ice Cream, Mithai, North Indian, Street Food",1,4.3,521
+New Delhi,"Ice Cream, Street Food",1,2.9,8
+New Delhi,Italian,12,3.158333333333333,3134
+New Delhi,"Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",2,3.6500000000000004,168
+New Delhi,"Italian, Chinese, Fast Food, North Indian",1,3.7,32
+New Delhi,"Italian, Chinese, North Indian",2,3.45,82
+New Delhi,"Italian, Continental",4,3.475,2016
+New Delhi,"Italian, Continental, Cafe",1,4.2,2131
+New Delhi,"Italian, Continental, European, Cafe",4,4.475,10853
+New Delhi,"Italian, Continental, Fast Food, Chinese",1,3.4,50
+New Delhi,"Italian, Continental, Fast Food, North Indian",1,0.0,3
+New Delhi,"Italian, Continental, Finger Food",1,3.3,50
+New Delhi,"Italian, Continental, Mexican, North Indian",1,3.9,1316
+New Delhi,"Italian, Continental, North Indian",1,3.9,96
+New Delhi,"Italian, European",1,3.9,454
+New Delhi,"Italian, European, Cafe",1,4.0,1093
+New Delhi,"Italian, Fast Food",5,1.4,78
+New Delhi,"Italian, Fast Food, South Indian",1,0.0,0
+New Delhi,"Italian, French",1,4.1,711
+New Delhi,"Italian, French, European, Cafe",1,3.7,774
+New Delhi,"Italian, Mediterranean",1,3.8,1347
+New Delhi,"Italian, Mediterranean, Continental, North Indian",2,4.1,3145
+New Delhi,"Italian, Mexican, Continental, North Indian, Finger Food",1,4.0,817
+New Delhi,"Italian, Mexican, Lebanese, Continental",1,3.8,170
+New Delhi,"Italian, Mexican, Spanish, Thai, Vietnamese, Indonesian, American",1,4.3,130
+New Delhi,"Italian, North Indian",1,3.4,267
+New Delhi,"Italian, North Indian, Chinese, Mughlai",2,3.75,1181
+New Delhi,"Italian, North Indian, Continental",3,3.4333333333333336,1132
+New Delhi,"Italian, Pizza",3,3.2999999999999994,690
+New Delhi,"Italian, Pizza, Bakery",7,2.7142857142857144,1266
+New Delhi,"Italian, Pizza, Fast Food",24,2.9791666666666665,3202
+New Delhi,"Italian, Tex-Mex, Continental, North Indian",1,3.9,886
+New Delhi,Japanese,4,2.7,494
+New Delhi,"Japanese, Asian",1,4.0,46
+New Delhi,"Japanese, Chinese",1,3.4,24
+New Delhi,"Japanese, Chinese, Asian, Malaysian, Thai, Vietnamese",1,2.8,9
+New Delhi,"Japanese, Chinese, Asian, Thai",1,3.7,128
+New Delhi,"Japanese, Chinese, Malaysian, Thai, Vietnamese",1,3.3,60
+New Delhi,"Japanese, French",1,3.1,10
+New Delhi,"Japanese, Korean",1,3.6,59
+New Delhi,"Japanese, Sushi",3,3.9666666666666663,1026
+New Delhi,"Japanese, Thai, Italian, Asian",1,3.8,1186
+New Delhi,"Japanese, Thai, Sushi",1,3.9,290
+New Delhi,Juices,3,1.0666666666666667,9
+New Delhi,Kashmiri,4,1.625,150
+New Delhi,"Kashmiri, Chinese, Mughlai",1,3.3,89
+New Delhi,"Kashmiri, North Indian",1,2.9,4
+New Delhi,"Kashmiri, North Indian, Mughlai, South Indian, Maharashtrian, Gujarati",1,4.4,676
+New Delhi,Kerala,3,2.1,69
+New Delhi,"Kerala, Biryani",2,3.75,237
+New Delhi,"Kerala, South Indian",2,1.6,86
+New Delhi,Korean,2,3.35,385
+New Delhi,"Korean, Beverages, Desserts",1,3.9,179
+New Delhi,Lebanese,4,3.275,473
+New Delhi,"Lebanese, Arabian",2,3.6,214
+New Delhi,"Lebanese, Arabian, Moroccan",3,1.5,177
+New Delhi,"Lebanese, Chinese",1,3.2,159
+New Delhi,"Lebanese, Chinese, Fast Food",1,2.4,30
+New Delhi,"Lebanese, Mediterranean, Arabian",1,3.5,246
+New Delhi,"Lebanese, Mediterranean, Middle Eastern, Arabian",1,3.9,1071
+New Delhi,"Lebanese, North Indian, Fast Food",1,0.0,0
+New Delhi,"Lucknowi, Biryani",1,3.1,9
+New Delhi,"Lucknowi, Mughlai",1,2.2,182
+New Delhi,Maharashtrian,3,3.3666666666666667,127
+New Delhi,"Malaysian, Indonesian",1,4.4,77
+New Delhi,"Malaysian, Thai",1,3.6,64
+New Delhi,"Malaysian, Thai, Kerala, Vietnamese, Sri Lankan",1,4.0,259
+New Delhi,"Mediterranean, American, Asian",2,3.6500000000000004,787
+New Delhi,"Mediterranean, Continental, Italian",1,3.7,234
+New Delhi,"Mediterranean, European",1,3.1,15
+New Delhi,"Mediterranean, Italian",2,4.2,649
+New Delhi,"Mediterranean, Italian, Continental, Spanish, North Indian",1,3.7,2247
+New Delhi,Mexican,6,3.0499999999999994,910
+New Delhi,"Mexican, American",1,4.2,420
+New Delhi,"Mexican, Italian, American",1,3.9,105
+New Delhi,"Mexican, Italian, North Indian, Continental, Asian",1,3.3,191
+New Delhi,"Mexican, North Indian",1,3.7,57
+New Delhi,"Mexican, North Indian, European, Chinese, Italian",1,3.4,35
+New Delhi,"Middle Eastern, Mediterranean, North Indian",2,3.4000000000000004,330
+New Delhi,Mithai,59,1.616949152542373,566
+New Delhi,"Mithai, Bakery",2,1.55,7
+New Delhi,"Mithai, Bakery, North Indian",1,0.0,1
+New Delhi,"Mithai, Chinese",3,0.9333333333333332,8
+New Delhi,"Mithai, Chinese, Street Food",1,3.8,83
+New Delhi,"Mithai, Fast Food",6,1.0833333333333333,28
+New Delhi,"Mithai, North Indian",3,3.233333333333333,47
+New Delhi,"Mithai, North Indian, Chinese, Street Food",1,2.8,8
+New Delhi,"Mithai, North Indian, South Indian",1,3.7,59
+New Delhi,"Mithai, North Indian, South Indian, Chinese, Bakery",1,3.3,13
+New Delhi,"Mithai, North Indian, South Indian, Chinese, Street Food",2,3.0,39
+New Delhi,"Mithai, North Indian, South Indian, Chinese, Street Food, Bakery",1,0.0,0
+New Delhi,"Mithai, North Indian, South Indian, Street Food",3,2.8666666666666667,31
+New Delhi,"Mithai, North Indian, Street Food, Chinese, South Indian, Indian",1,2.9,4
+New Delhi,"Mithai, South Indian",1,3.3,32
+New Delhi,"Mithai, South Indian, Street Food",3,1.1666666666666667,97
+New Delhi,"Mithai, Street Food",90,2.071111111111111,2734
+New Delhi,"Mithai, Street Food, Fast Food",1,2.8,10
+New Delhi,"Mithai, Street Food, North Indian",3,1.0666666666666667,11
+New Delhi,"Mithai, Street Food, North Indian, South Indian",1,0.0,1
+New Delhi,"Mithai, Street Food, North Indian, South Indian, Chinese",1,2.7,16
+New Delhi,"Mithai, Street Food, North Indian, South Indian, Chinese, Fast Food, Beverages",1,3.2,63
+New Delhi,Modern Indian,5,4.58,4830
+New Delhi,"Modern Indian, North Indian",1,3.9,450
+New Delhi,Mughlai,86,1.544186046511628,2662
+New Delhi,"Mughlai, Afghani",1,2.8,25
+New Delhi,"Mughlai, Biryani",4,3.325,273
+New Delhi,"Mughlai, Chinese",4,0.625,10
+New Delhi,"Mughlai, Chinese, North Indian",1,3.0,42
+New Delhi,"Mughlai, Fast Food",5,1.34,28
+New Delhi,"Mughlai, Fast Food, North Indian",1,2.4,41
+New Delhi,"Mughlai, Italian, Finger Food, Middle Eastern",1,3.3,199
+New Delhi,"Mughlai, North Indian",43,1.927906976744186,12872
+New Delhi,"Mughlai, North Indian, Bengali, Continental",1,2.7,135
+New Delhi,"Mughlai, North Indian, Chinese",12,3.25,1267
+New Delhi,"Mughlai, North Indian, South Indian",1,3.9,265
+New Delhi,"Mughlai, Street Food",1,4.4,305
+New Delhi,Naga,3,3.6,301
+New Delhi,"Naga, Chinese",1,3.1,7
+New Delhi,"Naga, Tibetan",1,3.4,15
+New Delhi,"Naga, Tibetan, Chinese, Bakery",1,3.0,4
+New Delhi,Nepalese,3,1.3333333333333333,62
+New Delhi,"Nepalese, Tibetan",1,0.0,0
+New Delhi,North Eastern,2,1.85,94
+New Delhi,"North Eastern, North Indian",1,3.0,6
+New Delhi,"North Eastern, North Indian, Chinese",1,0.0,1
+New Delhi,North Indian,658,1.6341945288753799,25673
+New Delhi,"North Indian, Afghani",1,2.6,15
+New Delhi,"North Indian, Afghani, Mughlai",1,4.3,104
+New Delhi,"North Indian, American, Chinese",1,4.1,501
+New Delhi,"North Indian, Asian, Continental",1,3.0,5
+New Delhi,"North Indian, Awadhi",1,0.0,1
+New Delhi,"North Indian, Bengali",3,3.033333333333333,154
+New Delhi,"North Indian, Beverages",1,2.7,16
+New Delhi,"North Indian, Biryani",9,2.1222222222222222,359
+New Delhi,"North Indian, Biryani, Chinese, Fast Food",5,3.66,1111
+New Delhi,"North Indian, Biryani, Fast Food",1,2.6,41
+New Delhi,"North Indian, Biryani, Mughlai",1,3.3,157
+New Delhi,"North Indian, Chinese",284,2.502112676056338,19381
+New Delhi,"North Indian, Chinese, Bakery",1,2.2,64
+New Delhi,"North Indian, Chinese, Biryani",1,2.7,14
+New Delhi,"North Indian, Chinese, Cafe",2,3.9,1868
+New Delhi,"North Indian, Chinese, Continental",30,2.99,2912
+New Delhi,"North Indian, Chinese, Continental, Fast Food",4,3.575,210
+New Delhi,"North Indian, Chinese, Continental, Italian",10,3.6199999999999997,4446
+New Delhi,"North Indian, Chinese, Continental, Italian, Mexican, Lebanese",1,3.5,349
+New Delhi,"North Indian, Chinese, Continental, Seafood",1,3.4,218
+New Delhi,"North Indian, Chinese, Continental, Thai",2,3.15,18
+New Delhi,"North Indian, Chinese, Fast Food",40,2.6075,2403
+New Delhi,"North Indian, Chinese, Fast Food, Cafe",1,3.9,288
+New Delhi,"North Indian, Chinese, Fast Food, South Indian",1,2.9,6
+New Delhi,"North Indian, Chinese, Finger Food",3,3.1999999999999997,301
+New Delhi,"North Indian, Chinese, Italian",7,3.0714285714285716,1495
+New Delhi,"North Indian, Chinese, Italian, American, Middle Eastern",1,4.2,961
+New Delhi,"North Indian, Chinese, Italian, Continental",6,3.3833333333333333,7156
+New Delhi,"North Indian, Chinese, Italian, Fast Food",1,2.7,63
+New Delhi,"North Indian, Chinese, Italian, Finger Food",1,3.4,220
+New Delhi,"North Indian, Chinese, Italian, Lebanese, Mexican",1,4.0,277
+New Delhi,"North Indian, Chinese, Italian, Mediterranean",1,3.6,877
+New Delhi,"North Indian, Chinese, Italian, Mexican, Lebanese",1,4.0,537
+New Delhi,"North Indian, Chinese, Mexican, Italian, Thai, Lebanese",1,4.4,317
+New Delhi,"North Indian, Chinese, Mexican, Lebanese, Italian, Fast Food",1,2.5,120
+New Delhi,"North Indian, Chinese, Mughlai",46,2.758695652173913,6005
+New Delhi,"North Indian, Chinese, Mughlai, Continental",1,3.5,133
+New Delhi,"North Indian, Chinese, Mughlai, Italian",1,3.8,1158
+New Delhi,"North Indian, Chinese, Mughlai, South Indian",1,3.1,16
+New Delhi,"North Indian, Chinese, Raw Meats",1,3.1,68
+New Delhi,"North Indian, Chinese, Seafood",1,3.4,67
+New Delhi,"North Indian, Chinese, Seafood, Chettinad",1,3.5,168
+New Delhi,"North Indian, Chinese, South Indian",19,1.6210526315789473,531
+New Delhi,"North Indian, Chinese, South Indian, Bakery",1,2.9,6
+New Delhi,"North Indian, Chinese, South Indian, Fast Food",5,2.6399999999999997,425
+New Delhi,"North Indian, Chinese, South Indian, Italian",1,3.9,272
+New Delhi,"North Indian, Chinese, South Indian, Mithai",1,3.3,199
+New Delhi,"North Indian, Chinese, South Indian, Seafood, Chettinad",2,3.7,947
+New Delhi,"North Indian, Chinese, South Indian, Street Food, Fast Food, Mithai",1,3.4,110
+New Delhi,"North Indian, Chinese, South Indian, Street Food, Mithai",1,2.4,166
+New Delhi,"North Indian, Chinese, Street Food",3,2.1,39
+New Delhi,"North Indian, Chinese, Street Food, Mithai",1,3.4,22
+New Delhi,"North Indian, Chinese, Thai, Italian, Middle Eastern",1,3.5,384
+New Delhi,"North Indian, Chinese, Tibetan",1,0.0,0
+New Delhi,"North Indian, Chinese, Tibetan, Italian, Fast Food",1,3.2,18
+New Delhi,"North Indian, Continental",16,2.9875,4814
+New Delhi,"North Indian, Continental, Asian",3,3.9,673
+New Delhi,"North Indian, Continental, Asian, Chinese, Thai",1,3.6,305
+New Delhi,"North Indian, Continental, Asian, Italian",1,3.9,93
+New Delhi,"North Indian, Continental, Chinese",8,2.475,417
+New Delhi,"North Indian, Continental, Chinese, Fast Food",1,2.7,24
+New Delhi,"North Indian, Continental, Chinese, Italian",3,3.8333333333333335,1149
+New Delhi,"North Indian, Continental, Chinese, Italian, Lebanese",1,3.7,49
+New Delhi,"North Indian, Continental, Chinese, Italian, Thai, Mughlai",1,3.8,1174
+New Delhi,"North Indian, Continental, European",1,3.5,706
+New Delhi,"North Indian, Continental, European, American, Mediterranean",1,4.2,69
+New Delhi,"North Indian, Continental, European, Chinese, Thai",1,4.3,400
+New Delhi,"North Indian, Continental, Fast Food",3,3.1666666666666665,376
+New Delhi,"North Indian, Continental, Finger Food",1,3.9,1020
+New Delhi,"North Indian, Continental, Italian",6,3.783333333333333,1973
+New Delhi,"North Indian, Continental, Italian, Chinese",1,4.1,506
+New Delhi,"North Indian, Continental, Italian, Finger Food",1,3.8,227
+New Delhi,"North Indian, Continental, Italian, Thai, Chinese",1,3.4,198
+New Delhi,"North Indian, Continental, Lebanese",1,3.5,24
+New Delhi,"North Indian, Continental, Mughlai",1,3.0,8
+New Delhi,"North Indian, Continental, Mughlai, Asian",1,4.1,2514
+New Delhi,"North Indian, Continental, Salad",1,3.6,43
+New Delhi,"North Indian, Continental, South Indian, Chinese",1,0.0,1
+New Delhi,"North Indian, European",4,3.525,1119
+New Delhi,"North Indian, European, Asian",1,3.7,42
+New Delhi,"North Indian, European, Asian, Mediterranean",1,4.1,1838
+New Delhi,"North Indian, European, Chinese",1,3.4,570
+New Delhi,"North Indian, European, Continental",1,3.9,696
+New Delhi,"North Indian, European, South Indian",1,3.6,43
+New Delhi,"North Indian, Fast Food",48,2.1374999999999997,3128
+New Delhi,"North Indian, Fast Food, Afghani",1,3.0,4
+New Delhi,"North Indian, Fast Food, Bihari",1,3.1,6
+New Delhi,"North Indian, Fast Food, Biryani",1,2.9,15
+New Delhi,"North Indian, Fast Food, Chinese",6,3.0500000000000003,352
+New Delhi,"North Indian, Fast Food, Chinese, Continental",1,2.9,4
+New Delhi,"North Indian, Fast Food, Chinese, Japanese, Asian, Italian",1,2.9,32
+New Delhi,"North Indian, Fast Food, Chinese, Mithai",1,2.7,16
+New Delhi,"North Indian, Fast Food, Chinese, South Indian",1,3.2,39
+New Delhi,"North Indian, Fast Food, Continental",1,3.4,246
+New Delhi,"North Indian, Fast Food, Italian, Asian",3,4.033333333333333,114
+New Delhi,"North Indian, Fast Food, Italian, Chinese, Cafe",1,3.8,280
+New Delhi,"North Indian, Fast Food, Mithai",1,0.0,1
+New Delhi,"North Indian, Fast Food, Mughlai",3,3.3333333333333335,57
+New Delhi,"North Indian, Fast Food, South Indian",3,3.1333333333333333,105
+New Delhi,"North Indian, Fast Food, Street Food",1,3.7,142
+New Delhi,"North Indian, Finger Food",1,0.0,1
+New Delhi,"North Indian, Finger Food, Italian, Chinese",1,3.8,121
+New Delhi,"North Indian, Hyderabadi, Kashmiri, Chinese",1,4.0,460
+New Delhi,"North Indian, Indian",1,0.0,0
+New Delhi,"North Indian, Italian",2,3.8499999999999996,241
+New Delhi,"North Indian, Italian, Asian, American",1,4.4,840
+New Delhi,"North Indian, Italian, Chinese",5,2.68,901
+New Delhi,"North Indian, Italian, Chinese, Fast Food",2,3.8,317
+New Delhi,"North Indian, Italian, Chinese, Mexican",1,3.8,367
+New Delhi,"North Indian, Italian, Chinese, Thai",1,3.4,391
+New Delhi,"North Indian, Italian, Continental",5,2.74,777
+New Delhi,"North Indian, Italian, Continental, Asian",1,4.2,162
+New Delhi,"North Indian, Italian, Continental, Chinese",1,3.3,1363
+New Delhi,"North Indian, Italian, Fast Food",2,3.35,629
+New Delhi,"North Indian, Italian, Mexican, Chettinad, Chinese, Lebanese",1,3.9,1286
+New Delhi,"North Indian, Kashmiri",1,3.2,14
+New Delhi,"North Indian, Kashmiri, Chinese, Thai, Korean",1,3.9,295
+New Delhi,"North Indian, Kashmiri, Mughlai",1,2.6,67
+New Delhi,"North Indian, Lebanese, European, Mexican",1,3.9,299
+New Delhi,"North Indian, Lebanese, Mexican, Asian, Italian, American, European",1,4.0,1203
+New Delhi,"North Indian, Lucknowi",1,0.0,3
+New Delhi,"North Indian, Maharashtrian",1,3.8,266
+New Delhi,"North Indian, Mangalorean, Chinese",1,4.0,345
+New Delhi,"North Indian, Mediterranean, Asian",3,3.8333333333333335,2070
+New Delhi,"North Indian, Mediterranean, Asian, Continental",1,3.9,3413
+New Delhi,"North Indian, Mediterranean, Asian, Fast Food",1,4.3,1129
+New Delhi,"North Indian, Mediterranean, Continental",2,3.4000000000000004,417
+New Delhi,"North Indian, Mexican, Chinese, Italian",1,3.9,605
+New Delhi,"North Indian, Mexican, Italian, Continental",1,3.9,1379
+New Delhi,"North Indian, Mithai",4,1.5499999999999998,82
+New Delhi,"North Indian, Mithai, South Indian, Street Food, Chinese",1,2.4,37
+New Delhi,"North Indian, Mithai, South Indian, Street Food, Fast Food",1,2.7,11
+New Delhi,"North Indian, Mithai, Street Food",1,2.6,26
+New Delhi,"North Indian, Mughlai",207,2.845410628019324,27951
+New Delhi,"North Indian, Mughlai, Armenian",1,0.0,0
+New Delhi,"North Indian, Mughlai, Awadhi",1,3.2,14
+New Delhi,"North Indian, Mughlai, Biryani",3,3.6999999999999997,925
+New Delhi,"North Indian, Mughlai, Biryani, Bengali",1,3.5,443
+New Delhi,"North Indian, Mughlai, Chinese",120,2.731666666666667,16003
+New Delhi,"North Indian, Mughlai, Chinese, Bakery",1,3.7,281
+New Delhi,"North Indian, Mughlai, Chinese, Continental",2,3.55,350
+New Delhi,"North Indian, Mughlai, Chinese, Continental, Fast Food",1,2.8,10
+New Delhi,"North Indian, Mughlai, Chinese, Fast Food",4,3.05,269
+New Delhi,"North Indian, Mughlai, Chinese, Italian",2,3.55,285
+New Delhi,"North Indian, Mughlai, Chinese, Seafood",2,3.05,207
+New Delhi,"North Indian, Mughlai, Chinese, South Indian",1,2.6,30
+New Delhi,"North Indian, Mughlai, Continental",1,3.2,38
+New Delhi,"North Indian, Mughlai, Continental, Chinese",1,3.7,213
+New Delhi,"North Indian, Mughlai, Fast Food",1,2.9,8
+New Delhi,"North Indian, Mughlai, Fast Food, South Indian",1,3.3,26
+New Delhi,"North Indian, Mughlai, Kashmiri",1,3.5,208
+New Delhi,"North Indian, Mughlai, Lebanese",1,3.8,300
+New Delhi,"North Indian, Mughlai, Nepalese, Tibetan, Korean",1,0.0,2
+New Delhi,"North Indian, Mughlai, South Indian",1,3.3,140
+New Delhi,"North Indian, Rajasthani, Gujarati",1,0.0,1
+New Delhi,"North Indian, Seafood, Continental",1,3.4,45
+New Delhi,"North Indian, South Indian",23,1.7260869565217392,418
+New Delhi,"North Indian, South Indian, Bakery, Italian",1,0.0,1
+New Delhi,"North Indian, South Indian, Bihari",1,4.5,2213
+New Delhi,"North Indian, South Indian, Chinese",23,2.4217391304347826,766
+New Delhi,"North Indian, South Indian, Chinese, Fast Food",8,2.9625,533
+New Delhi,"North Indian, South Indian, Chinese, Fast Food, Bakery, Mithai",1,0.0,0
+New Delhi,"North Indian, South Indian, Chinese, Fast Food, Mithai",1,2.8,102
+New Delhi,"North Indian, South Indian, Chinese, Mithai",2,2.7,52
+New Delhi,"North Indian, South Indian, Chinese, Mithai, Fast Food",1,3.1,117
+New Delhi,"North Indian, South Indian, Chinese, Mughlai",1,2.4,137
+New Delhi,"North Indian, South Indian, Chinese, Street Food",2,3.05,93
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Fast Food",1,2.6,45
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",8,3.625,1985
+New Delhi,"North Indian, South Indian, Chinese, Street Food, Mithai",2,3.0999999999999996,650
+New Delhi,"North Indian, South Indian, Continental, Fast Food",1,3.0,5
+New Delhi,"North Indian, South Indian, Fast Food",5,2.38,275
+New Delhi,"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",6,2.966666666666667,1080
+New Delhi,"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Mithai",1,3.2,129
+New Delhi,"North Indian, South Indian, Fast Food, Street Food, Chinese, Desserts, Mithai",1,2.8,42
+New Delhi,"North Indian, South Indian, Fast Food, Street Food, Chinese, Mithai",1,3.4,81
+New Delhi,"North Indian, South Indian, Mithai",1,0.0,0
+New Delhi,"North Indian, South Indian, Mughlai",2,1.45,7
+New Delhi,"North Indian, South Indian, Street Food",2,3.75,349
+New Delhi,"North Indian, South Indian, Street Food, Chinese, Fast Food, Mithai",1,2.1,121
+New Delhi,"North Indian, South Indian, Street Food, Fast Food, Mithai",1,2.5,85
+New Delhi,"North Indian, South Indian, Street Food, Mithai",1,3.3,421
+New Delhi,"North Indian, Spanish, Mediterranean",1,3.9,555
+New Delhi,"North Indian, Street Food",17,2.5058823529411764,1331
+New Delhi,"North Indian, Street Food, Chinese",1,3.2,21
+New Delhi,"North Indian, Street Food, Chinese, South Indian",1,2.5,49
+New Delhi,"North Indian, Street Food, Chinese, South Indian, Mithai",1,3.6,85
+New Delhi,"North Indian, Street Food, Fast Food",2,1.55,14
+New Delhi,"North Indian, Street Food, Fast Food, Chinese, South Indian, Mithai",1,3.0,4
+New Delhi,"North Indian, Street Food, Mithai",2,2.9,51
+New Delhi,"North Indian, Street Food, Mughlai",1,3.5,206
+New Delhi,"North Indian, Street Food, South Indian, Fast Food, Chinese",1,2.6,55
+New Delhi,"North Indian, Street Food, South Indian, Mithai",1,3.3,205
+New Delhi,"North Indian, Tibetan",1,3.7,154
+New Delhi,Oriya,1,3.1,52
+New Delhi,Parsi,2,3.95,750
+New Delhi,"Parsi, Iranian",1,4.2,1914
+New Delhi,Pizza,29,1.393103448275862,694
+New Delhi,"Pizza, Burger, Fast Food",1,0.0,2
+New Delhi,"Pizza, Continental, Beverages",1,3.3,15
+New Delhi,"Pizza, Fast Food",92,2.597826086956522,6181
+New Delhi,"Pizza, Fast Food, Bakery",1,0.0,1
+New Delhi,"Pizza, Fast Food, Chinese",1,3.4,17
+New Delhi,"Pizza, Ice Cream",1,0.0,0
+New Delhi,"Pizza, Italian",6,3.5833333333333335,3219
+New Delhi,"Pizza, Italian, Cafe",1,3.9,1503
+New Delhi,"Pizza, North Indian, Continental",1,3.4,42
+New Delhi,"Pizza, Salad, Finger Food",1,3.4,27
+New Delhi,"Portuguese, African",2,1.85,1894
+New Delhi,Rajasthani,1,4.1,769
+New Delhi,"Rajasthani, North Indian",1,3.4,69
+New Delhi,Raw Meats,2,0.0,1
+New Delhi,"Raw Meats, Fast Food",30,1.88,252
+New Delhi,"Raw Meats, Fast Food, North Indian",6,2.0833333333333335,102
+New Delhi,"Raw Meats, North Indian",3,0.8666666666666667,24
+New Delhi,"Raw Meats, North Indian, Fast Food",35,2.8714285714285714,801
+New Delhi,"Raw Meats, Street Food",1,0.0,0
+New Delhi,"Salad, Healthy Food, Burger, Italian, Continental, Chinese, North Indian, Beverages",1,3.1,25
+New Delhi,"Seafood, Chinese, Japanese, Sushi, Thai",1,3.7,44
+New Delhi,"Seafood, Chinese, Japanese, Vietnamese, Asian, Thai",1,3.9,287
+New Delhi,"Seafood, Continental, European",1,3.7,601
+New Delhi,"Seafood, Italian",1,3.9,66
+New Delhi,"Seafood, Mughlai, North Indian",1,0.0,0
+New Delhi,"Seafood, North Indian",2,3.9000000000000004,640
+New Delhi,"Seafood, South Indian, Andhra, Hyderabadi, Goan",1,4.2,336
+New Delhi,South American,1,3.3,14
+New Delhi,South Indian,81,2.3246913580246913,13820
+New Delhi,"South Indian, Andhra",1,4.2,3010
+New Delhi,"South Indian, Biryani",1,0.0,1
+New Delhi,"South Indian, Chettinad",1,2.8,49
+New Delhi,"South Indian, Chettinad, North Indian, Chinese",1,3.4,161
+New Delhi,"South Indian, Chinese",30,2.356666666666667,768
+New Delhi,"South Indian, Chinese, Continental",1,0.0,1
+New Delhi,"South Indian, Chinese, Fast Food",3,0.9666666666666667,6
+New Delhi,"South Indian, Chinese, Fast Food, Mithai",1,2.8,11
+New Delhi,"South Indian, Chinese, Mithai",1,0.0,0
+New Delhi,"South Indian, Chinese, North Indian",1,3.3,70
+New Delhi,"South Indian, Fast Food",8,2.8375,516
+New Delhi,"South Indian, Fast Food, Chinese",2,1.45,12
+New Delhi,"South Indian, Fast Food, North Indian, Chinese",1,0.0,2
+New Delhi,"South Indian, Fast Food, Street Food",1,3.1,44
+New Delhi,"South Indian, Kerala",1,3.8,49
+New Delhi,"South Indian, Nepalese",1,0.0,1
+New Delhi,"South Indian, North Indian",14,2.7857142857142856,710
+New Delhi,"South Indian, North Indian, Chinese",24,2.6,3478
+New Delhi,"South Indian, North Indian, Chinese, Fast Food, Street Food, Mithai",1,3.5,1198
+New Delhi,"South Indian, North Indian, Chinese, Mughlai",1,3.1,13
+New Delhi,"South Indian, North Indian, Chinese, Street Food, Fast Food",1,2.8,39
+New Delhi,"South Indian, North Indian, Fast Food",1,2.8,12
+New Delhi,"South Indian, North Indian, Street Food, Chinese, Mithai",1,3.5,368
+New Delhi,"South Indian, Pizza, Chinese",1,0.0,0
+New Delhi,"South Indian, Street Food, Chinese",1,0.0,2
+New Delhi,"South Indian, Street Food, Desserts",1,3.0,7
+New Delhi,"South Indian, Street Food, Mithai",2,1.75,75
+New Delhi,"Spanish, Italian",1,4.3,800
+New Delhi,Street Food,123,2.1048780487804875,8155
+New Delhi,"Street Food, Bakery",1,2.8,7
+New Delhi,"Street Food, Beverages",2,3.8,411
+New Delhi,"Street Food, Chinese",6,0.5499999999999999,29
+New Delhi,"Street Food, Chinese, Mithai",1,3.3,12
+New Delhi,"Street Food, Chinese, North Indian",1,3.6,364
+New Delhi,"Street Food, Chinese, North Indian, Mithai",2,3.4,192
+New Delhi,"Street Food, Desserts",3,2.8666666666666667,26
+New Delhi,"Street Food, Fast Food",6,1.5333333333333332,51
+New Delhi,"Street Food, Fast Food, Beverages",1,3.1,7
+New Delhi,"Street Food, Fast Food, Chinese, South Indian, North Indian",1,3.7,65
+New Delhi,"Street Food, Mithai",14,2.107142857142857,254
+New Delhi,"Street Food, Mughlai",1,3.3,47
+New Delhi,"Street Food, North Indian",9,2.977777777777778,628
+New Delhi,"Street Food, North Indian, Chinese, Continental",1,3.9,1485
+New Delhi,"Street Food, North Indian, Mithai",1,3.5,60
+New Delhi,"Street Food, North Indian, South Indian",1,2.9,4
+New Delhi,"Street Food, North Indian, South Indian, Chinese",1,3.1,10
+New Delhi,"Street Food, North Indian, South Indian, Chinese, Mithai",2,3.8,1380
+New Delhi,"Street Food, North Indian, South Indian, Mithai",3,3.466666666666667,113
+New Delhi,"Street Food, South Indian",3,3.4666666666666663,533
+New Delhi,"Street Food, South Indian, Chinese",1,2.7,31
+New Delhi,"Street Food, South Indian, Mithai",4,2.35,201
+New Delhi,Sushi,2,3.95,91
+New Delhi,"Sushi, Asian",3,3.6333333333333333,144
+New Delhi,"Sushi, Japanese, Healthy Food",1,4.0,53
+New Delhi,Tea,3,1.1333333333333333,18
+New Delhi,"Tea, Beverages, Fast Food",1,0.0,2
+New Delhi,"Tea, Cafe",1,4.1,68
+New Delhi,"Tea, Fast Food",2,0.0,1
+New Delhi,Thai,4,4.0,650
+New Delhi,"Thai, Chinese",2,3.65,36
+New Delhi,"Thai, Chinese, Asian, Malaysian",1,3.8,118
+New Delhi,"Thai, Chinese, Japanese",1,3.7,111
+New Delhi,"Thai, Chinese, North Indian",1,3.9,38
+New Delhi,"Thai, Chinese, Seafood",1,3.1,70
+New Delhi,"Thai, European, Mexican, North Indian, Chinese, Cafe",1,4.5,778
+New Delhi,"Thai, Japanese",1,3.6,148
+New Delhi,Tibetan,2,0.0,2
+New Delhi,"Tibetan, Chinese",12,2.1166666666666667,927
+New Delhi,"Tibetan, Chinese, North Indian",2,0.0,1
+New Delhi,"Tibetan, Fast Food",1,2.6,41
+New Delhi,"Tibetan, Nepalese",1,3.7,807
+New Delhi,"Tibetan, South Indian, North Indian",1,0.0,0
+New Delhi,Turkish,2,2.95,302
+New Delhi,"Turkish, Arabian, Moroccan, Lebanese",1,0.0,0
+New Delhi,"Turkish, Mediterranean, Middle Eastern",1,4.3,43
+New Delhi,Vietnamese,1,4.0,83
+Noida,American,2,1.85,54
+Noida,"American, Fast Food, Burger",3,1.7333333333333334,625
+Noida,"American, Fast Food, Salad, Healthy Food",11,2.536363636363636,790
+Noida,"American, Italian",2,1.3,521
+Noida,"American, Italian, Chinese, North Indian, Cafe",1,3.7,833
+Noida,"American, Italian, North Indian, Chinese",1,0.0,3
+Noida,"American, Tex-Mex",1,3.5,1147
+Noida,"American, Tex-Mex, Italian, Mexican, North Indian",1,2.4,221
+Noida,"Asian, Chinese, Japanese",1,4.2,316
+Noida,"Asian, Continental, Italian, North Indian",1,3.0,579
+Noida,"Asian, Thai, Chinese",1,4.3,428
+Noida,"Awadhi, North Indian",1,0.0,2
+Noida,Bakery,43,1.4255813953488372,870
+Noida,"Bakery, Beverages, Fast Food",1,3.6,40
+Noida,"Bakery, Desserts",21,2.1523809523809527,437
+Noida,"Bakery, Desserts, Fast Food",7,2.8285714285714287,954
+Noida,"Bakery, Desserts, Fast Food, North Indian",1,3.5,105
+Noida,"Bakery, Fast Food",9,1.511111111111111,582
+Noida,"Bakery, Fast Food, Chinese",1,0.0,0
+Noida,"Bakery, Fast Food, Desserts",2,1.4,18
+Noida,"Bakery, Mithai",1,3.0,11
+Noida,"Bakery, North Indian",1,0.0,0
+Noida,"Bengali, North Indian",1,2.7,27
+Noida,Beverages,12,1.675,286
+Noida,"Beverages, Fast Food",2,0.0,5
+Noida,Biryani,7,1.0,210
+Noida,"Biryani, Hyderabadi",1,3.5,18
+Noida,"Biryani, Mughlai",6,2.1999999999999997,323
+Noida,"Biryani, North Indian",2,3.25,38
+Noida,"Biryani, North Indian, Fast Food",1,2.7,18
+Noida,"Biryani, North Indian, Hyderabadi",1,3.8,612
+Noida,"Biryani, North Indian, Mughlai",2,3.05,456
+Noida,"Burger, American, Fast Food",1,3.8,458
+Noida,"Burger, Desserts, Fast Food",4,1.85,570
+Noida,"Burger, Fast Food",6,2.283333333333333,757
+Noida,Cafe,40,2.1275,1497
+Noida,"Cafe, Bakery",1,3.3,13
+Noida,"Cafe, Bakery, Fast Food",1,0.0,0
+Noida,"Cafe, Chinese",1,3.1,15
+Noida,"Cafe, Continental, Fast Food",1,3.3,39
+Noida,"Cafe, Continental, Fast Food, Italian",2,1.85,164
+Noida,"Cafe, Continental, Italian",1,3.7,51
+Noida,"Cafe, Desserts",1,0.0,3
+Noida,"Cafe, Fast Food",3,2.466666666666667,149
+Noida,"Cafe, Healthy Food, Continental, Italian, Asian",1,3.7,131
+Noida,"Cafe, Italian, Chinese",1,3.2,33
+Noida,"Cafe, Italian, Chinese, Continental",1,3.7,431
+Noida,"Cafe, Italian, Continental, Chinese",1,2.6,26
+Noida,"Cafe, Italian, Continental, Desserts",1,3.9,320
+Noida,"Cafe, Mexican",1,0.0,2
+Noida,"Cafe, North Indian, Chinese",1,3.7,27
+Noida,"Cafe, North Indian, Italian",1,3.7,38
+Noida,"Cafe, North Indian, Italian, Chinese",1,2.8,16
+Noida,"Cafe, Tea",5,3.6,437
+Noida,Chinese,54,1.5759259259259257,2553
+Noida,"Chinese, Asian",1,2.5,79
+Noida,"Chinese, Asian, Thai",1,3.6,582
+Noida,"Chinese, Fast Food",8,2.2,68
+Noida,"Chinese, Mughlai",1,3.6,49
+Noida,"Chinese, Mughlai, North Indian",1,2.6,192
+Noida,"Chinese, North Indian",12,1.2249999999999999,207
+Noida,"Chinese, North Indian, Fast Food",1,0.0,2
+Noida,"Chinese, North Indian, Mughlai",1,0.0,0
+Noida,"Chinese, North Indian, Mughlai, Continental",1,3.3,198
+Noida,"Chinese, North Indian, South Indian",1,0.0,0
+Noida,"Chinese, North Indian, South Indian, Fast Food",1,2.0,161
+Noida,"Chinese, Seafood, Asian",1,3.9,515
+Noida,"Chinese, South Indian, Fast Food",1,2.8,19
+Noida,"Chinese, South Indian, North Indian",1,3.5,57
+Noida,"Chinese, Thai",7,2.985714285714286,1935
+Noida,"Chinese, Thai, Asian",1,2.4,137
+Noida,"Chinese, Thai, Asian, Japanese, Korean, Seafood",1,3.9,173
+Noida,"Chinese, Thai, Fast Food",2,1.9,43
+Noida,"Chinese, Thai, Sushi",1,3.9,199
+Noida,Continental,2,1.6,32
+Noida,"Continental, American",1,3.3,15
+Noida,"Continental, American, Cafe",1,4.1,567
+Noida,"Continental, American, Italian, Mediterranean",1,3.8,240
+Noida,"Continental, American, North Indian, Chinese",1,3.6,425
+Noida,"Continental, Chinese",1,3.0,4
+Noida,"Continental, Chinese, North Indian",1,4.1,228
+Noida,"Continental, Chinese, North Indian, Indian",1,0.0,3
+Noida,"Continental, Fast Food, Asian, Italian",1,3.8,200
+Noida,"Continental, Fast Food, Italian",2,2.1,111
+Noida,"Continental, Italian",1,3.2,33
+Noida,"Continental, Lebanese, Mexican",1,0.0,0
+Noida,"Continental, Mexican, American, Fast Food, Italian, Chinese",1,3.9,132
+Noida,"Continental, Mexican, Fast Food, Chinese",2,3.5,176
+Noida,"Continental, Mexican, Italian",1,3.6,111
+Noida,"Continental, Mexican, Mediterranean",1,3.0,18
+Noida,"Continental, North Indian",1,3.3,29
+Noida,"Continental, North Indian, Mexican",1,3.2,135
+Noida,Desserts,9,2.4222222222222225,619
+Noida,"Desserts, Bakery, Fast Food",1,4.1,516
+Noida,"Desserts, Beverages",2,3.5,72
+Noida,"Desserts, Ice Cream",3,1.0333333333333334,34
+Noida,"European, North Indian, Chinese",1,2.2,116
+Noida,Fast Food,53,1.830188679245283,3606
+Noida,"Fast Food, Beverages",14,2.1928571428571426,892
+Noida,"Fast Food, Burger",4,3.375,266
+Noida,"Fast Food, Cafe, Italian, North Indian, Chinese",1,3.2,48
+Noida,"Fast Food, Chinese",5,3.5799999999999996,1201
+Noida,"Fast Food, Chinese, North Indian",1,3.5,22
+Noida,"Fast Food, Italian",1,3.4,23
+Noida,"Fast Food, Italian, Desserts, Beverages",1,3.3,12
+Noida,"Fast Food, Italian, North Indian, Chinese",1,3.0,6
+Noida,"Fast Food, North Indian",9,2.1888888888888887,183
+Noida,"Fast Food, North Indian, Chinese",3,2.4,236
+Noida,"Fast Food, North Indian, Chinese, Desserts, Ice Cream",1,2.5,221
+Noida,"Fast Food, North Indian, South Indian",1,0.0,1
+Noida,"Fast Food, Pizza",1,0.0,1
+Noida,"Fast Food, Street Food",2,0.0,0
+Noida,Finger Food,2,1.6,21
+Noida,"Finger Food, North Indian, Chinese",1,3.4,223
+Noida,Healthy Food,4,3.525,212
+Noida,"Healthy Food, Juices",1,3.5,14
+Noida,"Healthy Food, North Indian, Chinese, Continental",1,3.7,142
+Noida,"Healthy Food, Salad",1,3.6,20
+Noida,Ice Cream,18,0.7333333333333333,87
+Noida,"Ice Cream, Beverages",1,3.5,23
+Noida,"Ice Cream, Beverages, Fast Food",4,0.75,9
+Noida,"Ice Cream, Desserts",5,1.54,113
+Noida,Italian,1,3.1,372
+Noida,"Italian, Chinese",2,0.0,2
+Noida,"Italian, Continental, American",1,0.0,0
+Noida,"Italian, Continental, North Indian, Chinese",2,3.0,433
+Noida,"Italian, Fast Food",1,3.5,27
+Noida,"Italian, Lebanese, North Indian",1,3.5,278
+Noida,"Italian, North Indian, Chinese",1,3.4,431
+Noida,"Italian, Pizza",4,2.325,607
+Noida,"Italian, Pizza, Bakery",1,2.3,230
+Noida,"Italian, Pizza, Fast Food",8,2.6875,861
+Noida,"Japanese, Sushi",1,3.3,19
+Noida,"Juices, Beverages, Fast Food",1,3.0,10
+Noida,"Juices, Fast Food",1,0.0,1
+Noida,"Juices, Healthy Food",1,4.0,76
+Noida,Kashmiri,1,3.0,5
+Noida,"Kashmiri, Chinese",1,3.1,6
+Noida,"Lebanese, Mediterranean, Middle Eastern, Arabian",1,3.8,67
+Noida,Lucknowi,2,1.75,24
+Noida,"Lucknowi, Mughlai, North Indian",1,0.0,0
+Noida,"Mediterranean, Continental, North Indian, Italian",1,3.5,218
+Noida,"Mediterranean, Italian, Continental, Spanish, North Indian",1,3.4,299
+Noida,"Mexican, American, Italian",1,4.1,750
+Noida,"Mexican, Fast Food",1,3.6,397
+Noida,"Mexican, Italian",1,0.0,0
+Noida,"Mexican, Italian, Fast Food",1,3.4,55
+Noida,Mithai,3,1.0333333333333334,16
+Noida,"Mithai, Bakery",1,0.0,0
+Noida,"Mithai, Beverages",1,3.4,23
+Noida,"Mithai, Fast Food",1,0.0,0
+Noida,"Mithai, North Indian",1,2.4,11
+Noida,"Mithai, North Indian, Chinese",1,2.9,4
+Noida,"Mithai, North Indian, South Indian, Street Food, Chinese",1,3.3,36
+Noida,"Mithai, North Indian, Street Food",1,0.0,1
+Noida,"Mithai, Street Food",9,1.2333333333333334,132
+Noida,Mughlai,4,0.0,7
+Noida,"Mughlai, Biryani",1,0.0,0
+Noida,"Mughlai, Chinese",1,3.2,5
+Noida,"Mughlai, Continental, Chinese",1,3.1,8
+Noida,"Mughlai, North Indian",7,2.2,1418
+Noida,"Mughlai, North Indian, Chinese",2,1.35,35
+Noida,North Indian,110,1.3563636363636362,1464
+Noida,"North Indian, Asian, Continental",1,3.5,214
+Noida,"North Indian, Bengali",1,0.0,0
+Noida,"North Indian, Biryani",3,1.2,21
+Noida,"North Indian, Chinese",97,1.9268041237113402,3155
+Noida,"North Indian, Chinese, Cafe",1,3.1,13
+Noida,"North Indian, Chinese, Continental",8,2.7,806
+Noida,"North Indian, Chinese, Continental, Mughlai",1,0.0,0
+Noida,"North Indian, Chinese, Fast Food",9,2.7222222222222223,521
+Noida,"North Indian, Chinese, Fast Food, Mithai",1,2.9,56
+Noida,"North Indian, Chinese, Fast Food, Street Food",2,3.1500000000000004,88
+Noida,"North Indian, Chinese, Italian",1,3.3,49
+Noida,"North Indian, Chinese, Italian, Thai",1,0.0,0
+Noida,"North Indian, Chinese, Kashmiri",1,0.0,3
+Noida,"North Indian, Chinese, Mediterranean",1,4.3,1670
+Noida,"North Indian, Chinese, Mediterranean, Asian, Continental",1,3.9,1088
+Noida,"North Indian, Chinese, Mughlai",12,2.4166666666666665,882
+Noida,"North Indian, Chinese, Mughlai, Fast Food",2,2.55,75
+Noida,"North Indian, Chinese, South Indian",8,2.2375,166
+Noida,"North Indian, Chinese, South Indian, Mithai",4,2.975,261
+Noida,"North Indian, Chinese, South Indian, Seafood, Chettinad",1,3.6,415
+Noida,"North Indian, Chinese, Thai",3,3.5,413
+Noida,"North Indian, Chinese, Thai, Continental",1,3.6,328
+Noida,"North Indian, Continental",1,3.1,6
+Noida,"North Indian, Continental, Chinese",2,1.0,230
+Noida,"North Indian, Continental, Chinese, Italian, Thai, Mughlai",1,3.8,46
+Noida,"North Indian, Continental, Italian",1,0.0,3
+Noida,"North Indian, Continental, Mughlai, Asian",1,3.9,749
+Noida,"North Indian, Continental, Thai, Chinese",1,3.5,326
+Noida,"North Indian, European, Asian, Mediterranean",1,3.4,215
+Noida,"North Indian, Fast Food",8,2.8,487
+Noida,"North Indian, Fast Food, Chinese",3,2.2333333333333334,248
+Noida,"North Indian, Fast Food, Chinese, Biryani, Mughlai",1,3.8,418
+Noida,"North Indian, Healthy Food, Rajasthani",1,3.1,10
+Noida,"North Indian, Italian, Chinese",1,3.8,240
+Noida,"North Indian, Italian, Continental",1,0.0,0
+Noida,"North Indian, Mughlai",54,2.7370370370370374,7832
+Noida,"North Indian, Mughlai, Biryani",1,2.8,109
+Noida,"North Indian, Mughlai, Chinese",44,2.2204545454545457,2310
+Noida,"North Indian, Mughlai, Chinese, Fast Food",4,2.125,123
+Noida,"North Indian, Mughlai, Chinese, Raw Meats",1,2.9,25
+Noida,"North Indian, Mughlai, Fast Food",1,2.9,5
+Noida,"North Indian, Mughlai, Hyderabadi",1,3.3,13
+Noida,"North Indian, Mughlai, Italian, Chinese",1,3.5,247
+Noida,"North Indian, Mughlai, Mughlai",1,0.0,2
+Noida,"North Indian, Rajasthani",2,3.15,351
+Noida,"North Indian, Seafood, Bengali",1,3.3,15
+Noida,"North Indian, South Indian",6,0.9666666666666667,16
+Noida,"North Indian, South Indian, Bakery, Beverages",1,0.0,2
+Noida,"North Indian, South Indian, Chinese",7,0.41428571428571426,16
+Noida,"North Indian, South Indian, Chinese, Fast Food",1,3.2,15
+Noida,"North Indian, South Indian, Chinese, Mithai",1,2.7,34
+Noida,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai",1,2.4,77
+Noida,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",3,3.1999999999999997,681
+Noida,"North Indian, South Indian, Fast Food",1,3.2,16
+Noida,"North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",1,3.7,331
+Noida,"North Indian, South Indian, Italian, Chinese",1,0.0,0
+Noida,"North Indian, South Indian, Italian, Continental, Mediterranean, Lebanese, Desserts",1,3.3,10
+Noida,"North Indian, South Indian, Street Food",1,0.0,1
+Noida,"North Indian, Street Food",2,3.05,132
+Noida,"North Indian, Street Food, South Indian, Fast Food, Chinese",1,3.0,38
+Noida,"North Indian, Thai, Continental",1,4.0,121
+Noida,"Parsi, Iranian",1,4.0,617
+Noida,Pizza,3,0.7666666666666666,9
+Noida,"Pizza, Fast Food",17,2.5294117647058822,1732
+Noida,"Pizza, Italian",1,3.3,97
+Noida,"Pizza, North Indian",1,3.5,47
+Noida,"Raw Meats, Fast Food",7,1.8,103
+Noida,"Raw Meats, Fast Food, North Indian",1,2.9,7
+Noida,"Raw Meats, North Indian, Fast Food",7,1.7142857142857142,145
+Noida,"Salad, Continental",1,4.1,43
+Noida,South Indian,13,1.8076923076923077,809
+Noida,"South Indian, Chinese",1,2.8,8
+Noida,"South Indian, Chinese, Street Food, Mithai",1,3.3,61
+Noida,"South Indian, North Indian, Chinese",6,3.033333333333333,713
+Noida,"South Indian, North Indian, Street Food",1,3.0,4
+Noida,Street Food,8,1.625,320
+Noida,"Street Food, Beverages",1,2.9,4
+Noida,"Street Food, Continental, South Indian, North Indian, Chinese",1,3.9,204
+Noida,"Street Food, Mithai",1,0.0,3
+Noida,"Street Food, North Indian",1,3.1,8
+Noida,Tea,1,0.0,2
+Noida,"Tea, Fast Food",2,1.4,6
+Noida,"Thai, Chinese",1,3.1,8
+Noida,"Tibetan, Chinese",1,2.7,212
+Noida,"Tibetan, Street Food",1,0.0,1
+Ojo Caliente,"American, International, Southwestern",1,3.6,30
+Orlando,American,1,4.4,1685
+Orlando,"American, BBQ, Sandwich",1,4.9,1252
+Orlando,"American, Breakfast, Vegetarian",1,4.4,797
+Orlando,"American, Sandwich, Salad",1,4.7,1341
+Orlando,"American, Sandwich, Tea",1,4.9,1457
+Orlando,"Asian, Latin American, Vegetarian",1,4.4,570
+Orlando,"Asian, Thai",1,4.6,1293
+Orlando,"Brazilian, Steak",1,4.6,2324
+Orlando,Cajun,1,4.7,1412
+Orlando,Caribbean,1,4.3,910
+Orlando,German,1,4.8,1699
+Orlando,Hawaiian,1,4.5,1151
+Orlando,Irish,1,4.3,782
+Orlando,Italian,1,4.4,886
+Orlando,"Mediterranean, Turkish",1,4.2,568
+Orlando,"New American, Tapas",1,4.6,1293
+Orlando,Pub Food,1,4.4,1998
+Orlando,"Southern, Cajun, Soul Food",1,3.6,432
+Orlando,"Spanish, Tapas",1,4.4,981
+Palm Cove,"Mediterranean, Seafood",1,4.4,381
+Panchkula,"North Indian, Middle Eastern, Pizza",1,4.2,843
+Pasay City,"Asian, European",1,4.0,520
+Pasay City,"European, Asian, Indian",1,4.9,621
+Pasay City,"Seafood, Filipino, Asian, European",1,4.2,677
+Pasig City,"American, Ice Cream, Desserts",1,4.2,488
+Pasig City,Filipino,1,4.8,532
+Pasig City,"Filipino, Mexican",1,4.9,1070
+Patna,"American, Chinese, North Indian, Italian",1,3.5,42
+Patna,"Biryani, Mughlai",1,3.6,99
+Patna,Chinese,1,3.5,65
+Patna,"Chinese, North Indian, Mughlai",1,3.6,69
+Patna,"Continental, Cafe, Italian, Pizza, North Indian, Chinese, Bakery, Mughlai",1,3.4,16
+Patna,Fast Food,2,3.3499999999999996,109
+Patna,"North Indian, Chinese",4,3.425,300
+Patna,"North Indian, Chinese, Continental",1,3.5,150
+Patna,"North Indian, Chinese, Continental, Italian",1,3.5,151
+Patna,"North Indian, Chinese, Finger Food",1,3.6,107
+Patna,"North Indian, Continental, Chinese, South Indian",1,3.7,43
+Patna,"North Indian, Fast Food",1,3.6,75
+Patna,"North Indian, Mughlai, Chinese",1,3.4,45
+Patna,"North Indian, South Indian, Chinese",1,3.1,64
+Patna,"North Indian, South Indian, Fast Food",1,3.3,74
+Patna,"South Indian, Fast Food",1,3.4,111
+Paynesville,Modern Australian,1,2.6,16
+Penola,"Cafe, Coffee and Tea, Sandwich",1,3.4,19
+Pensacola,"American, Seafood, Sushi",1,4.0,1270
+Pensacola,"Asian, Vietnamese",1,4.5,828
+Pensacola,"Breakfast, Burger",1,4.2,591
+Pensacola,"Burger, Bar Food",1,3.7,559
+Pensacola,"Burger, Bar Food, Steak",1,4.9,2238
+Pensacola,"Burger, Sandwich, Seafood",1,4.4,1408
+Pensacola,"Caribbean, Seafood",1,4.3,905
+Pensacola,"Caribbean, Seafood, Steak",1,3.5,479
+Pensacola,"European, International, Tapas",1,4.4,900
+Pensacola,Greek,1,4.7,816
+Pensacola,"Italian, Mediterranean, Pizza",1,4.1,502
+Pensacola,"Italian, Pizza, Sandwich",1,4.6,792
+Pensacola,"Italian, Pizza, Seafood",1,3.7,292
+Pensacola,"Japanese, Sushi",1,4.3,765
+Pensacola,"Latin American, Mexican, Southwestern",1,4.2,1268
+Pensacola,"Mexican, Southwestern, Tex-Mex",1,4.2,635
+Pensacola,"Sandwich, Seafood, Cajun",1,4.4,747
+Pensacola,Seafood,1,3.9,724
+Pensacola,"Seafood, Sushi",1,4.1,669
+Pensacola,Tapas,1,3.9,502
+Phillip Island,"Breakfast, Coffee and Tea, Modern Australian",1,3.7,351
+Pocatello,"American, BBQ, Steak",1,3.5,83
+Pocatello,"American, Breakfast",1,3.6,121
+Pocatello,"American, Greek",1,3.7,152
+Pocatello,"American, Pizza",1,3.7,191
+Pocatello,"American, Seafood, Steak",1,3.6,85
+Pocatello,"Asian, Sushi, Vegetarian",1,3.6,132
+Pocatello,"Asian, Thai",1,3.6,91
+Pocatello,"Burger, Fast Food",1,3.7,104
+Pocatello,"Burger, Pizza, Sandwich",1,3.5,57
+Pocatello,Chinese,1,3.5,93
+Pocatello,"Coffee and Tea, Sandwich",1,3.8,136
+Pocatello,"Desserts, Thai",1,3.7,162
+Pocatello,"Indian, International, Vegetarian",1,3.8,141
+Pocatello,"Indian, Persian",1,0.0,1
+Pocatello,"Italian, Pizza, Sandwich",1,3.7,222
+Pocatello,Mexican,2,3.8499999999999996,473
+Pocatello,New American,1,3.6,144
+Pocatello,"Pizza, Bar Food",1,3.6,59
+Pocatello,"Pizza, Sandwich",1,3.8,160
+Potrero,"American, BBQ, Burger",1,3.3,9
+Pretoria,African,1,4.7,373
+Pretoria,"Burger, American, Beverages",1,3.8,57
+Pretoria,"Burger, Steak, Seafood",1,4.1,84
+Pretoria,"Cafe, Burger, Tapas, South African, European, Grill",1,3.9,150
+Pretoria,"Cafe, Grill",1,4.0,235
+Pretoria,"Cafe, Italian, Pizza, European, Bakery, Deli",1,3.9,153
+Pretoria,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish",1,4.5,97
+Pretoria,"Contemporary, Sushi, Grill, Italian, Steak",1,3.4,111
+Pretoria,Continental,1,4.4,84
+Pretoria,"Continental, Seafood, Burger, South African, Finger Food, Grill",1,4.0,158
+Pretoria,"European, South African, Steak",1,4.5,287
+Pretoria,French,1,4.9,85
+Pretoria,"Grill, Burger",1,4.1,258
+Pretoria,"Healthy Food, Seafood, Beverages, Belgian, Contemporary, Desserts, Finger Food, International",1,4.2,20
+Pretoria,Indian,1,4.4,147
+Pretoria,"Indian, Asian, Durban, International, Desserts",1,4.3,43
+Pretoria,"Italian, Mediterranean, Sushi, Desserts",1,4.1,232
+Pretoria,Mexican,1,4.3,116
+Pretoria,"Street Food, Burger, American, Finger Food, German",1,4.4,301
+Pretoria,"Street Food, Continental, Burger, Grill",1,3.9,135
+Princeton,Seafood,1,4.0,542
+Puducherry,Bakery,1,3.8,173
+Puducherry,"Bakery, French",1,4.1,791
+Puducherry,Cafe,3,3.466666666666667,1668
+Puducherry,"Cafe, Continental",1,3.8,199
+Puducherry,"Chinese, Thai, Malaysian, Vietnamese, Korean, Indonesian, Asian",1,3.8,189
+Puducherry,Continental,1,3.9,535
+Puducherry,"Continental, North Indian, Finger Food",1,3.4,228
+Puducherry,Desserts,2,4.2,819
+Puducherry,"Desserts, Beverages, Juices",1,3.7,36
+Puducherry,"French, Continental, North Indian",1,3.5,328
+Puducherry,"Goan, Mangalorean, Continental, French",1,3.5,225
+Puducherry,Italian,1,3.6,275
+Puducherry,North Indian,1,3.7,124
+Puducherry,"North Indian, French, Continental",1,3.8,456
+Puducherry,"North Indian, Seafood, South Indian, Italian",1,3.8,192
+Puducherry,"Pizza, Italian",2,3.7,610
+Pune,"Cafe, Italian, Continental",1,4.2,583
+Pune,"Charcoal Grill, Italian, North Indian, European, Indonesian, Thai",1,4.4,635
+Pune,"Continental, North Indian, Italian",1,4.2,1531
+Pune,"Continental, North Indian, Mughlai, Burmese",2,4.3,1906
+Pune,"European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food",1,4.1,140
+Pune,"European, Desserts",1,4.8,2510
+Pune,Finger Food,1,4.1,377
+Pune,"Finger Food, Italian, Spanish, Greek",1,4.1,1143
+Pune,"Italian, Continental, Cafe",1,4.1,997
+Pune,"Italian, German, Continental",1,4.0,1583
+Pune,"Mexican, American, Tex-Mex",1,4.5,1439
+Pune,Modern Indian,1,4.3,868
+Pune,North Indian,1,4.4,208
+Pune,"North Indian, Asian",1,4.5,1099
+Pune,"North Indian, Chinese, Continental",1,4.2,487
+Pune,"North Indian, Continental, Finger Food",1,3.6,507
+Pune,"North Indian, Mediterranean, Chinese",1,3.6,1566
+Pune,"North Indian, Mughlai",1,4.5,2847
+Pune,"North Indian, North Eastern, Continental",1,4.2,306
+Quezon City,"Filipino, Mexican",1,4.8,294
+Ranchi,"Cafe, Fast Food, North Indian",1,3.6,95
+Ranchi,"Cafe, Italian, Mexican, Chinese, North Indian",1,3.3,19
+Ranchi,Chinese,1,3.4,117
+Ranchi,"Continental, North Indian, European",1,3.7,116
+Ranchi,"European, North Indian, Continental, Italian",1,3.7,81
+Ranchi,Fast Food,1,3.2,125
+Ranchi,"Fast Food, North Indian",1,3.3,89
+Ranchi,"North Indian, Chinese",3,3.4,204
+Ranchi,"North Indian, Chinese, South Indian, Chinese",2,3.7,472
+Ranchi,"North Indian, Continental",1,3.4,62
+Ranchi,"North Indian, Continental, Chinese",1,3.2,51
+Ranchi,"North Indian, South Indian, Chinese",3,3.3333333333333335,106
+Ranchi,Pizza,1,3.5,66
+Ranchi,"South Indian, North Indian, Chinese",1,3.7,92
+Ranchi,Street Food,1,3.5,112
+Randburg,Cafe,1,4.3,618
+Rest of Hawaii,American,1,3.9,232
+Rest of Hawaii,"American, Asian, Burger",1,4.6,1078
+Rest of Hawaii,"American, Breakfast, Hawaiian",1,4.2,694
+Rest of Hawaii,"American, Hawaiian",1,4.5,695
+Rest of Hawaii,"American, Pizza, Bar Food",1,4.7,764
+Rest of Hawaii,Asian,1,4.6,723
+Rest of Hawaii,"Asian, Breakfast, Hawaiian",1,4.2,874
+Rest of Hawaii,"Asian, European, Seafood",1,4.2,531
+Rest of Hawaii,Breakfast,1,4.0,535
+Rest of Hawaii,"Breakfast, Burger",1,4.4,552
+Rest of Hawaii,Burger,1,4.2,485
+Rest of Hawaii,"Hawaiian, Seafood",1,4.9,1343
+Rest of Hawaii,"Hawaiian, Seafood, Steak",3,4.333333333333333,3255
+Rest of Hawaii,Japanese,1,4.9,602
+Rest of Hawaii,"Japanese, Seafood, Sushi",1,4.2,807
+Rest of Hawaii,Seafood,2,4.5,1178
+Rio de Janeiro,"Bakery, Sandwich, Brazilian",1,4.4,13
+Rio de Janeiro,"Bar Food, Brazilian",1,0.0,1
+Rio de Janeiro,"Beverages, Bar Food, Fast Food",1,4.5,29
+Rio de Janeiro,Brazilian,4,4.45,86
+Rio de Janeiro,"Brazilian, Bar Food",4,4.675,123
+Rio de Janeiro,"Brazilian, Healthy Food, Juices, Pizza",1,4.6,21
+Rio de Janeiro,"Brazilian, Seafood",1,4.2,8
+Rio de Janeiro,Burger,1,4.8,19
+Rio de Janeiro,"Desserts, Cafe",1,4.8,29
+Rio de Janeiro,Italian,1,4.0,5
+Rio de Janeiro,Japanese,1,4.6,25
+Rio de Janeiro,"Juices, Healthy Food",1,4.7,24
+Rio de Janeiro,Lebanese,1,4.2,11
+Rio de Janeiro,"Seafood, Bar Food, Brazilian",1,4.0,7
+San Juan City,Filipino,1,4.2,458
+San Juan City,Korean,1,4.3,223
+Sandton,"Contemporary, Burger, European",1,4.0,504
+Sandton,"Contemporary, Italian",1,4.8,542
+Sandton,"European, South African",1,4.6,892
+Sandton,"Grill, Steak, Burger, Sushi, Tapas",1,4.3,430
+Sandton,Italian,1,4.1,251
+Sandton,"Italian, Pizza",1,3.8,390
+Sandton,"Italian, Pizza, Beverages, Desserts, Grill, Seafood",1,4.4,499
+Sandton,Mediterranean,1,4.4,743
+Sandton,Mexican,2,4.25,1069
+Sandton,Steak,1,4.4,90
+Santa Rosa,"Cafe, American, Italian, Filipino",1,3.6,29
+Santa Rosa,"Italian, Pizza",1,4.0,72
+Savannah,American,1,4.1,558
+Savannah,"American, Bar Food",1,4.4,690
+Savannah,"American, Bar Food, Sandwich",1,3.7,747
+Savannah,"American, Breakfast",2,4.1,970
+Savannah,"American, Seafood, Southern",1,4.4,1803
+Savannah,"American, Seafood, Steak",1,3.8,566
+Savannah,"American, Southern",1,4.5,1014
+Savannah,"Breakfast, Cajun",1,4.1,802
+Savannah,"Breakfast, Diner, Sandwich",1,4.3,710
+Savannah,"Breakfast, Vegetarian",1,4.2,680
+Savannah,Burger,1,4.7,906
+Savannah,"Cafe, Sandwich, Southern",1,4.3,719
+Savannah,"Coffee and Tea, Desserts",1,4.3,456
+Savannah,"Desserts, Sandwich, Ice Cream",1,4.6,880
+Savannah,"International, Mediterranean, Sandwich",1,4.5,796
+Savannah,"Pizza, Seafood, Steak",1,4.0,687
+Savannah,Seafood,1,3.8,883
+Savannah,Southern,1,3.3,1201
+Secunderabad,"Cafe, Continental",1,4.6,1408
+Secunderabad,"North Indian, Chinese",1,4.4,494
+Sharjah,"African, Portuguese",1,4.2,265
+Sharjah,"American, Mexican",1,3.9,357
+Sharjah,"American, Mexican, Burger",1,4.1,197
+Sharjah,"Arabian, Middle Eastern",1,4.2,444
+Sharjah,"Bakery, Arabian, Middle Eastern",1,4.2,142
+Sharjah,Cafe,1,4.2,43
+Sharjah,"Cafe, Bakery, Desserts",1,4.5,143
+Sharjah,"Chinese, Thai",1,3.8,227
+Sharjah,"Fast Food, American",1,4.1,33
+Sharjah,"Fast Food, Burger",1,3.8,12
+Sharjah,"Fast Food, Pizza",1,2.4,154
+Sharjah,"Indian, Mughlai, South Indian, Biryani",1,4.1,372
+Sharjah,"Indian, North Indian",1,4.8,459
+Sharjah,"Indian, North Indian, Chinese",1,4.3,316
+Sharjah,"Indian, North Indian, South Indian, Chinese",1,3.9,285
+Sharjah,Lebanese,1,3.9,69
+Sharjah,"Pakistani, Chinese, Indian, Afghani",1,4.1,192
+Sharjah,"Pakistani, Indian",1,4.1,449
+Sharjah,"Pakistani, Indian, Mughlai",1,4.2,504
+Sharjah,South Indian,1,3.8,210
+Singapore,American,1,3.1,34
+Singapore,"American, Bakery, European, Burger, Fusion",1,3.8,28
+Singapore,"American, Japanese, Singaporean",1,3.2,30
+Singapore,"American, Mexican",1,3.2,30
+Singapore,"American, Steak",1,4.0,33
+Singapore,"Asian, Continental, Seafood",1,3.8,30
+Singapore,Bakery,1,4.2,29
+Singapore,Cafe,1,3.7,33
+Singapore,"Cafe, Spanish, Turkish, Greek",1,3.2,33
+Singapore,"Chinese, Continental, Singaporean",1,3.4,34
+Singapore,"Chinese, Seafood, Cantonese, Dim Sum",1,3.9,34
+Singapore,Finger Food,1,3.9,35
+Singapore,French,2,3.8499999999999996,68
+Singapore,"French, Mediterranean, European",1,3.8,33
+Singapore,Italian,1,4.1,35
+Singapore,"Italian, French, Bakery, Cafe",1,3.2,29
+Singapore,"Singaporean, Australian, German",1,3.1,33
+Singapore,"Singaporean, Chinese, Seafood, Malay, Indian",1,3.0,25
+Singapore,"Western, Fusion, Fast Food",1,3.2,32
+Sioux City,American,1,3.7,122
+Sioux City,"American, Desserts, Diner",1,3.9,161
+Sioux City,"American, Fast Food",1,3.8,195
+Sioux City,"American, Pizza, Bar Food",1,3.6,92
+Sioux City,"American, Seafood, Steak",2,3.6,204
+Sioux City,"Asian, Chinese",1,3.6,94
+Sioux City,"Asian, Thai, Vegetarian",1,4.0,303
+Sioux City,"Asian, Vegetarian, Vietnamese",1,3.8,182
+Sioux City,BBQ,1,3.6,76
+Sioux City,Burger,1,3.7,97
+Sioux City,"Burger, Seafood, Steak",1,3.7,100
+Sioux City,"Caribbean, Mexican, Cajun",1,3.8,187
+Sioux City,Chinese,1,3.8,129
+Sioux City,Italian,1,4.0,271
+Sioux City,"Japanese, Steak, Sushi",1,3.9,239
+Sioux City,"Japanese, Sushi",1,3.7,129
+Sioux City,Mexican,1,3.7,117
+Sioux City,Pizza,2,3.9,458
+Surat,"Cafe, Continental",1,4.0,223
+Surat,"Cafe, Desserts",1,3.9,28
+Surat,Chinese,1,4.2,197
+Surat,"Chinese, North Indian, Italian, Mexican",1,3.8,201
+Surat,"Chinese, Thai, Asian",2,3.8,435
+Surat,Gujarati,1,3.9,153
+Surat,"Ice Cream, Desserts",1,3.6,87
+Surat,"Italian, Continental, Chinese, Mexican",1,4.1,204
+Surat,"Italian, Lebanese, Mexican",1,3.6,66
+Surat,"Italian, Mexican, Mediterranean",1,4.2,319
+Surat,"Italian, North Indian, Desserts, Continental",1,4.1,164
+Surat,"Lebanese, Italian",1,4.3,479
+Surat,Modern Indian,1,3.4,47
+Surat,"North Indian, Chinese, Thai, Mexican, Italian",1,3.9,191
+Surat,"North Indian, Italian",1,4.1,221
+Surat,"North Indian, Italian, Mexican, Asian",1,3.8,87
+Surat,Pizza,1,4.1,216
+Surat,South Indian,2,4.05,349
+Sí£o Paulo,"BBQ, Grill, Brazilian",1,4.3,39
+Sí£o Paulo,"Beverages, International",1,4.8,59
+Sí£o Paulo,Brazilian,3,1.3666666666666665,17
+Sí£o Paulo,"Brazilian, Bar Food, Beverages",1,4.6,58
+Sí£o Paulo,"Brazilian, Grill",1,3.9,5
+Sí£o Paulo,"Brazilian, Italian",1,4.3,46
+Sí£o Paulo,"Brazilian, Mineira",1,0.0,2
+Sí£o Paulo,"Brazilian, North Eastern",1,4.4,22
+Sí£o Paulo,French,1,3.4,73
+Sí£o Paulo,"French, Brazilian, Beverages",1,4.6,30
+Sí£o Paulo,"Gourmet Fast Food, Burger",1,4.3,68
+Sí£o Paulo,Indian,1,3.1,5
+Sí£o Paulo,Italian,1,4.4,37
+Sí£o Paulo,"Italian, Pizza",1,4.5,49
+Sí£o Paulo,"Lebanese, Arabian",1,4.1,11
+Sí£o Paulo,"Steak, BBQ",1,4.4,17
+Sí£o Paulo,Sushi,1,3.9,12
+Sí£o Paulo,"Sushi, Japanese",1,3.5,9
+Tagaytay City,Filipino,1,4.5,211
+Taguig City,"American, Asian, Italian, Seafood",1,4.5,618
+Taguig City,"Cafe, Bakery, American, Italian",1,4.4,392
+Taguig City,"Cafe, Korean, Desserts",1,4.5,118
+Taguig City,"Seafood, American, Mediterranean, Japanese",1,4.7,535
+Tampa Bay,"American, Burger",1,4.4,803
+Tampa Bay,"American, Desserts, Steak",1,4.7,3157
+Tampa Bay,"American, Italian, Seafood",1,4.1,921
+Tampa Bay,"American, Seafood, Steak",1,4.2,1363
+Tampa Bay,"BBQ, Caribbean, Seafood",1,4.6,1321
+Tampa Bay,Breakfast,1,3.9,665
+Tampa Bay,"Breakfast, Mexican",1,4.5,1203
+Tampa Bay,"Breakfast, Spanish, Tapas",1,4.4,1007
+Tampa Bay,"British, Bar Food, Sandwich",1,4.1,1020
+Tampa Bay,"Cuban, Spanish",1,4.4,1746
+Tampa Bay,"Desserts, Bar Food",1,4.7,3074
+Tampa Bay,"European, German",1,4.9,1413
+Tampa Bay,International,1,3.9,373
+Tampa Bay,"International, Italian, Southern",1,4.8,1715
+Tampa Bay,"Italian, Deli",1,4.9,1424
+Tampa Bay,"Latin American, Mexican, Southwestern",1,4.6,1629
+Tampa Bay,"Mexican, Vegetarian",1,4.5,1868
+Tampa Bay,"Sandwich, Seafood, Steak",1,4.5,844
+Tampa Bay,"Seafood, Steak",1,4.0,875
+Tampa Bay,"Spanish, Tapas",1,4.1,986
+Tangerang,Indonesian,1,3.7,155
+Tangerang,"Sunda, Indonesian",1,4.9,2212
+Tanunda,"Modern Australian, Australian",1,4.4,339
+Trentham East,Australian,1,4.1,87
+Vadodara,Cafe,2,4.25,224
+Vadodara,"Cafe, Fast Food",1,3.9,145
+Vadodara,"Cafe, Mexican, Italian, Fast Food",1,3.8,71
+Vadodara,"Continental, Chinese, Mexican, North Indian",1,3.8,149
+Vadodara,Fast Food,1,3.9,50
+Vadodara,Gujarati,1,4.0,191
+Vadodara,Italian,1,4.1,202
+Vadodara,"Italian, Mexican, Continental",1,4.4,276
+Vadodara,"Mediterranean, Italian",1,4.6,321
+Vadodara,"Mughlai, North Indian",1,4.3,332
+Vadodara,North Indian,1,3.5,82
+Vadodara,"North Indian, Chinese",1,3.8,130
+Vadodara,"North Indian, Continental, Italian, Asian",1,4.0,93
+Vadodara,"North Indian, Mughlai",1,3.9,243
+Vadodara,"North Indian, Mughlai, Mexican, Thai",1,4.1,395
+Vadodara,"North Indian, Thai, Italian, Chinese, Mexican",1,3.5,96
+Vadodara,"Pizza, Italian",1,4.1,269
+Vadodara,South Indian,1,4.5,344
+Vadodara,"Thai, Chinese, Asian",1,3.8,107
+Valdosta,American,1,3.7,209
+Valdosta,"American, Southern",1,3.9,243
+Valdosta,"Asian, Chinese, Thai",1,3.8,185
+Valdosta,BBQ,1,4.1,575
+Valdosta,Bar Food,1,3.4,98
+Valdosta,"Burger, Bar Food, Vegetarian",1,3.8,281
+Valdosta,"Burger, Seafood, Steak",1,3.7,216
+Valdosta,"Fast Food, Seafood",1,3.7,137
+Valdosta,"Greek, Italian",1,3.8,221
+Valdosta,"Indian, Middle Eastern",1,3.8,245
+Valdosta,Italian,1,3.7,183
+Valdosta,"Japanese, Steak, Sushi",1,3.5,208
+Valdosta,"Japanese, Sushi",1,3.9,262
+Valdosta,Mexican,4,3.525,496
+Valdosta,"Pizza, Sandwich",1,3.7,185
+Valdosta,"Seafood, Southern",1,3.9,231
+Valdosta,Southern,1,3.8,225
+Varanasi,Beverages,1,3.7,96
+Varanasi,Cafe,1,3.4,59
+Varanasi,"Cafe, North Indian, Chinese",1,3.2,26
+Varanasi,"Cafe, North Indian, Continental",1,3.3,34
+Varanasi,Chinese,1,3.5,172
+Varanasi,"Chinese, North Indian",3,3.4,226
+Varanasi,"Japanese, American, North Indian, Fast Food",1,3.5,83
+Varanasi,North Indian,2,3.5,164
+Varanasi,"North Indian, Cafe",1,3.4,85
+Varanasi,"North Indian, Fast Food",1,3.4,96
+Varanasi,"North Indian, Mughlai",2,3.45,130
+Varanasi,"Pizza, Chinese",1,3.7,149
+Varanasi,South Indian,2,3.55,173
+Varanasi,Street Food,2,3.9499999999999997,236
+Vernonia,"Coffee and Tea, Mediterranean",1,4.3,88
+Victor Harbor,"Coffee and Tea, Tapas, Australian",1,3.6,96
+Vineland Station,"Italian, Mediterranean, Pizza",1,4.3,204
+Vizag,"American, North Indian, Thai, Continental",1,3.8,74
+Vizag,"Andhra, North Indian, Chinese",1,3.5,124
+Vizag,"Andhra, North Indian, Chinese, Seafood, Biryani",1,3.6,154
+Vizag,"Biryani, Andhra",1,4.0,169
+Vizag,"Burger, Pizza, Biryani",1,4.3,172
+Vizag,"Cafe, Fast Food, American",1,3.8,27
+Vizag,"Cafe, North Indian, Chinese",1,3.7,85
+Vizag,"Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese",1,4.4,73
+Vizag,"Continental, North Indian",1,4.1,125
+Vizag,"Continental, Seafood, Chinese, North Indian, Biryani",1,3.6,193
+Vizag,Fast Food,2,3.75,232
+Vizag,Italian,1,4.4,316
+Vizag,"Mughlai, Chinese, Cafe, BBQ, Cajun",1,3.6,84
+Vizag,"North Indian, Biryani",1,3.7,240
+Vizag,"North Indian, Chinese, Mediterranean",1,4.9,345
+Vizag,"Pizza, Fast Food",2,4.449999999999999,519
+Vizag,"South Indian, Chinese, Continental, Italian, North Indian",1,4.1,75
+Vizag,"South Indian, North Indian",1,4.2,270
+Waterloo,American,1,3.6,86
+Waterloo,"American, BBQ, Steak",1,3.6,93
+Waterloo,"American, Bar Food",1,3.7,101
+Waterloo,"American, Breakfast",1,3.6,69
+Waterloo,"American, Italian, Seafood",1,3.6,89
+Waterloo,"Asian, Chinese",1,3.7,113
+Waterloo,"Burger, Pizza, Sandwich",1,3.6,80
+Waterloo,Chinese,2,3.75,209
+Waterloo,"Coffee and Tea, Desserts, Beverages",1,3.7,136
+Waterloo,Desserts,1,3.9,190
+Waterloo,"Indian, Middle Eastern",1,3.2,18
+Waterloo,"Italian, Pizza, Vegetarian",1,3.7,134
+Waterloo,"Japanese, Steak, Sushi",1,3.9,156
+Waterloo,"Japanese, Sushi",1,3.8,175
+Waterloo,Mexican,2,3.6,173
+Waterloo,"Pizza, Sandwich",1,3.6,89
+Waterloo,"Sandwich, Sushi, Tapas",1,3.6,114
+Waterloo,Thai,1,3.5,58
+Weirton,"Burger, Greek, Sandwich",1,3.9,156
+Wellington City,American,2,4.1,230
+Wellington City,Asian,1,4.3,143
+Wellington City,Cafe,3,4.333333333333333,431
+Wellington City,"Cafe, European, Mexican",1,4.4,242
+Wellington City,"Cafe, Kiwi",1,4.3,127
+Wellington City,"Cafe, Kiwi, Ice Cream, Desserts",1,4.0,94
+Wellington City,European,1,4.3,141
+Wellington City,"European, Cafe",1,4.2,113
+Wellington City,Fast Food,1,4.5,195
+Wellington City,"French, Kiwi",1,4.4,125
+Wellington City,Italian,1,4.5,152
+Wellington City,"Italian, Cafe",1,4.2,170
+Wellington City,"Japanese, Asian",1,3.7,131
+Wellington City,Malaysian,1,4.4,161
+Wellington City,"Mediterranean, Cafe, European",1,4.2,146
+Wellington City,"Seafood, Kiwi",1,4.1,229
+Wellington City,"Vietnamese, Fish and Chips",1,4.3,96
+Winchester Bay,"Burger, Seafood, Steak",1,3.2,16
+Yorkton,Asian,1,3.3,26
+ÛÁstanbul,Bar Food,1,4.9,522
+ÛÁstanbul,"Burger, Izgara",1,4.3,870
+ÛÁstanbul,Cafe,3,4.466666666666667,2394
+ÛÁstanbul,Desserts,1,4.7,1311
+ÛÁstanbul,"Desserts, Bí_rek",1,4.7,1305
+ÛÁstanbul,"Italian, World Cuisine",1,3.7,661
+ÛÁstanbul,Restaurant Cafe,2,3.85,1407
+ÛÁstanbul,"Restaurant Cafe, Desserts",1,4.2,874
+ÛÁstanbul,"Restaurant Cafe, Turkish, Desserts",1,4.2,877
+ÛÁstanbul,Turkish,1,4.1,788
+ÛÁstanbul,"World Cuisine, Patisserie, Cafe",1,4.2,1034
