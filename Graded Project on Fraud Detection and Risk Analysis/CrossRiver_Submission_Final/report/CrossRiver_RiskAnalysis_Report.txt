@@ -1,0 +1,49 @@
+
+Cross River Bank – Fraud & Risk Analysis Report
+================================================
+
+STRUCTURED DATA INSIGHTS (MySQL)
+---------------------------------
+1. High-Risk Customers:
+   - Identified customers with low credit scores (<600) and high default risk.
+   - Require tighter scrutiny and possible revised loan conditions.
+
+2. Loan Purpose Summary:
+   - Top loan purposes and disbursed amounts ranked to align financial products with demand.
+
+3. High-Value Transactions:
+   - Transactions exceeding 30% of the approved loan amount flagged for review.
+
+4. Loyal Customers:
+   - Customers active for over 5 years listed as ideal candidates for loyalty rewards.
+
+5. Credit Score vs Loan Amount:
+   - Clear relation observed between credit tiers and average loan amounts.
+
+6. Age-wise Loan Distribution:
+   - Insights into which age brackets take larger loans – useful for demographic targeting.
+
+UNSTRUCTURED DATA INSIGHTS (MongoDB / JSON)
+--------------------------------------------
+1. Missed Payment Count:
+   - Customers with repeated 'Missed Payment' actions identified from behavior logs.
+
+2. Feedback Sentiment Analysis:
+   - Average sentiment score per customer calculated.
+   - Negative feedback and complaint escalation patterns identified.
+
+3. Composite Risk Scoring:
+   - Composite score = MissedPayments×2 + (1 - SentimentScore)×3 + Escalations
+   - Top 20 risky customers identified with detailed risk parameters.
+
+RECOMMENDATIONS
+----------------
+- Automate monitoring of high-value transactions and IP-location mismatches.
+- Develop custom retention strategies for loyal but low-risk customers.
+- Improve customer support for those with repeated escalations and complaints.
+- Integrate sentiment and behavior patterns into fraud detection workflows.
+
+GitHub Repository (to be uploaded): Include SQL scripts, Python notebook, and this report.
+
+Prepared by: [Your Name]
+Date: [Auto-generated]
